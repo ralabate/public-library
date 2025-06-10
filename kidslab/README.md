@@ -5,7 +5,7 @@
 - [ ] Player Projectile Images
 - [ ] Barrel Images
 - [ ] Explosion Images
-- [ ] Lab Computer Screensaver Images
+- [x] Lab Computer Screensaver Images
 - [ ] Floating Eyeball Monster Images
 - [ ] Slime Monster Images
 - [ ] Slime Monster Projectile Images
