@@ -1,0 +1,68 @@
+[gd_scene load_steps=10 format=4 uid="uid://bhxfb4obv0x0r"]
+
+[ext_resource type="Script" uid="uid://d16wf7mv38fpx" path="res://addons/func_godot/src/map/func_godot_map.gd" id="1_a6b36"]
+[ext_resource type="PackedScene" uid="uid://r0agos3dx780" path="res://player/player.tscn" id="1_lkd6j"]
+[ext_resource type="Resource" uid="uid://bkhxcqsquw1yg" path="res://addons/func_godot/func_godot_default_map_settings.tres" id="2_335jw"]
+[ext_resource type="Material" uid="uid://bxgcnwyn60nw3" path="res://level/textures/special/default_texture.tres" id="3_335jw"]
+
+[sub_resource type="NavigationMesh" id="NavigationMesh_s65ib"]
+cell_height = 0.5
+agent_height = 2.0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_ofrd3"]
+_surfaces = [{
+"aabb": AABB(-4, 0, -4, 8, 1e-05, 8),
+"attribute_data": PackedByteArray("AAAAwAAAAMAAAABAAAAAwAAAAEAAAABAAAAAwAAAAEA="),
+"format": 34359742487,
+"index_count": 6,
+"index_data": PackedByteArray("AAABAAIAAAACAAMA"),
+"material": ExtResource("3_335jw"),
+"name": "special/default_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 4,
+"vertex_data": PackedByteArray("AACAQAAAAAAAAIDAAACAQAAAAAAAAIBAAACAwAAAAAAAAIBAAACAwAAAAAAAAIDA/3////9//7//f////3//v/9/////f/+//3////9//78=")
+}]
+
+[sub_resource type="ArrayOccluder3D" id="ArrayOccluder3D_fwjvf"]
+vertices = PackedVector3Array(4, 0, -4, 4, 0, 4, -4, 0, 4, -4, 0, -4)
+indices = PackedInt32Array(0, 1, 2, 0, 2, 3)
+
+[sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_v1bs4"]
+points = PackedVector3Array(-4, 0, -4, -4, -0.5, -4, 4, -0.5, -4, 4, 0, -4, -4, 0, 4, -4, -0.5, 4, 4, -0.5, 4, 4, 0, 4)
+
+[sub_resource type="Environment" id="Environment_w72v2"]
+ambient_light_source = 2
+
+[node name="Level0" type="Node3D"]
+
+[node name="NavigationRegion3D" type="NavigationRegion3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0)
+navigation_mesh = SubResource("NavigationMesh_s65ib")
+metadata/_edit_lock_ = true
+
+[node name="FuncGodotMap" type="Node3D" parent="NavigationRegion3D"]
+script = ExtResource("1_a6b36")
+local_map_file = "uid://b3unni28pbd1p"
+map_settings = ExtResource("2_335jw")
+metadata/_custom_type_script = "uid://d16wf7mv38fpx"
+
+[node name="entity_0_worldspawn" type="StaticBody3D" parent="NavigationRegion3D/FuncGodotMap"]
+collision_mask = 0
+
+[node name="entity_0_mesh_instance" type="MeshInstance3D" parent="NavigationRegion3D/FuncGodotMap/entity_0_worldspawn"]
+mesh = SubResource("ArrayMesh_ofrd3")
+
+[node name="entity_0_occluder_instance" type="OccluderInstance3D" parent="NavigationRegion3D/FuncGodotMap/entity_0_worldspawn"]
+occluder = SubResource("ArrayOccluder3D_fwjvf")
+
+[node name="entity_0_brush_0_collision_shape" type="CollisionShape3D" parent="NavigationRegion3D/FuncGodotMap/entity_0_worldspawn"]
+shape = SubResource("ConvexPolygonShape3D_v1bs4")
+
+[node name="FirstPersonController" parent="." instance=ExtResource("1_lkd6j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.4, 0)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_w72v2")
+
+[editable path="FirstPersonController"]
