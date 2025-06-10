@@ -1,0 +1,53 @@
+[gd_scene load_steps=11 format=3 uid="uid://dqdbukk1qgu"]
+
+[ext_resource type="Script" uid="uid://c2tw82n75mcff" path="res://player/weapons/vfx/explosion.gd" id="1_5pj0u"]
+[ext_resource type="Texture2D" uid="uid://b8dgyhe2b1un5" path="res://level/explosion/explosion.0001.png" id="1_rwgce"]
+[ext_resource type="Texture2D" uid="uid://cvyrsl58bja0x" path="res://level/explosion/explosion.0002.png" id="2_dtwrn"]
+[ext_resource type="Texture2D" uid="uid://dhsaqwpoboh1r" path="res://level/explosion/explosion.0005.png" id="5_dlrkk"]
+[ext_resource type="Texture2D" uid="uid://c25i3ljtxd4ns" path="res://level/explosion/explosion.0006.png" id="6_vyiuh"]
+[ext_resource type="Texture2D" uid="uid://cg0usc5dknsv8" path="res://level/explosion/explosion.0009.png" id="9_4jweb"]
+[ext_resource type="Texture2D" uid="uid://dwtr34cte3lvv" path="res://level/explosion/explosion.0010.png" id="10_ga7y0"]
+[ext_resource type="Texture2D" uid="uid://dyjvuqkjkaubl" path="res://level/explosion/explosion.0011.png" id="11_gdqcg"]
+[ext_resource type="Texture2D" uid="uid://dw0o8nood502e" path="res://level/explosion/explosion.0012.png" id="12_r5s7o"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_e15wp"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_rwgce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_dtwrn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_dlrkk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_vyiuh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_4jweb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_ga7y0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_gdqcg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_r5s7o")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="Explosion" type="Node3D"]
+script = ExtResource("1_5pj0u")
+
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+unique_name_in_owner = true
+billboard = 1
+double_sided = false
+texture_filter = 0
+sprite_frames = SubResource("SpriteFrames_e15wp")

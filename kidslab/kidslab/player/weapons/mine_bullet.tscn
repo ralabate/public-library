@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://clj2kgl355ryn"]
+
+[ext_resource type="Script" uid="uid://cjv5dso0dv240" path="res://player/weapons/bullet.gd" id="1_sy2g1"]
+[ext_resource type="PackedScene" uid="uid://brnxv2baowehj" path="res://player/weapons/mine.tscn" id="2_sy2g1"]
+[ext_resource type="Texture2D" uid="uid://oa373ppexlen" path="res://level/barrel/barrel.0001.png" id="3_sy2g1"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_rtl8c"]
+radius = 0.319399
+
+[node name="MineBullet" type="Area3D"]
+collision_layer = 2
+collision_mask = 13
+script = ExtResource("1_sy2g1")
+speed = 75.0
+damage = 0
+apply_gravity = true
+spawn_on_collision = ExtResource("2_sy2g1")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("SphereShape3D_rtl8c")
+
+[node name="Sprite3D" type="Sprite3D" parent="."]
+billboard = 1
+double_sided = false
+texture_filter = 0
+texture = ExtResource("3_sy2g1")

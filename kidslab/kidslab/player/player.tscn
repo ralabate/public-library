@@ -1,0 +1,86 @@
+[gd_scene load_steps=15 format=3 uid="uid://r0agos3dx780"]
+
+[ext_resource type="Script" uid="uid://docgf5x4voevf" path="res://player/player.gd" id="1_s7qer"]
+[ext_resource type="Script" uid="uid://bund4vdf4u4yo" path="res://common/components/health_component.gd" id="2_g4c7l"]
+[ext_resource type="Script" uid="uid://dt1p48op4tcvu" path="res://common/components/trigger_fire_component.gd" id="3_knn7v"]
+[ext_resource type="PackedScene" uid="uid://ddrgx7hx1ypm1" path="res://player/weapons/bullet.tscn" id="4_7pqkx"]
+[ext_resource type="Script" uid="uid://b5g5owk8uw2u2" path="res://common/components/universal_ammo_component.gd" id="5_uw77l"]
+[ext_resource type="Script" uid="uid://d0dbewhb72jh2" path="res://common/components/ability_inventory_component.gd" id="6_rptt4"]
+[ext_resource type="PackedScene" uid="uid://lbmsr1hnoc77" path="res://player/weapons/decoy_bullet.tscn" id="7_r7pn3"]
+[ext_resource type="PackedScene" uid="uid://clj2kgl355ryn" path="res://player/weapons/mine_bullet.tscn" id="8_b8hi5"]
+[ext_resource type="PackedScene" uid="uid://bjdsn54t3kwwb" path="res://player/weapons/lightning_bullet.tscn" id="9_2uvqg"]
+[ext_resource type="Script" uid="uid://bpdw05fio7u8e" path="res://common/components/key_inventory_component.gd" id="10_1s1yo"]
+[ext_resource type="PackedScene" uid="uid://bst5vkdgn78gb" path="res://player/ui/hud.tscn" id="11_2ieo8"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_21lqr"]
+height = 1.8
+
+[sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_vtoyx"]
+points = PackedVector3Array(0, 0, 0, -5, 0, -100, 5, 0, -100, -5, 50, -100, 5, 50, -100)
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_2ieo8"]
+radius = 50.0
+
+[node name="Player" type="CharacterBody3D"]
+collision_layer = 2
+collision_mask = 3
+script = ExtResource("1_s7qer")
+
+[node name="HealthComponent" type="Node" parent="."]
+unique_name_in_owner = true
+script = ExtResource("2_g4c7l")
+MAX_HEALTH = 100
+metadata/_custom_type_script = "uid://bund4vdf4u4yo"
+
+[node name="TriggerFireComponent" type="Node" parent="." node_paths=PackedStringArray("autoaim_region")]
+unique_name_in_owner = true
+script = ExtResource("3_knn7v")
+projectile_template = ExtResource("4_7pqkx")
+vertical_offset = 0.25
+autoaim_region = NodePath("../AutoAimRegion")
+metadata/_custom_type_script = "uid://dt1p48op4tcvu"
+
+[node name="UniversalAmmoComponent" type="Node" parent="."]
+unique_name_in_owner = true
+script = ExtResource("5_uw77l")
+amount = 10
+metadata/_custom_type_script = "uid://b5g5owk8uw2u2"
+
+[node name="AbilityInventory" type="Node" parent="."]
+unique_name_in_owner = true
+script = ExtResource("6_rptt4")
+abilities = Array[PackedScene]([ExtResource("7_r7pn3"), ExtResource("8_b8hi5"), ExtResource("9_2uvqg")])
+ammo_required = Array[int]([5, 5, 10])
+metadata/_custom_type_script = "uid://d0dbewhb72jh2"
+
+[node name="KeyInventoryComponent" type="Node" parent="."]
+unique_name_in_owner = true
+script = ExtResource("10_1s1yo")
+metadata/_custom_type_script = "uid://bpdw05fio7u8e"
+
+[node name="Camera3D" type="Camera3D" parent="."]
+unique_name_in_owner = true
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.7, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("CapsuleShape3D_21lqr")
+debug_color = Color(0, 0.6, 0.701961, 1)
+
+[node name="AutoAimRegion" type="Area3D" parent="."]
+collision_layer = 2
+collision_mask = 4
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="AutoAimRegion"]
+shape = SubResource("ConvexPolygonShape3D_vtoyx")
+
+[node name="AudioAlertRegion" type="Area3D" parent="."]
+unique_name_in_owner = true
+collision_layer = 2
+collision_mask = 4
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="AudioAlertRegion"]
+shape = SubResource("CylinderShape3D_2ieo8")
+debug_color = Color(0.71736, 0.253555, 1, 0.42)
+
+[node name="HUD" parent="." instance=ExtResource("11_2ieo8")]
+unique_name_in_owner = true

@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://lbmsr1hnoc77"]
+
+[ext_resource type="Script" uid="uid://cjv5dso0dv240" path="res://player/weapons/bullet.gd" id="1_2apx1"]
+[ext_resource type="PackedScene" uid="uid://dj3m0gkysy4q1" path="res://player/weapons/decoy.tscn" id="2_3hwky"]
+[ext_resource type="Texture2D" uid="uid://btqbpe0iasi6d" path="res://player/weapons/images/decoy.png" id="2_pihaa"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_rtl8c"]
+radius = 0.319399
+
+[node name="DecoyBullet" type="Area3D"]
+collision_layer = 2
+collision_mask = 13
+script = ExtResource("1_2apx1")
+speed = 75.0
+apply_gravity = true
+spawn_on_collision = ExtResource("2_3hwky")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("SphereShape3D_rtl8c")
+
+[node name="Sprite3D" type="Sprite3D" parent="."]
+billboard = 1
+shaded = true
+double_sided = false
+texture_filter = 0
+texture = ExtResource("2_pihaa")

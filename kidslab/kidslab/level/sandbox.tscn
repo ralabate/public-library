@@ -1,0 +1,45 @@
+[gd_scene load_steps=5 format=3 uid="uid://3tl8ud1pa4hd"]
+
+[ext_resource type="PackedScene" uid="uid://gr20nusvexfk" path="res://badguys/base_badguy.tscn" id="2_qtybr"]
+[ext_resource type="PackedScene" uid="uid://r0agos3dx780" path="res://player/player.tscn" id="7_xvgw2"]
+
+[sub_resource type="NavigationMesh" id="NavigationMesh_s65ib"]
+vertices = PackedVector3Array(-4.25, 2.5, -13.35, -4.25, 2.5, -5.35, 4.5, 2.5, -5.35, 4.5, 2.5, -13.35, -4.25, -0.5, -4.35, -4.25, -0.5, 4.4, 4.5, -0.5, 4.4, 4.5, -0.5, -4.35)
+polygons = [PackedInt32Array(3, 2, 0), PackedInt32Array(0, 2, 1), PackedInt32Array(7, 6, 4), PackedInt32Array(4, 6, 5)]
+cell_height = 0.5
+agent_height = 2.0
+
+[sub_resource type="Environment" id="Environment_w72v2"]
+ambient_light_source = 2
+
+[node name="Level0" type="Node3D"]
+
+[node name="NavigationRegion3D" type="NavigationRegion3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0)
+navigation_mesh = SubResource("NavigationMesh_s65ib")
+metadata/_edit_lock_ = true
+
+[node name="CSGCombiner3D" type="CSGCombiner3D" parent="NavigationRegion3D"]
+use_collision = true
+metadata/_edit_lock_ = true
+
+[node name="OriginRoom" type="CSGBox3D" parent="NavigationRegion3D/CSGCombiner3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.5, 0)
+flip_faces = true
+size = Vector3(10, 10, 10)
+
+[node name="OriginRoom2" type="CSGBox3D" parent="NavigationRegion3D/CSGCombiner3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.05, -9.1)
+flip_faces = true
+size = Vector3(10, 6.9, 10)
+
+[node name="FirstPersonController" parent="." instance=ExtResource("7_xvgw2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 4)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_w72v2")
+
+[node name="BaseBadguy" parent="." instance=ExtResource("2_qtybr")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.6, 1.19209e-07, -0.8)
+
+[editable path="FirstPersonController"]
