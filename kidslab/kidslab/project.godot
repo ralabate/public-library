@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Kids Lab"
-run/main_scene="uid://3tl8ud1pa4hd"
+run/main_scene="uid://bhxfb4obv0x0r"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 

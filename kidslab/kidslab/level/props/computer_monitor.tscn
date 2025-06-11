@@ -1,0 +1,257 @@
+[gd_scene load_steps=62 format=3 uid="uid://d3r7ipu8jwdli"]
+
+[ext_resource type="Texture2D" uid="uid://b2irsw6t0v3kn" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0001.png" id="1_kme4i"]
+[ext_resource type="Texture2D" uid="uid://dskovubub7fep" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0002.png" id="2_b623b"]
+[ext_resource type="Texture2D" uid="uid://61qfte1l1hcq" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0003.png" id="3_ml76d"]
+[ext_resource type="Texture2D" uid="uid://bcer1tujsiexo" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0004.png" id="4_i6y3n"]
+[ext_resource type="Texture2D" uid="uid://m3lt777a40e" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0005.png" id="5_tbw2h"]
+[ext_resource type="Texture2D" uid="uid://dox8g0ucrnq5c" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0006.png" id="6_jhbo0"]
+[ext_resource type="Texture2D" uid="uid://dk72keb402lx3" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0007.png" id="7_aytdw"]
+[ext_resource type="Texture2D" uid="uid://cap3d7icu538i" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0008.png" id="8_jdnv2"]
+[ext_resource type="Texture2D" uid="uid://qnk7bxkvswri" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0009.png" id="9_ixbbu"]
+[ext_resource type="Texture2D" uid="uid://dbrkakno012tq" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0010.png" id="10_njl8e"]
+[ext_resource type="Texture2D" uid="uid://78xqswo2kbrc" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0011.png" id="11_557da"]
+[ext_resource type="Texture2D" uid="uid://bu5gb6hm8rv3u" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0012.png" id="12_ann4g"]
+[ext_resource type="Texture2D" uid="uid://velraqmqurkk" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0013.png" id="13_0x5v4"]
+[ext_resource type="Texture2D" uid="uid://c7hom213pyf8i" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0014.png" id="14_2wlwe"]
+[ext_resource type="Texture2D" uid="uid://63owhxau377t" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0015.png" id="15_ypma5"]
+[ext_resource type="Texture2D" uid="uid://be4t1eb31xcuo" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0016.png" id="16_kfkqy"]
+[ext_resource type="Texture2D" uid="uid://brgt7jayed8r0" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0017.png" id="17_ijclx"]
+[ext_resource type="Texture2D" uid="uid://bt8owny8i0i88" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0018.png" id="18_2bej8"]
+[ext_resource type="Texture2D" uid="uid://xoe6lsknmvv0" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0019.png" id="19_mnaej"]
+[ext_resource type="Texture2D" uid="uid://7cs5pcweajue" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0020.png" id="20_iy1gb"]
+[ext_resource type="Texture2D" uid="uid://do6iiumcmamvr" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0021.png" id="21_0gryh"]
+[ext_resource type="Texture2D" uid="uid://dcgf5q6cyhuyk" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0022.png" id="22_3d1gn"]
+[ext_resource type="Texture2D" uid="uid://bvo25ovt8yd33" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0023.png" id="23_6x3kw"]
+[ext_resource type="Texture2D" uid="uid://qleud4bjpv1s" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0024.png" id="24_s0jkx"]
+[ext_resource type="Texture2D" uid="uid://dtwb74nin3fcv" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0025.png" id="25_t8ggr"]
+[ext_resource type="Texture2D" uid="uid://b0m0784cygxsd" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0026.png" id="26_u7v7x"]
+[ext_resource type="Texture2D" uid="uid://drivygjm8jhh6" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0027.png" id="27_1psg8"]
+[ext_resource type="Texture2D" uid="uid://d4cncp1k34hpi" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0028.png" id="28_cv5w1"]
+[ext_resource type="Texture2D" uid="uid://dat5jtm3rtf0h" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0029.png" id="29_006e8"]
+[ext_resource type="Texture2D" uid="uid://b67w41ja2chy7" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0030.png" id="30_ylg18"]
+[ext_resource type="Texture2D" uid="uid://dina6txddcawe" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0031.png" id="31_rve12"]
+[ext_resource type="Texture2D" uid="uid://boex4mr3i55hb" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0032.png" id="32_g0sf2"]
+[ext_resource type="Texture2D" uid="uid://b0mh0tx7wcmvy" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0033.png" id="33_ianit"]
+[ext_resource type="Texture2D" uid="uid://bpqmaegatbxme" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0034.png" id="34_fak6t"]
+[ext_resource type="Texture2D" uid="uid://bh1qdclllhklx" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0035.png" id="35_3sv7v"]
+[ext_resource type="Texture2D" uid="uid://d18lky378xtwy" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0036.png" id="36_c76g2"]
+[ext_resource type="Texture2D" uid="uid://cc80trub1rdgc" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0037.png" id="37_7v0s8"]
+[ext_resource type="Texture2D" uid="uid://cpi5dlj1tynuk" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0038.png" id="38_3h6ny"]
+[ext_resource type="Texture2D" uid="uid://b68wcln7ws87g" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0039.png" id="39_qi4e0"]
+[ext_resource type="Texture2D" uid="uid://cs1btoplkb2bl" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0040.png" id="40_otqwc"]
+[ext_resource type="Texture2D" uid="uid://c5w6yvn0isdsq" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0041.png" id="41_xm3kg"]
+[ext_resource type="Texture2D" uid="uid://cyx2h46cdeiih" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0042.png" id="42_n2hpe"]
+[ext_resource type="Texture2D" uid="uid://b14va1xoj54ja" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0043.png" id="43_wa4ux"]
+[ext_resource type="Texture2D" uid="uid://bk4uyucqg1ll3" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0044.png" id="44_ycoxa"]
+[ext_resource type="Texture2D" uid="uid://b78vqmwx0fgsk" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0045.png" id="45_uafep"]
+[ext_resource type="Texture2D" uid="uid://u4m71o03u1rr" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0046.png" id="46_lu2cy"]
+[ext_resource type="Texture2D" uid="uid://c4sxxeowphrbo" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0047.png" id="47_d8kdy"]
+[ext_resource type="Texture2D" uid="uid://fttrd1h30aws" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0048.png" id="48_gsp6d"]
+[ext_resource type="Texture2D" uid="uid://b0rbl03yomirj" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0049.png" id="49_x8xxj"]
+[ext_resource type="Texture2D" uid="uid://8gwxuyvw7ggq" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0050.png" id="50_smhj1"]
+[ext_resource type="Texture2D" uid="uid://c0p4hllpqta7s" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0051.png" id="51_ubxpe"]
+[ext_resource type="Texture2D" uid="uid://dx323j6aj5klj" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0052.png" id="52_jqsg7"]
+[ext_resource type="Texture2D" uid="uid://vau8lc2m10j0" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0053.png" id="53_d7g6r"]
+[ext_resource type="Texture2D" uid="uid://0cppxaighcvy" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0054.png" id="54_axglk"]
+[ext_resource type="Texture2D" uid="uid://cqwa7jvllpeej" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0055.png" id="55_t61im"]
+[ext_resource type="Texture2D" uid="uid://bwgsqo56xxnxa" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0056.png" id="56_1cqmu"]
+[ext_resource type="Texture2D" uid="uid://dvw03d30ukl66" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0057.png" id="57_hjtny"]
+[ext_resource type="Texture2D" uid="uid://biiqqb0w83ajg" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0058.png" id="58_1xx14"]
+[ext_resource type="Texture2D" uid="uid://ffh37e7uot2s" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0059.png" id="59_dhr5a"]
+[ext_resource type="Texture2D" uid="uid://dvxtkub35osk3" path="res://images/computer_monitor_dendrites_128_128/computer_monitor_dendrites_128_128.0060.png" id="60_2uxvr"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ltohr"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_kme4i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_b623b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ml76d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_i6y3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_tbw2h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_jhbo0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_aytdw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_jdnv2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_ixbbu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_njl8e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_557da")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ann4g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_0x5v4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_2wlwe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_ypma5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_kfkqy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_ijclx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_2bej8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_mnaej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_iy1gb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_0gryh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_3d1gn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_6x3kw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_s0jkx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_t8ggr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_u7v7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_1psg8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_cv5w1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_006e8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_ylg18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_rve12")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_g0sf2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_ianit")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_fak6t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_3sv7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_c76g2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_7v0s8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_3h6ny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_qi4e0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_otqwc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_xm3kg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_n2hpe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_wa4ux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_ycoxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_uafep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_lu2cy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_d8kdy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_gsp6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_x8xxj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_smhj1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_ubxpe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_jqsg7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_d7g6r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_axglk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_t61im")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_1cqmu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_hjtny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_1xx14")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_dhr5a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_2uxvr")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="ComputerMonitor" type="Node3D"]
+
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+sprite_frames = SubResource("SpriteFrames_ltohr")
+autoplay = "default"
+frame_progress = 0.641098
