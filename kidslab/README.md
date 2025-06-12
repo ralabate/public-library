@@ -1,3 +1,5 @@
+![styleguide](kidslab_style_guide.jpg)
+
 - [ ] Red Key Images
 - [ ] Blue Key Images
 - [ ] Green Key Images
