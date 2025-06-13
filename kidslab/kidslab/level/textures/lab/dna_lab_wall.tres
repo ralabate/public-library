@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://oxb2lrslkdgb"]
+
+[ext_resource type="Texture2D" uid="uid://bhjfpafgc0vxv" path="res://level/textures/lab/dna_lab_wall.png" id="1_pudev"]
+
+[resource]
+albedo_texture = ExtResource("1_pudev")
+metallic_specular = 0.0
+texture_filter = 2
