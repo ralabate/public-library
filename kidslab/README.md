@@ -1,4 +1,5 @@
 ![styleguide](kidslab_style_guide.jpg)
+![monsters](kidslab_monster_guide.jpg)
 
 - [ ] Red Key Images
 - [ ] Blue Key Images
