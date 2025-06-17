@@ -1,0 +1,1221 @@
+[gd_scene load_steps=302 format=3 uid="uid://dmpojpr7nfc3h"]
+
+[ext_resource type="Texture2D" uid="uid://dyu4d5y01ox7s" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0001.tga" id="1_4t7o3"]
+[ext_resource type="Texture2D" uid="uid://dhke75hlqpp5t" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0002.tga" id="2_wxfqm"]
+[ext_resource type="Texture2D" uid="uid://b7nh0da6q1572" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0003.tga" id="3_ekyoc"]
+[ext_resource type="Texture2D" uid="uid://bm5semqqwm0xd" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0004.tga" id="4_ejtma"]
+[ext_resource type="Texture2D" uid="uid://b1andb3t2twna" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0005.tga" id="5_7a6df"]
+[ext_resource type="Texture2D" uid="uid://clh1k6ghju4fd" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0006.tga" id="6_hq4q6"]
+[ext_resource type="Texture2D" uid="uid://bntdtaguewroc" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0007.tga" id="7_qtt2r"]
+[ext_resource type="Texture2D" uid="uid://s1igfmf5i7y0" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0008.tga" id="8_p2hn8"]
+[ext_resource type="Texture2D" uid="uid://bnl8we0o0gde8" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0009.tga" id="9_f835x"]
+[ext_resource type="Texture2D" uid="uid://ccywin0hod3ll" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0010.tga" id="10_dpnbh"]
+[ext_resource type="Texture2D" uid="uid://b23slaoy587dc" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0011.tga" id="11_32oas"]
+[ext_resource type="Texture2D" uid="uid://bkd7wc031wgym" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0012.tga" id="12_svc1j"]
+[ext_resource type="Texture2D" uid="uid://53wi44enjh2w" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0013.tga" id="13_3rix0"]
+[ext_resource type="Texture2D" uid="uid://dbcwo48xrl2qg" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0014.tga" id="14_m6w5o"]
+[ext_resource type="Texture2D" uid="uid://02b6de2muibf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0015.tga" id="15_rq62i"]
+[ext_resource type="Texture2D" uid="uid://rs4h8h8pkul8" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0016.tga" id="16_8rcjf"]
+[ext_resource type="Texture2D" uid="uid://cki8bptb3srns" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0017.tga" id="17_xcmr6"]
+[ext_resource type="Texture2D" uid="uid://dxdtq5062ij4y" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0018.tga" id="18_o4x8v"]
+[ext_resource type="Texture2D" uid="uid://cnk1dkyn4qq5o" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0019.tga" id="19_fyvxy"]
+[ext_resource type="Texture2D" uid="uid://dr8oyxt0bhy6m" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0020.tga" id="20_t4tim"]
+[ext_resource type="Texture2D" uid="uid://couu2fu4k3sf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0021.tga" id="21_gh7vc"]
+[ext_resource type="Texture2D" uid="uid://31ocl2xesbtc" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0022.tga" id="22_6j18c"]
+[ext_resource type="Texture2D" uid="uid://ddn2xlswg2hwr" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0023.tga" id="23_hg8dg"]
+[ext_resource type="Texture2D" uid="uid://dtpkxuobpax3t" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0024.tga" id="24_ng3ux"]
+[ext_resource type="Texture2D" uid="uid://bg5n0pvukvom1" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0025.tga" id="25_ypehs"]
+[ext_resource type="Texture2D" uid="uid://bqpfktatrreq4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0026.tga" id="26_gut1m"]
+[ext_resource type="Texture2D" uid="uid://w2oc2ctmwip3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0027.tga" id="27_mmqm3"]
+[ext_resource type="Texture2D" uid="uid://bjsl34snujsyr" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0028.tga" id="28_xscj3"]
+[ext_resource type="Texture2D" uid="uid://b6n4cbb7lccf4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0029.tga" id="29_1vm5d"]
+[ext_resource type="Texture2D" uid="uid://ducpdsya2nfbp" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0030.tga" id="30_ae1mq"]
+[ext_resource type="Texture2D" uid="uid://bcnyystguhcp1" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0031.tga" id="31_6bfvi"]
+[ext_resource type="Texture2D" uid="uid://coktr73847ikl" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0032.tga" id="32_pyetd"]
+[ext_resource type="Texture2D" uid="uid://c35nfflnm2c7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0033.tga" id="33_msxfx"]
+[ext_resource type="Texture2D" uid="uid://bi6mywe0g2svy" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0034.tga" id="34_emsdp"]
+[ext_resource type="Texture2D" uid="uid://bnetruh7qucub" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0035.tga" id="35_gfw1f"]
+[ext_resource type="Texture2D" uid="uid://cpt8g4q7u7g32" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0036.tga" id="36_b2v2e"]
+[ext_resource type="Texture2D" uid="uid://dk7w4tjbqdof7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0037.tga" id="37_64puh"]
+[ext_resource type="Texture2D" uid="uid://dugt35j3dwo1l" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0038.tga" id="38_5ueun"]
+[ext_resource type="Texture2D" uid="uid://cnnq026trvfss" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0039.tga" id="39_l7ojh"]
+[ext_resource type="Texture2D" uid="uid://d3i8dvoeyybta" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0040.tga" id="40_6ajdk"]
+[ext_resource type="Texture2D" uid="uid://cu5bv6qkx0itr" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0041.tga" id="41_ivllq"]
+[ext_resource type="Texture2D" uid="uid://cexfjmdfddews" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0042.tga" id="42_q4inn"]
+[ext_resource type="Texture2D" uid="uid://bewtxdghintk0" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0043.tga" id="43_8du8k"]
+[ext_resource type="Texture2D" uid="uid://cki1r6vyvbgo3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0044.tga" id="44_ibel6"]
+[ext_resource type="Texture2D" uid="uid://bku84qjvvceei" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0045.tga" id="45_bxasm"]
+[ext_resource type="Texture2D" uid="uid://cnvnhm11wjtt4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0046.tga" id="46_y40ep"]
+[ext_resource type="Texture2D" uid="uid://b8wd1j46ucbl5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0047.tga" id="47_w0ide"]
+[ext_resource type="Texture2D" uid="uid://qryajgyue4sy" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0048.tga" id="48_8bm1t"]
+[ext_resource type="Texture2D" uid="uid://cu57lmbnsomss" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0049.tga" id="49_ri31i"]
+[ext_resource type="Texture2D" uid="uid://dlq45frxonv8i" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0050.tga" id="50_pooux"]
+[ext_resource type="Texture2D" uid="uid://w2dqm3w6l7vi" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0051.tga" id="51_nsl7e"]
+[ext_resource type="Texture2D" uid="uid://cws04vjnfk2a4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0052.tga" id="52_ma87n"]
+[ext_resource type="Texture2D" uid="uid://hsirkfe8ee" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0053.tga" id="53_stgk6"]
+[ext_resource type="Texture2D" uid="uid://40afgglt65d3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0054.tga" id="54_dxxvb"]
+[ext_resource type="Texture2D" uid="uid://ren35xx4g0xs" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0055.tga" id="55_uy2rc"]
+[ext_resource type="Texture2D" uid="uid://548jl6xyu23" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0056.tga" id="56_nyc1a"]
+[ext_resource type="Texture2D" uid="uid://clq1w3ytfg4q1" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0057.tga" id="57_w7po2"]
+[ext_resource type="Texture2D" uid="uid://dxe2ympbj4clt" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0058.tga" id="58_wadqd"]
+[ext_resource type="Texture2D" uid="uid://cektrm7bdq7b0" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0059.tga" id="59_s33ba"]
+[ext_resource type="Texture2D" uid="uid://bh1gwionjsxer" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0060.tga" id="60_h5xiy"]
+[ext_resource type="Texture2D" uid="uid://0kpfwgvyr7uj" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0061.tga" id="61_yya42"]
+[ext_resource type="Texture2D" uid="uid://dh28o2cdftmsr" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0062.tga" id="62_uooqb"]
+[ext_resource type="Texture2D" uid="uid://num7dadcr6y3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0063.tga" id="63_fn147"]
+[ext_resource type="Texture2D" uid="uid://bjx3p8gth5oiv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0064.tga" id="64_41rq5"]
+[ext_resource type="Texture2D" uid="uid://bttpxxsjxg8q0" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0065.tga" id="65_2470p"]
+[ext_resource type="Texture2D" uid="uid://du4fxhd0ehgl5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0066.tga" id="66_1vwsh"]
+[ext_resource type="Texture2D" uid="uid://dbs8ajwijq8tv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0067.tga" id="67_1vvaf"]
+[ext_resource type="Texture2D" uid="uid://cd2gm1fv1wbkl" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0068.tga" id="68_bcul2"]
+[ext_resource type="Texture2D" uid="uid://co5qaqixjuddo" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0069.tga" id="69_mfhf2"]
+[ext_resource type="Texture2D" uid="uid://b8g6yq7g2xjhw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0070.tga" id="70_5fn1k"]
+[ext_resource type="Texture2D" uid="uid://cblq7oafainuw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0071.tga" id="71_dm613"]
+[ext_resource type="Texture2D" uid="uid://cpm8tp2yfong0" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0072.tga" id="72_28vog"]
+[ext_resource type="Texture2D" uid="uid://benqc07xvyw8a" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0073.tga" id="73_i7e8x"]
+[ext_resource type="Texture2D" uid="uid://bndo41k2vf5qn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0074.tga" id="74_r7yra"]
+[ext_resource type="Texture2D" uid="uid://dedoo20pcfnj" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0075.tga" id="75_c3gn1"]
+[ext_resource type="Texture2D" uid="uid://cy8chgi1pn035" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0076.tga" id="76_wf7f2"]
+[ext_resource type="Texture2D" uid="uid://by7vedy83i2rw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0077.tga" id="77_hss0a"]
+[ext_resource type="Texture2D" uid="uid://cwpjqbu5rsr68" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0078.tga" id="78_jvgk7"]
+[ext_resource type="Texture2D" uid="uid://2day62mtp24r" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0079.tga" id="79_svc6h"]
+[ext_resource type="Texture2D" uid="uid://bwsfls7yrsgv8" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0080.tga" id="80_sk6w0"]
+[ext_resource type="Texture2D" uid="uid://b4w17aine23fx" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0081.tga" id="81_cflap"]
+[ext_resource type="Texture2D" uid="uid://btypcrui6kapv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0082.tga" id="82_16ka6"]
+[ext_resource type="Texture2D" uid="uid://wumpgj1kqfgx" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0083.tga" id="83_7704u"]
+[ext_resource type="Texture2D" uid="uid://dpk2uib5th6hv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0084.tga" id="84_alb71"]
+[ext_resource type="Texture2D" uid="uid://bg61mncyqhhr1" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0085.tga" id="85_4hfds"]
+[ext_resource type="Texture2D" uid="uid://bgxgfnbjbue7w" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0086.tga" id="86_op8qk"]
+[ext_resource type="Texture2D" uid="uid://12s41audq014" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0087.tga" id="87_uf4f6"]
+[ext_resource type="Texture2D" uid="uid://72427rgfgdc7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0088.tga" id="88_ih3gg"]
+[ext_resource type="Texture2D" uid="uid://ep2v3hv4ctxt" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0089.tga" id="89_ewpvh"]
+[ext_resource type="Texture2D" uid="uid://3guev5fpwamm" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0090.tga" id="90_m6kpi"]
+[ext_resource type="Texture2D" uid="uid://br4b3ury35nis" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0091.tga" id="91_7eo85"]
+[ext_resource type="Texture2D" uid="uid://ckd7xevyucfnm" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0092.tga" id="92_ds8n4"]
+[ext_resource type="Texture2D" uid="uid://bd6y6jieg8cu" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0093.tga" id="93_1m0nl"]
+[ext_resource type="Texture2D" uid="uid://ca681ae34fteo" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0094.tga" id="94_nqmax"]
+[ext_resource type="Texture2D" uid="uid://nsm3uli7p1cf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0095.tga" id="95_qs6kf"]
+[ext_resource type="Texture2D" uid="uid://lco6cyxsop3q" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0096.tga" id="96_6wjil"]
+[ext_resource type="Texture2D" uid="uid://dcrm4o53n03x8" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0097.tga" id="97_shaqq"]
+[ext_resource type="Texture2D" uid="uid://qooh72t0oy07" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0098.tga" id="98_o6m55"]
+[ext_resource type="Texture2D" uid="uid://cic8mqkst25yf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0099.tga" id="99_b71vb"]
+[ext_resource type="Texture2D" uid="uid://lsiniag6ivtu" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0100.tga" id="100_hcasy"]
+[ext_resource type="Texture2D" uid="uid://cixksosaedlla" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0101.tga" id="101_cdxar"]
+[ext_resource type="Texture2D" uid="uid://nrrr1g2aepx2" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0102.tga" id="102_ix8pr"]
+[ext_resource type="Texture2D" uid="uid://bti7fh5ttn03h" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0103.tga" id="103_4y5wx"]
+[ext_resource type="Texture2D" uid="uid://i6e55gxv1xg4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0104.tga" id="104_jsy66"]
+[ext_resource type="Texture2D" uid="uid://dylsg22qnf8dg" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0105.tga" id="105_lrv8q"]
+[ext_resource type="Texture2D" uid="uid://cxetnak1d2w16" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0106.tga" id="106_yc6cn"]
+[ext_resource type="Texture2D" uid="uid://dvak0upp5y5di" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0107.tga" id="107_d8ewn"]
+[ext_resource type="Texture2D" uid="uid://p64ttci7uevk" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0108.tga" id="108_3lcad"]
+[ext_resource type="Texture2D" uid="uid://bq43scduy708l" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0109.tga" id="109_1qr8t"]
+[ext_resource type="Texture2D" uid="uid://dsfq2xj1m3g1j" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0110.tga" id="110_auoox"]
+[ext_resource type="Texture2D" uid="uid://cby154jxawlua" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0111.tga" id="111_gr6al"]
+[ext_resource type="Texture2D" uid="uid://crsy6356x6olg" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0112.tga" id="112_ruixr"]
+[ext_resource type="Texture2D" uid="uid://bgepseyuucx8m" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0113.tga" id="113_lyri6"]
+[ext_resource type="Texture2D" uid="uid://bg7awond8y4gf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0114.tga" id="114_5ka8d"]
+[ext_resource type="Texture2D" uid="uid://mglmkqv8xpi3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0115.tga" id="115_0sny8"]
+[ext_resource type="Texture2D" uid="uid://cusihjq15hyij" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0116.tga" id="116_br47m"]
+[ext_resource type="Texture2D" uid="uid://cmywpn7dw0yxq" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0117.tga" id="117_vf4td"]
+[ext_resource type="Texture2D" uid="uid://5lx7fjb75o28" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0118.tga" id="118_v7oof"]
+[ext_resource type="Texture2D" uid="uid://gcb65kbf4jmr" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0119.tga" id="119_3autm"]
+[ext_resource type="Texture2D" uid="uid://d4mta60c3oyit" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0120.tga" id="120_0cedv"]
+[ext_resource type="Texture2D" uid="uid://cjw71uhalgy4o" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0121.tga" id="121_hpl0f"]
+[ext_resource type="Texture2D" uid="uid://w1p447jcud2k" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0122.tga" id="122_0hpr6"]
+[ext_resource type="Texture2D" uid="uid://27v0uet3tjhq" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0123.tga" id="123_goj5h"]
+[ext_resource type="Texture2D" uid="uid://cisapfk71cfd5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0124.tga" id="124_qpu8y"]
+[ext_resource type="Texture2D" uid="uid://7lxaml175clj" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0125.tga" id="125_ftgoi"]
+[ext_resource type="Texture2D" uid="uid://6cdhy6re7hh6" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0126.tga" id="126_ptayv"]
+[ext_resource type="Texture2D" uid="uid://3akotbetc2y4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0127.tga" id="127_4bofx"]
+[ext_resource type="Texture2D" uid="uid://cd4ypul5u5415" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0128.tga" id="128_t83jc"]
+[ext_resource type="Texture2D" uid="uid://dvcg44ad77sbh" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0129.tga" id="129_0l1ol"]
+[ext_resource type="Texture2D" uid="uid://8ud3up0qrk05" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0130.tga" id="130_8gbw3"]
+[ext_resource type="Texture2D" uid="uid://bau251mwkjb3n" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0131.tga" id="131_s3d8a"]
+[ext_resource type="Texture2D" uid="uid://d30olaksf56w5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0132.tga" id="132_sdq4c"]
+[ext_resource type="Texture2D" uid="uid://bkpyje37ie15o" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0133.tga" id="133_78xbi"]
+[ext_resource type="Texture2D" uid="uid://p5scqyey1vh4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0134.tga" id="134_5rnbi"]
+[ext_resource type="Texture2D" uid="uid://cfkal6143b2a4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0135.tga" id="135_32cvt"]
+[ext_resource type="Texture2D" uid="uid://vigtgjtiwv2b" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0136.tga" id="136_2jf8y"]
+[ext_resource type="Texture2D" uid="uid://cun82fu8s8wo8" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0137.tga" id="137_o85o4"]
+[ext_resource type="Texture2D" uid="uid://d27sg0qekler8" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0138.tga" id="138_3oaej"]
+[ext_resource type="Texture2D" uid="uid://ls2iruo45l3e" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0139.tga" id="139_1qak8"]
+[ext_resource type="Texture2D" uid="uid://btq5d8odski80" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0140.tga" id="140_gaxs2"]
+[ext_resource type="Texture2D" uid="uid://chfyrywwrhh8s" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0141.tga" id="141_14j0t"]
+[ext_resource type="Texture2D" uid="uid://bqt4jicrvyc2t" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0142.tga" id="142_q25q6"]
+[ext_resource type="Texture2D" uid="uid://mmv8p2jmbdrq" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0143.tga" id="143_i1am5"]
+[ext_resource type="Texture2D" uid="uid://cp7iqm8py4yfx" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0144.tga" id="144_237d1"]
+[ext_resource type="Texture2D" uid="uid://d2nrqsp8x4s7m" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0145.tga" id="145_i1nh5"]
+[ext_resource type="Texture2D" uid="uid://ctovclxbtirce" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0146.tga" id="146_kyfxp"]
+[ext_resource type="Texture2D" uid="uid://w6qks0swa87j" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0147.tga" id="147_pa6tb"]
+[ext_resource type="Texture2D" uid="uid://ctrr0emeos4oq" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0148.tga" id="148_brej1"]
+[ext_resource type="Texture2D" uid="uid://cupgeaalj3akw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0149.tga" id="149_yewx0"]
+[ext_resource type="Texture2D" uid="uid://crd2slo3lsdqr" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0150.tga" id="150_dt5by"]
+[ext_resource type="Texture2D" uid="uid://sqb8ssfhv63i" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0151.tga" id="151_0khes"]
+[ext_resource type="Texture2D" uid="uid://dtaolxcigtr1t" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0152.tga" id="152_17dc0"]
+[ext_resource type="Texture2D" uid="uid://c0dx50o8bh2r4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0153.tga" id="153_5bqcx"]
+[ext_resource type="Texture2D" uid="uid://dd7w6ypcpy7hk" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0154.tga" id="154_l541j"]
+[ext_resource type="Texture2D" uid="uid://b20xj7ymb0kwx" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0155.tga" id="155_gffii"]
+[ext_resource type="Texture2D" uid="uid://v1pp7i1esvyg" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0156.tga" id="156_c2by7"]
+[ext_resource type="Texture2D" uid="uid://bchnxvbqx6tqn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0157.tga" id="157_j6enj"]
+[ext_resource type="Texture2D" uid="uid://c2qvj0kxb26do" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0158.tga" id="158_8gpmm"]
+[ext_resource type="Texture2D" uid="uid://cij171l8ea7v5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0159.tga" id="159_1gowe"]
+[ext_resource type="Texture2D" uid="uid://w8vdedw1m6uu" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0160.tga" id="160_bcaub"]
+[ext_resource type="Texture2D" uid="uid://c5vlqgetp65x0" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0161.tga" id="161_4nccs"]
+[ext_resource type="Texture2D" uid="uid://21ne8qa8moln" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0162.tga" id="162_m0xi8"]
+[ext_resource type="Texture2D" uid="uid://bor80l478l437" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0163.tga" id="163_br05a"]
+[ext_resource type="Texture2D" uid="uid://cbayfdea5us35" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0164.tga" id="164_dl874"]
+[ext_resource type="Texture2D" uid="uid://bv72de5hdscyn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0165.tga" id="165_vbchd"]
+[ext_resource type="Texture2D" uid="uid://pqou7gq23sg2" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0166.tga" id="166_4sykp"]
+[ext_resource type="Texture2D" uid="uid://cwegkft76k214" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0167.tga" id="167_mndpf"]
+[ext_resource type="Texture2D" uid="uid://d3h2o6nyuqbcx" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0168.tga" id="168_8oeav"]
+[ext_resource type="Texture2D" uid="uid://b1nrahnxqynqh" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0169.tga" id="169_2chbd"]
+[ext_resource type="Texture2D" uid="uid://c4fqfhtevmo84" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0170.tga" id="170_65npg"]
+[ext_resource type="Texture2D" uid="uid://c7hxr2r3xy7yf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0171.tga" id="171_gqono"]
+[ext_resource type="Texture2D" uid="uid://eilhgaih7goi" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0172.tga" id="172_pjlfy"]
+[ext_resource type="Texture2D" uid="uid://dxtigtqa8sbte" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0173.tga" id="173_snmd6"]
+[ext_resource type="Texture2D" uid="uid://3spvwqkp7v6f" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0174.tga" id="174_immps"]
+[ext_resource type="Texture2D" uid="uid://dncpfeqsj51p5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0175.tga" id="175_urdff"]
+[ext_resource type="Texture2D" uid="uid://biqskb0pleqls" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0176.tga" id="176_w76ue"]
+[ext_resource type="Texture2D" uid="uid://dfi0ebx8c3sed" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0177.tga" id="177_d63i6"]
+[ext_resource type="Texture2D" uid="uid://dy5b181l67d2o" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0178.tga" id="178_m1cen"]
+[ext_resource type="Texture2D" uid="uid://c2o7odb7tlew4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0179.tga" id="179_ewgm5"]
+[ext_resource type="Texture2D" uid="uid://dlqq70ddedx3u" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0180.tga" id="180_c5udb"]
+[ext_resource type="Texture2D" uid="uid://bq7bx8c5dmudn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0181.tga" id="181_1bs43"]
+[ext_resource type="Texture2D" uid="uid://dvrvaqilflk0w" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0182.tga" id="182_0wfy8"]
+[ext_resource type="Texture2D" uid="uid://qy1fce7rjivo" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0183.tga" id="183_1hjyd"]
+[ext_resource type="Texture2D" uid="uid://b2db7ks6fmkwg" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0184.tga" id="184_fn5kc"]
+[ext_resource type="Texture2D" uid="uid://cs6gqaosjr5m7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0185.tga" id="185_vbp8o"]
+[ext_resource type="Texture2D" uid="uid://de5unk6ls2vvq" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0186.tga" id="186_gup6n"]
+[ext_resource type="Texture2D" uid="uid://dk4sbfojul1hy" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0187.tga" id="187_jru2x"]
+[ext_resource type="Texture2D" uid="uid://imkliy0fk7c5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0188.tga" id="188_sespk"]
+[ext_resource type="Texture2D" uid="uid://cdc68q41b27a7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0189.tga" id="189_1gl5m"]
+[ext_resource type="Texture2D" uid="uid://dqhxqrl66vt2r" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0190.tga" id="190_bcj1x"]
+[ext_resource type="Texture2D" uid="uid://ndkwaxr8dtr6" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0191.tga" id="191_05kkv"]
+[ext_resource type="Texture2D" uid="uid://bf1ajxumig35p" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0192.tga" id="192_dfbqv"]
+[ext_resource type="Texture2D" uid="uid://ca2fvdtkjtqoh" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0193.tga" id="193_yecjp"]
+[ext_resource type="Texture2D" uid="uid://7wjv6btb3v7s" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0194.tga" id="194_1ho2m"]
+[ext_resource type="Texture2D" uid="uid://ba11mhng6ndfn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0195.tga" id="195_up0lp"]
+[ext_resource type="Texture2D" uid="uid://m4kk784k6dcn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0196.tga" id="196_hyybv"]
+[ext_resource type="Texture2D" uid="uid://ojid5f10fjl5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0197.tga" id="197_wutow"]
+[ext_resource type="Texture2D" uid="uid://w2rrrvevv1gv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0198.tga" id="198_cjd4w"]
+[ext_resource type="Texture2D" uid="uid://cvctufyx2no83" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0199.tga" id="199_k62ak"]
+[ext_resource type="Texture2D" uid="uid://b1qmsqt0nrvcv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0200.tga" id="200_o0chy"]
+[ext_resource type="Texture2D" uid="uid://bv0dp8sqn42wh" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0201.tga" id="201_encg8"]
+[ext_resource type="Texture2D" uid="uid://dh11e1e1sxdvg" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0202.tga" id="202_be38v"]
+[ext_resource type="Texture2D" uid="uid://baiptbgdekner" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0203.tga" id="203_1byr6"]
+[ext_resource type="Texture2D" uid="uid://bep7am65vpq32" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0204.tga" id="204_xdcbt"]
+[ext_resource type="Texture2D" uid="uid://hibifc040av3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0205.tga" id="205_e2u8j"]
+[ext_resource type="Texture2D" uid="uid://dpbfy0cwqh8q4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0206.tga" id="206_nccr5"]
+[ext_resource type="Texture2D" uid="uid://clfdds2vmqidt" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0207.tga" id="207_hlci5"]
+[ext_resource type="Texture2D" uid="uid://mew3wlahx8h7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0208.tga" id="208_addhx"]
+[ext_resource type="Texture2D" uid="uid://4sln6yln48yk" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0209.tga" id="209_wb16y"]
+[ext_resource type="Texture2D" uid="uid://dfucml20ef2um" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0210.tga" id="210_5my0k"]
+[ext_resource type="Texture2D" uid="uid://ckop5xr4u32cm" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0211.tga" id="211_kux3t"]
+[ext_resource type="Texture2D" uid="uid://dlenuio2f7xja" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0212.tga" id="212_lco20"]
+[ext_resource type="Texture2D" uid="uid://dqrycdhldyjc" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0213.tga" id="213_v4mwf"]
+[ext_resource type="Texture2D" uid="uid://cak2ppyb30800" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0214.tga" id="214_ljbh0"]
+[ext_resource type="Texture2D" uid="uid://c0jn52dxa7vh2" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0215.tga" id="215_6yu6f"]
+[ext_resource type="Texture2D" uid="uid://bfebuod5auch7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0216.tga" id="216_6y0qe"]
+[ext_resource type="Texture2D" uid="uid://cjd8am2ygkon7" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0217.tga" id="217_snrun"]
+[ext_resource type="Texture2D" uid="uid://c051hdy5pynjw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0218.tga" id="218_ifa8p"]
+[ext_resource type="Texture2D" uid="uid://c6nemxx6b6gex" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0219.tga" id="219_uup5a"]
+[ext_resource type="Texture2D" uid="uid://b82tx0wucwftu" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0220.tga" id="220_xohp0"]
+[ext_resource type="Texture2D" uid="uid://c77pvqa7qr6gi" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0221.tga" id="221_uarri"]
+[ext_resource type="Texture2D" uid="uid://bjevp144thhtw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0222.tga" id="222_60ifg"]
+[ext_resource type="Texture2D" uid="uid://b5lfwc21cjoye" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0223.tga" id="223_oocdp"]
+[ext_resource type="Texture2D" uid="uid://ba68aocof5mqf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0224.tga" id="224_2d4gj"]
+[ext_resource type="Texture2D" uid="uid://b30gs2m5o0fg6" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0225.tga" id="225_mu0eb"]
+[ext_resource type="Texture2D" uid="uid://kcs3wki4n0st" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0226.tga" id="226_0p3yh"]
+[ext_resource type="Texture2D" uid="uid://x33wkmrngtpf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0227.tga" id="227_0c4eb"]
+[ext_resource type="Texture2D" uid="uid://cd2xtnedted5y" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0228.tga" id="228_y4rfi"]
+[ext_resource type="Texture2D" uid="uid://1fnjw7yrnnrd" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0229.tga" id="229_1yqgl"]
+[ext_resource type="Texture2D" uid="uid://ch74bbrumo4v" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0230.tga" id="230_iu7jc"]
+[ext_resource type="Texture2D" uid="uid://dfwnagjs7b3st" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0231.tga" id="231_3ak0g"]
+[ext_resource type="Texture2D" uid="uid://doy6fh3esw1u4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0232.tga" id="232_3nn2k"]
+[ext_resource type="Texture2D" uid="uid://bvaa4ym4homvm" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0233.tga" id="233_b0tqh"]
+[ext_resource type="Texture2D" uid="uid://dwdf7rixs0krb" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0234.tga" id="234_csc3g"]
+[ext_resource type="Texture2D" uid="uid://cdgwqtxnx5ys2" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0235.tga" id="235_kxwr7"]
+[ext_resource type="Texture2D" uid="uid://cu86s6hb5yw78" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0236.tga" id="236_c1ha7"]
+[ext_resource type="Texture2D" uid="uid://cwq4fw5pfo83v" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0237.tga" id="237_3aou8"]
+[ext_resource type="Texture2D" uid="uid://cu5lct1fkq2j" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0238.tga" id="238_8kacb"]
+[ext_resource type="Texture2D" uid="uid://dqjceteelawwm" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0239.tga" id="239_0g26w"]
+[ext_resource type="Texture2D" uid="uid://7h1uajr4jfqk" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0240.tga" id="240_u3h00"]
+[ext_resource type="Texture2D" uid="uid://cf4fexon51rad" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0241.tga" id="241_uorwh"]
+[ext_resource type="Texture2D" uid="uid://n5itro6eidfs" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0242.tga" id="242_37rf3"]
+[ext_resource type="Texture2D" uid="uid://c2u4w2qujkv5e" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0243.tga" id="243_yy7d3"]
+[ext_resource type="Texture2D" uid="uid://cyjg41w0q2kru" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0244.tga" id="244_k1vmh"]
+[ext_resource type="Texture2D" uid="uid://djyyn72oe5ktw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0245.tga" id="245_m35hp"]
+[ext_resource type="Texture2D" uid="uid://b5lg6rlllfiy5" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0246.tga" id="246_n4y8r"]
+[ext_resource type="Texture2D" uid="uid://cpr366vqaa2yd" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0247.tga" id="247_x65pq"]
+[ext_resource type="Texture2D" uid="uid://dbshwkiy5jivb" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0248.tga" id="248_8t2ig"]
+[ext_resource type="Texture2D" uid="uid://db1b5nftnf1nt" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0249.tga" id="249_kc5n6"]
+[ext_resource type="Texture2D" uid="uid://cl24oegfpg8k2" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0250.tga" id="250_xflno"]
+[ext_resource type="Texture2D" uid="uid://cpg3wghp2fbu" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0251.tga" id="251_qfk0u"]
+[ext_resource type="Texture2D" uid="uid://h458t288hexg" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0252.tga" id="252_5e5ql"]
+[ext_resource type="Texture2D" uid="uid://c6xi11u7408wl" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0253.tga" id="253_cpcl0"]
+[ext_resource type="Texture2D" uid="uid://bl7yugprjxb4u" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0254.tga" id="254_38vnj"]
+[ext_resource type="Texture2D" uid="uid://dnslbjl5tr4uv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0255.tga" id="255_s3ilw"]
+[ext_resource type="Texture2D" uid="uid://d4iftti8b70k8" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0256.tga" id="256_518fd"]
+[ext_resource type="Texture2D" uid="uid://cho5u35hvbrlk" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0257.tga" id="257_wvpbo"]
+[ext_resource type="Texture2D" uid="uid://c4hdthm1ck855" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0258.tga" id="258_o05iv"]
+[ext_resource type="Texture2D" uid="uid://llen44v81f6" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0259.tga" id="259_k3a26"]
+[ext_resource type="Texture2D" uid="uid://dcbs6qaw8goyx" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0260.tga" id="260_1vtvn"]
+[ext_resource type="Texture2D" uid="uid://bvaa7b4h0f105" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0261.tga" id="261_ka00v"]
+[ext_resource type="Texture2D" uid="uid://cxpe4k5sh11t0" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0262.tga" id="262_p2ssf"]
+[ext_resource type="Texture2D" uid="uid://bs30s52pgv56" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0263.tga" id="263_trmgj"]
+[ext_resource type="Texture2D" uid="uid://bhg0abc0xo01j" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0264.tga" id="264_pmic3"]
+[ext_resource type="Texture2D" uid="uid://be046v6h8jxik" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0265.tga" id="265_4we4f"]
+[ext_resource type="Texture2D" uid="uid://fhjaqodcpbba" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0266.tga" id="266_ex2yf"]
+[ext_resource type="Texture2D" uid="uid://c8fs1bafs05yl" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0267.tga" id="267_r2b1e"]
+[ext_resource type="Texture2D" uid="uid://dr125ph0a3scn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0268.tga" id="268_6llvx"]
+[ext_resource type="Texture2D" uid="uid://dxalklr6js5gf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0269.tga" id="269_gtwlf"]
+[ext_resource type="Texture2D" uid="uid://b07dadhfrv61n" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0270.tga" id="270_ebtaq"]
+[ext_resource type="Texture2D" uid="uid://ue4433g7gjwi" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0271.tga" id="271_8xngr"]
+[ext_resource type="Texture2D" uid="uid://cbenf83xtj52d" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0272.tga" id="272_unfe7"]
+[ext_resource type="Texture2D" uid="uid://c3jawf8hxqmsc" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0273.tga" id="273_myo6h"]
+[ext_resource type="Texture2D" uid="uid://bkqih64ycb4l3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0274.tga" id="274_m1k1p"]
+[ext_resource type="Texture2D" uid="uid://br6p5ftka1r6l" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0275.tga" id="275_adxxg"]
+[ext_resource type="Texture2D" uid="uid://dov05e5yokbr1" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0276.tga" id="276_2r4h2"]
+[ext_resource type="Texture2D" uid="uid://byih8lqnggk1n" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0277.tga" id="277_hwncd"]
+[ext_resource type="Texture2D" uid="uid://cub3yprxkhfuw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0278.tga" id="278_1djp8"]
+[ext_resource type="Texture2D" uid="uid://cy67kk1606ybb" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0279.tga" id="279_2kfl8"]
+[ext_resource type="Texture2D" uid="uid://cejjvpqikd174" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0280.tga" id="280_gl8la"]
+[ext_resource type="Texture2D" uid="uid://dc1borlv7kx5c" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0281.tga" id="281_qmigp"]
+[ext_resource type="Texture2D" uid="uid://8pt0tjwam6yt" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0282.tga" id="282_rb4kd"]
+[ext_resource type="Texture2D" uid="uid://e35rqyh4vckk" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0283.tga" id="283_gc5mj"]
+[ext_resource type="Texture2D" uid="uid://bo6prcuh26vhs" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0284.tga" id="284_cb4r1"]
+[ext_resource type="Texture2D" uid="uid://wctxxoo2b2vv" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0285.tga" id="285_dmelu"]
+[ext_resource type="Texture2D" uid="uid://dw6th3it0jhbf" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0286.tga" id="286_n3t2y"]
+[ext_resource type="Texture2D" uid="uid://cc1w8rhow3pvi" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0287.tga" id="287_bpuqe"]
+[ext_resource type="Texture2D" uid="uid://ci4gywdn3vwkh" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0288.tga" id="288_fr4w3"]
+[ext_resource type="Texture2D" uid="uid://cxbdks5k7f5st" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0289.tga" id="289_5t71b"]
+[ext_resource type="Texture2D" uid="uid://cxhbm7ddj7k2o" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0290.tga" id="290_e0bh7"]
+[ext_resource type="Texture2D" uid="uid://ccvmtjyy2ght3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0291.tga" id="291_ovyq4"]
+[ext_resource type="Texture2D" uid="uid://bnwigfea2nusn" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0292.tga" id="292_2b5gl"]
+[ext_resource type="Texture2D" uid="uid://b1s43lfs7jsai" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0293.tga" id="293_cnv6d"]
+[ext_resource type="Texture2D" uid="uid://bee0rtu06jqaj" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0294.tga" id="294_8vhlx"]
+[ext_resource type="Texture2D" uid="uid://28eds23rsxho" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0295.tga" id="295_f01ui"]
+[ext_resource type="Texture2D" uid="uid://dqac2de8sexs3" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0296.tga" id="296_2n3rm"]
+[ext_resource type="Texture2D" uid="uid://datxe7apdwo48" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0297.tga" id="297_6s5y2"]
+[ext_resource type="Texture2D" uid="uid://dbxwnb643jxd4" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0298.tga" id="298_u81gn"]
+[ext_resource type="Texture2D" uid="uid://cdrw8b5cpggp" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0299.tga" id="299_tqonp"]
+[ext_resource type="Texture2D" uid="uid://djuj2ra4w6jlw" path="res://images/computer_monitor_dna_256_128/computer_monitor_dna_256_128.0300.tga" id="300_24cmp"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ltohr"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_4t7o3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_wxfqm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ekyoc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_ejtma")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_7a6df")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_hq4q6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_qtt2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_p2hn8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_f835x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_dpnbh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_32oas")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_svc1j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_3rix0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_m6w5o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_rq62i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_8rcjf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_xcmr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_o4x8v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_fyvxy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_t4tim")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_gh7vc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_6j18c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_hg8dg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_ng3ux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_ypehs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_gut1m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_mmqm3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_xscj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_1vm5d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_ae1mq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_6bfvi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_pyetd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_msxfx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_emsdp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_gfw1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_b2v2e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_64puh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_5ueun")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_l7ojh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_6ajdk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_ivllq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_q4inn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_8du8k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_ibel6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_bxasm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_y40ep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_w0ide")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_8bm1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_ri31i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_pooux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_nsl7e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_ma87n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_stgk6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_dxxvb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_uy2rc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_nyc1a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_w7po2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_wadqd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_s33ba")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_h5xiy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_yya42")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_uooqb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_fn147")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_41rq5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_2470p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_1vwsh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_1vvaf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_bcul2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_mfhf2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_5fn1k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_dm613")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_28vog")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_i7e8x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_r7yra")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_c3gn1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_wf7f2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_hss0a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_jvgk7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_svc6h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_sk6w0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_cflap")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_16ka6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_7704u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_alb71")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_4hfds")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_op8qk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_uf4f6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_ih3gg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_ewpvh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_m6kpi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_7eo85")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_ds8n4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_1m0nl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_nqmax")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_qs6kf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_6wjil")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_shaqq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_o6m55")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_b71vb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_hcasy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_cdxar")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_ix8pr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_4y5wx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_jsy66")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_lrv8q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_yc6cn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_d8ewn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_3lcad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_1qr8t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_auoox")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_gr6al")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_ruixr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_lyri6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_5ka8d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_0sny8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_br47m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_vf4td")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_v7oof")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_3autm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_0cedv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_hpl0f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_0hpr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_goj5h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_qpu8y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_ftgoi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_ptayv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_4bofx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_t83jc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_0l1ol")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_8gbw3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_s3d8a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_sdq4c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_78xbi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_5rnbi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_32cvt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_2jf8y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_o85o4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_3oaej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_1qak8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_gaxs2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_14j0t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_q25q6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_i1am5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_237d1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_i1nh5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_kyfxp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_pa6tb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_brej1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_yewx0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_dt5by")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_0khes")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_17dc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_5bqcx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_l541j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_gffii")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_c2by7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_j6enj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_8gpmm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_1gowe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_bcaub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_4nccs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_m0xi8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_br05a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_dl874")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_vbchd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_4sykp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_mndpf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_8oeav")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_2chbd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_65npg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_gqono")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_pjlfy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_snmd6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_immps")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_urdff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_w76ue")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_d63i6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_m1cen")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_ewgm5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_c5udb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_1bs43")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_0wfy8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_1hjyd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_fn5kc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_vbp8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_gup6n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_jru2x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_sespk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_1gl5m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_bcj1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_05kkv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_dfbqv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_yecjp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_1ho2m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_up0lp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_hyybv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_wutow")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_cjd4w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_k62ak")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_o0chy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_encg8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("202_be38v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("203_1byr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("204_xdcbt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("205_e2u8j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("206_nccr5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("207_hlci5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("208_addhx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("209_wb16y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("210_5my0k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("211_kux3t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("212_lco20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("213_v4mwf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("214_ljbh0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("215_6yu6f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("216_6y0qe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("217_snrun")
+}, {
+"duration": 1.0,
+"texture": ExtResource("218_ifa8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("219_uup5a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("220_xohp0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("221_uarri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("222_60ifg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("223_oocdp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("224_2d4gj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("225_mu0eb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("226_0p3yh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("227_0c4eb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("228_y4rfi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("229_1yqgl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("230_iu7jc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("231_3ak0g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("232_3nn2k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("233_b0tqh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("234_csc3g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("235_kxwr7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("236_c1ha7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("237_3aou8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("238_8kacb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("239_0g26w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("240_u3h00")
+}, {
+"duration": 1.0,
+"texture": ExtResource("241_uorwh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("242_37rf3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("243_yy7d3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("244_k1vmh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("245_m35hp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("246_n4y8r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("247_x65pq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("248_8t2ig")
+}, {
+"duration": 1.0,
+"texture": ExtResource("249_kc5n6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("250_xflno")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_qfk0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_5e5ql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("253_cpcl0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_38vnj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_s3ilw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_518fd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("257_wvpbo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("258_o05iv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("259_k3a26")
+}, {
+"duration": 1.0,
+"texture": ExtResource("260_1vtvn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("261_ka00v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("262_p2ssf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("263_trmgj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("264_pmic3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("265_4we4f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("266_ex2yf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("267_r2b1e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("268_6llvx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("269_gtwlf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("270_ebtaq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("271_8xngr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("272_unfe7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("273_myo6h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("274_m1k1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("275_adxxg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("276_2r4h2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("277_hwncd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("278_1djp8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("279_2kfl8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("280_gl8la")
+}, {
+"duration": 1.0,
+"texture": ExtResource("281_qmigp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("282_rb4kd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("283_gc5mj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("284_cb4r1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("285_dmelu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("286_n3t2y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("287_bpuqe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("288_fr4w3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("289_5t71b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("290_e0bh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("291_ovyq4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("292_2b5gl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("293_cnv6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("294_8vhlx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("295_f01ui")
+}, {
+"duration": 1.0,
+"texture": ExtResource("296_2n3rm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("297_6s5y2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("298_u81gn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("299_tqonp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("300_24cmp")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="ComputerMonitor" type="Node3D"]
+
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+pixel_size = 0.0312
+transparent = false
+double_sided = false
+texture_filter = 0
+sprite_frames = SubResource("SpriteFrames_ltohr")
+autoplay = "default"
+frame_progress = 0.708306

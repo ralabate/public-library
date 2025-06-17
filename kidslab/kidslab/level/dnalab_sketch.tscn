@@ -1,4 +1,4 @@
-[gd_scene load_steps=38 format=4 uid="uid://rmyptn6syyjw"]
+[gd_scene load_steps=39 format=4 uid="uid://rmyptn6syyjw"]
 
 [ext_resource type="Script" uid="uid://d16wf7mv38fpx" path="res://addons/func_godot/src/map/func_godot_map.gd" id="1_368hl"]
 [ext_resource type="Resource" uid="uid://bkhxcqsquw1yg" path="res://addons/func_godot/func_godot_default_map_settings.tres" id="2_pkq41"]
@@ -12,6 +12,7 @@
 [ext_resource type="Material" uid="uid://bvmmb8pjex5w3" path="res://level/textures/lab/dna_lab_tabletop.tres" id="9_5f67j"]
 [ext_resource type="PackedScene" uid="uid://r0agos3dx780" path="res://player/player.tscn" id="10_wqo2y"]
 [ext_resource type="PackedScene" uid="uid://4ij2n36b1nct" path="res://level/props/computer_monitor_dna.tscn" id="11_5f67j"]
+[ext_resource type="PackedScene" uid="uid://dmpojpr7nfc3h" path="res://level/props/computer_monitor_dna_256_128.tscn" id="13_pkq41"]
 
 [sub_resource type="Environment" id="Environment_w72v2"]
 ambient_light_source = 2
@@ -285,5 +286,8 @@ transform = Transform3D(-0.880826, 0, 8.74228e-08, 0, 0.451474, 0, -7.70043e-08,
 
 [node name="ComputerMonitor2" parent="." instance=ExtResource("11_5f67j")]
 transform = Transform3D(-0.880826, 0, 8.74228e-08, 0, 0.451474, 0, -7.70043e-08, 0, -1, 4.00287, 2.75206, 5.72173)
+
+[node name="ComputerMonitor3" parent="." instance=ExtResource("13_pkq41")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, -5.9)
 
 [editable path="FirstPersonController"]
