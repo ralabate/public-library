@@ -7,10 +7,10 @@
 [ext_resource type="Material" uid="uid://oxb2lrslkdgb" path="res://level/textures/lab/dna_lab_wall.tres" id="4_odc8c"]
 [ext_resource type="Material" uid="uid://v846rpxqbb5u" path="res://level/textures/lab/dna_lab_ceiling.tres" id="6_5f67j"]
 [ext_resource type="Material" uid="uid://da0iritt1bm74" path="res://level/textures/lab/dna_lab_wall_vents.tres" id="6_ltfiw"]
-[ext_resource type="Material" uid="uid://bptwg42v2fwc" path="res://level/textures/lab/lab_ceiling_2.tres" id="7_368hl"]
 [ext_resource type="Material" uid="uid://bfv7a2jbts54a" path="res://level/textures/lab/dna_lab_cabinet.tres" id="8_5f67j"]
-[ext_resource type="Texture2D" uid="uid://r0n2rj8odkod" path="res://level/textures/lab/dna_lab_ceiling_fixture.png" id="8_pu170"]
+[ext_resource type="Material" uid="uid://cdpt6jvlvv55q" path="res://level/textures/lab/dna_lab_ceiling_fixture.tres" id="8_pu170"]
 [ext_resource type="Material" uid="uid://bvmmb8pjex5w3" path="res://level/textures/lab/dna_lab_tabletop.tres" id="9_5f67j"]
+[ext_resource type="Texture2D" uid="uid://bydr4wxeu3hgo" path="res://level/textures/lab/dna_lab_ceiling_lights.png" id="9_einwv"]
 [ext_resource type="PackedScene" uid="uid://r0agos3dx780" path="res://player/player.tscn" id="10_wqo2y"]
 [ext_resource type="PackedScene" uid="uid://4ij2n36b1nct" path="res://level/props/computer_monitor_dna.tscn" id="11_5f67j"]
 [ext_resource type="Material" uid="uid://cnkqp0t34wdfc" path="res://level/textures/lab/dna_lab_cabinet_door.tres" id="12_einwv"]
@@ -25,7 +25,7 @@ cell_height = 0.5
 agent_height = 2.0
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_e5ptp"]
-albedo_texture = ExtResource("8_pu170")
+albedo_texture = ExtResource("9_einwv")
 metallic_specular = 0.0
 texture_filter = 2
 
@@ -96,7 +96,7 @@ _surfaces = [{
 "format": 34359742487,
 "index_count": 24,
 "index_data": PackedByteArray("AAABAAIAAAACAAMABAAFAAYABAAGAAcACAAJAAoACAAKAAsADAANAA4ADAAOAA8A"),
-"material": SubResource("StandardMaterial3D_e5ptp"),
+"material": ExtResource("8_pu170"),
 "name": "lab/dna_lab_ceiling_fixture",
 "primitive": 3,
 "uv_scale": Vector4(0, 0, 0, 0),
@@ -108,8 +108,8 @@ _surfaces = [{
 "format": 34359742487,
 "index_count": 6,
 "index_data": PackedByteArray("AAABAAIAAAACAAMA"),
-"material": ExtResource("7_368hl"),
-"name": "lab/lab_ceiling_2",
+"material": SubResource("StandardMaterial3D_e5ptp"),
+"name": "lab/dna_lab_ceiling_lights",
 "primitive": 3,
 "uv_scale": Vector4(0, 0, 0, 0),
 "vertex_count": 4,

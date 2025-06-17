@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cjj538cvnyrsg"]
+
+[ext_resource type="Texture2D" uid="uid://bydr4wxeu3hgo" path="res://level/textures/lab/dna_lab_ceiling_lights.png" id="1_myvge"]
+
+[resource]
+albedo_texture = ExtResource("1_myvge")
+metallic_specular = 0.0
+texture_filter = 2
