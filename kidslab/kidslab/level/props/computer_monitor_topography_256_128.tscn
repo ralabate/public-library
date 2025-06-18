@@ -1,0 +1,1221 @@
+[gd_scene load_steps=302 format=3 uid="uid://8jjdad51nnit"]
+
+[ext_resource type="Texture2D" uid="uid://m2ar4kwydh4c" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0001.tga" id="1_kxw3p"]
+[ext_resource type="Texture2D" uid="uid://dcl6knpk48ktg" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0002.tga" id="2_kqabq"]
+[ext_resource type="Texture2D" uid="uid://btdhh6d34sl4b" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0003.tga" id="3_nuos8"]
+[ext_resource type="Texture2D" uid="uid://dd41xha4dgovd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0004.tga" id="4_cnob0"]
+[ext_resource type="Texture2D" uid="uid://dbw673a8wab0u" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0005.tga" id="5_edh34"]
+[ext_resource type="Texture2D" uid="uid://cwyu2mrexqllq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0006.tga" id="6_7axbg"]
+[ext_resource type="Texture2D" uid="uid://brtjylhrdvhdd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0007.tga" id="7_se25q"]
+[ext_resource type="Texture2D" uid="uid://crb6wth0orawy" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0008.tga" id="8_wjn3u"]
+[ext_resource type="Texture2D" uid="uid://c5xhpxwgatoeu" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0009.tga" id="9_jfvmr"]
+[ext_resource type="Texture2D" uid="uid://dlo5uqchaciip" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0010.tga" id="10_rpcdj"]
+[ext_resource type="Texture2D" uid="uid://22yovmrcvy0v" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0011.tga" id="11_rqcxe"]
+[ext_resource type="Texture2D" uid="uid://kb35fo5ykdhk" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0012.tga" id="12_ke3ng"]
+[ext_resource type="Texture2D" uid="uid://e2q4ngioo28q" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0013.tga" id="13_xweqp"]
+[ext_resource type="Texture2D" uid="uid://qmcrwnrwdwfo" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0014.tga" id="14_y60cw"]
+[ext_resource type="Texture2D" uid="uid://sg0mcp61asnm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0015.tga" id="15_6o4ev"]
+[ext_resource type="Texture2D" uid="uid://cpa7hojoxb8kw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0016.tga" id="16_5brm8"]
+[ext_resource type="Texture2D" uid="uid://b3w5ithxx7w3e" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0017.tga" id="17_34uib"]
+[ext_resource type="Texture2D" uid="uid://cp8w8vd4tbse4" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0018.tga" id="18_18tey"]
+[ext_resource type="Texture2D" uid="uid://dcau88fsdfudr" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0019.tga" id="19_b3ppx"]
+[ext_resource type="Texture2D" uid="uid://d0sv2gbflk32i" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0020.tga" id="20_cv5iv"]
+[ext_resource type="Texture2D" uid="uid://bvlmw1tgpeqg6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0021.tga" id="21_xby34"]
+[ext_resource type="Texture2D" uid="uid://dvjmmximxajxe" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0022.tga" id="22_7om7x"]
+[ext_resource type="Texture2D" uid="uid://dlr82i4nq80jo" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0023.tga" id="23_7h1ds"]
+[ext_resource type="Texture2D" uid="uid://bjv65dinufsfq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0024.tga" id="24_pvj05"]
+[ext_resource type="Texture2D" uid="uid://cypl5laedqeol" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0025.tga" id="25_23cnl"]
+[ext_resource type="Texture2D" uid="uid://bjn1i04ke0rkl" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0026.tga" id="26_6x4cw"]
+[ext_resource type="Texture2D" uid="uid://b5kylrxpxyhnq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0027.tga" id="27_oa55m"]
+[ext_resource type="Texture2D" uid="uid://du7d1b1nmd4cl" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0028.tga" id="28_rrcea"]
+[ext_resource type="Texture2D" uid="uid://i88l4dkhlcmv" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0029.tga" id="29_5pyvr"]
+[ext_resource type="Texture2D" uid="uid://dlht1s11nv15a" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0030.tga" id="30_6kntf"]
+[ext_resource type="Texture2D" uid="uid://8rbt8tym32yw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0031.tga" id="31_qbv1j"]
+[ext_resource type="Texture2D" uid="uid://80npa4v7448e" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0032.tga" id="32_rmh4n"]
+[ext_resource type="Texture2D" uid="uid://dp71ht51skskl" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0033.tga" id="33_mxse8"]
+[ext_resource type="Texture2D" uid="uid://dcnseterjxv4g" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0034.tga" id="34_y7md2"]
+[ext_resource type="Texture2D" uid="uid://dbhuwjronqow7" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0035.tga" id="35_csepu"]
+[ext_resource type="Texture2D" uid="uid://ceixp84ka8oki" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0036.tga" id="36_djfyt"]
+[ext_resource type="Texture2D" uid="uid://chlq4bf8vlr2h" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0037.tga" id="37_k6umb"]
+[ext_resource type="Texture2D" uid="uid://bi06aq41syusa" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0038.tga" id="38_m46ej"]
+[ext_resource type="Texture2D" uid="uid://bsvbmp2afc04x" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0039.tga" id="39_70y5f"]
+[ext_resource type="Texture2D" uid="uid://db1kcayq3vx2l" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0040.tga" id="40_hx8db"]
+[ext_resource type="Texture2D" uid="uid://dw1rejnpax4dk" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0041.tga" id="41_2a4a2"]
+[ext_resource type="Texture2D" uid="uid://c875eji63bjrd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0042.tga" id="42_oa453"]
+[ext_resource type="Texture2D" uid="uid://bv3xhwf46qln3" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0043.tga" id="43_knkwd"]
+[ext_resource type="Texture2D" uid="uid://dy6271e6y3s5s" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0044.tga" id="44_rdold"]
+[ext_resource type="Texture2D" uid="uid://dqw33hb4yduw2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0045.tga" id="45_6gcs1"]
+[ext_resource type="Texture2D" uid="uid://dxlglxa486om6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0046.tga" id="46_yxps3"]
+[ext_resource type="Texture2D" uid="uid://dxroyk574k44x" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0047.tga" id="47_vmbpc"]
+[ext_resource type="Texture2D" uid="uid://ba17jbfc7dbs0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0048.tga" id="48_8sa0v"]
+[ext_resource type="Texture2D" uid="uid://cedfm2ct1vy6a" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0049.tga" id="49_66i0q"]
+[ext_resource type="Texture2D" uid="uid://b5wu5q3baryj6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0050.tga" id="50_idy8n"]
+[ext_resource type="Texture2D" uid="uid://q4g5w5s26nsd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0051.tga" id="51_pmukl"]
+[ext_resource type="Texture2D" uid="uid://dwchi2kl2h0k5" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0052.tga" id="52_u3lrc"]
+[ext_resource type="Texture2D" uid="uid://bmtxvyt6yvcew" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0053.tga" id="53_qeivm"]
+[ext_resource type="Texture2D" uid="uid://lfenbormm22f" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0054.tga" id="54_s33ie"]
+[ext_resource type="Texture2D" uid="uid://baxf43fymwh6t" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0055.tga" id="55_hu0eo"]
+[ext_resource type="Texture2D" uid="uid://dqrymihdmabfr" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0056.tga" id="56_bphrb"]
+[ext_resource type="Texture2D" uid="uid://bxnsxikgjodix" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0057.tga" id="57_nik11"]
+[ext_resource type="Texture2D" uid="uid://c37173rkl4a8g" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0058.tga" id="58_gp8xd"]
+[ext_resource type="Texture2D" uid="uid://dgxdaqoiomsyd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0059.tga" id="59_e101y"]
+[ext_resource type="Texture2D" uid="uid://sfltshhsmyd1" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0060.tga" id="60_3cjds"]
+[ext_resource type="Texture2D" uid="uid://ddrn5ttv1ulex" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0061.tga" id="61_r77vj"]
+[ext_resource type="Texture2D" uid="uid://dvix4x4t3x4jy" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0062.tga" id="62_d61gg"]
+[ext_resource type="Texture2D" uid="uid://ny1dhm7bkvtl" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0063.tga" id="63_p28sk"]
+[ext_resource type="Texture2D" uid="uid://bxfdmeeklcky1" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0064.tga" id="64_fjpls"]
+[ext_resource type="Texture2D" uid="uid://rmotpwbptx3d" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0065.tga" id="65_556km"]
+[ext_resource type="Texture2D" uid="uid://csnjxj64t00bh" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0066.tga" id="66_3jva3"]
+[ext_resource type="Texture2D" uid="uid://fpeugfb7cdo" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0067.tga" id="67_tx51r"]
+[ext_resource type="Texture2D" uid="uid://dj58kmxagheqq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0068.tga" id="68_bln3x"]
+[ext_resource type="Texture2D" uid="uid://dfu6duo3wfjus" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0069.tga" id="69_ngbkt"]
+[ext_resource type="Texture2D" uid="uid://da8gckltsruk4" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0070.tga" id="70_yty6f"]
+[ext_resource type="Texture2D" uid="uid://bqwxkfsl6ryx2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0071.tga" id="71_s1xgx"]
+[ext_resource type="Texture2D" uid="uid://laf8dy4iloyv" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0072.tga" id="72_a26rk"]
+[ext_resource type="Texture2D" uid="uid://cc8w5gafg41oj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0073.tga" id="73_kr37f"]
+[ext_resource type="Texture2D" uid="uid://ccl5w07v5bcrw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0074.tga" id="74_lfdpk"]
+[ext_resource type="Texture2D" uid="uid://dqkow8ym3ih3j" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0075.tga" id="75_6v724"]
+[ext_resource type="Texture2D" uid="uid://8qwiw5og7n70" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0076.tga" id="76_47ipg"]
+[ext_resource type="Texture2D" uid="uid://5hhux2a0bo3b" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0077.tga" id="77_x1xbg"]
+[ext_resource type="Texture2D" uid="uid://b1n3avghxklhu" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0078.tga" id="78_8o80s"]
+[ext_resource type="Texture2D" uid="uid://brri1yga07jqe" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0079.tga" id="79_fsv38"]
+[ext_resource type="Texture2D" uid="uid://damebxdm7qyo4" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0080.tga" id="80_681eu"]
+[ext_resource type="Texture2D" uid="uid://do2h4rjqn5p4h" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0081.tga" id="81_y5hby"]
+[ext_resource type="Texture2D" uid="uid://cdegjca22uvvg" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0082.tga" id="82_a2olf"]
+[ext_resource type="Texture2D" uid="uid://dqj2syo6hosay" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0083.tga" id="83_hefgm"]
+[ext_resource type="Texture2D" uid="uid://bvnoe5uttwuhm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0084.tga" id="84_8fne6"]
+[ext_resource type="Texture2D" uid="uid://dldheq4npow2y" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0085.tga" id="85_806hk"]
+[ext_resource type="Texture2D" uid="uid://dm5fwyrt1wjsn" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0086.tga" id="86_554hu"]
+[ext_resource type="Texture2D" uid="uid://cf66pmist6e2a" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0087.tga" id="87_234nf"]
+[ext_resource type="Texture2D" uid="uid://bgedpk0mtlvni" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0088.tga" id="88_wgxj2"]
+[ext_resource type="Texture2D" uid="uid://dyytnbud3mcyi" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0089.tga" id="89_0nytm"]
+[ext_resource type="Texture2D" uid="uid://vp5oi32xmsvj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0090.tga" id="90_vuwmy"]
+[ext_resource type="Texture2D" uid="uid://bcl4fjbykgdhp" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0091.tga" id="91_2u2uu"]
+[ext_resource type="Texture2D" uid="uid://dkocf2dchv2n5" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0092.tga" id="92_tux6l"]
+[ext_resource type="Texture2D" uid="uid://gc0ywpqyhmoi" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0093.tga" id="93_q8hr8"]
+[ext_resource type="Texture2D" uid="uid://dg64ndc1i0y0l" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0094.tga" id="94_k4x3g"]
+[ext_resource type="Texture2D" uid="uid://btpmka0huk4la" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0095.tga" id="95_c25dq"]
+[ext_resource type="Texture2D" uid="uid://43fnxwhtk5tu" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0096.tga" id="96_lbs4l"]
+[ext_resource type="Texture2D" uid="uid://bpx0h1qoudcni" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0097.tga" id="97_uap7a"]
+[ext_resource type="Texture2D" uid="uid://cmk6r27oxffke" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0098.tga" id="98_kvjxy"]
+[ext_resource type="Texture2D" uid="uid://cm3wbcddeele0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0099.tga" id="99_hoegh"]
+[ext_resource type="Texture2D" uid="uid://bs8apdolbmvdh" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0100.tga" id="100_j2fgf"]
+[ext_resource type="Texture2D" uid="uid://b4oe007lfvmt2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0101.tga" id="101_qu8sf"]
+[ext_resource type="Texture2D" uid="uid://bt5sr4vrb8tt7" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0102.tga" id="102_5qjk8"]
+[ext_resource type="Texture2D" uid="uid://cydou4agwqotd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0103.tga" id="103_pcl7p"]
+[ext_resource type="Texture2D" uid="uid://cxuacpe366jck" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0104.tga" id="104_uf6g1"]
+[ext_resource type="Texture2D" uid="uid://d1lmim5f6lbch" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0105.tga" id="105_q3qyw"]
+[ext_resource type="Texture2D" uid="uid://7tg4u5qpkbft" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0106.tga" id="106_shn2a"]
+[ext_resource type="Texture2D" uid="uid://c4yipvj6m773t" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0107.tga" id="107_4vtdj"]
+[ext_resource type="Texture2D" uid="uid://c0x5j34pr60am" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0108.tga" id="108_jbryp"]
+[ext_resource type="Texture2D" uid="uid://b8jem37ejrt5l" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0109.tga" id="109_k0pky"]
+[ext_resource type="Texture2D" uid="uid://b86vo4uf05uuk" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0110.tga" id="110_1wmfb"]
+[ext_resource type="Texture2D" uid="uid://b36ekcas4g6oc" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0111.tga" id="111_v5tpx"]
+[ext_resource type="Texture2D" uid="uid://cfoxttfk0qjaj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0112.tga" id="112_clc2w"]
+[ext_resource type="Texture2D" uid="uid://djvo3g8bo2bp8" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0113.tga" id="113_apdey"]
+[ext_resource type="Texture2D" uid="uid://xivdm2es63vn" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0114.tga" id="114_5vrwj"]
+[ext_resource type="Texture2D" uid="uid://cliswgsbxv6gh" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0115.tga" id="115_2dbut"]
+[ext_resource type="Texture2D" uid="uid://cph383la4g1gc" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0116.tga" id="116_qaaeo"]
+[ext_resource type="Texture2D" uid="uid://84cu3labnmpb" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0117.tga" id="117_q4xpy"]
+[ext_resource type="Texture2D" uid="uid://cei1pa4yv1ce6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0118.tga" id="118_3molf"]
+[ext_resource type="Texture2D" uid="uid://djp3b1qfsi8dg" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0119.tga" id="119_vcc36"]
+[ext_resource type="Texture2D" uid="uid://pxxdi2h1h20j" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0120.tga" id="120_cl366"]
+[ext_resource type="Texture2D" uid="uid://mgamocnk3beq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0121.tga" id="121_kk683"]
+[ext_resource type="Texture2D" uid="uid://dpr2gsomd8dja" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0122.tga" id="122_nykwn"]
+[ext_resource type="Texture2D" uid="uid://cpovc8f8s6bxn" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0123.tga" id="123_arn8k"]
+[ext_resource type="Texture2D" uid="uid://br5pr5ksys6eb" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0124.tga" id="124_pbjj1"]
+[ext_resource type="Texture2D" uid="uid://c5ow7b6gthx3b" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0125.tga" id="125_ldom4"]
+[ext_resource type="Texture2D" uid="uid://d03b6awl3su6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0126.tga" id="126_m6p5h"]
+[ext_resource type="Texture2D" uid="uid://bhojcau3fklur" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0127.tga" id="127_ceeaw"]
+[ext_resource type="Texture2D" uid="uid://xkdbt62fw1x" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0128.tga" id="128_u6hlg"]
+[ext_resource type="Texture2D" uid="uid://dm5trj2lpdoqi" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0129.tga" id="129_ewyr8"]
+[ext_resource type="Texture2D" uid="uid://bscuywuwoj63a" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0130.tga" id="130_yl0qo"]
+[ext_resource type="Texture2D" uid="uid://dntnwkjpgwf5p" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0131.tga" id="131_3nah8"]
+[ext_resource type="Texture2D" uid="uid://dqx2niox757n1" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0132.tga" id="132_c7e0j"]
+[ext_resource type="Texture2D" uid="uid://dno0oqpp3s473" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0133.tga" id="133_e48ec"]
+[ext_resource type="Texture2D" uid="uid://bfumuvsbtvq28" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0134.tga" id="134_xptj2"]
+[ext_resource type="Texture2D" uid="uid://cluuqhu3xyfsv" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0135.tga" id="135_6quif"]
+[ext_resource type="Texture2D" uid="uid://drgwc2803cxea" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0136.tga" id="136_litdc"]
+[ext_resource type="Texture2D" uid="uid://dmsvseki6ha6w" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0137.tga" id="137_twrog"]
+[ext_resource type="Texture2D" uid="uid://4xicfomc55k8" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0138.tga" id="138_qyhld"]
+[ext_resource type="Texture2D" uid="uid://cssvl5h2hkgo6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0139.tga" id="139_8nucv"]
+[ext_resource type="Texture2D" uid="uid://qonnj8v10x4r" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0140.tga" id="140_h8anh"]
+[ext_resource type="Texture2D" uid="uid://csikwd8vdmmcs" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0141.tga" id="141_n8y7n"]
+[ext_resource type="Texture2D" uid="uid://dpd1m3vlavxi0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0142.tga" id="142_pmi08"]
+[ext_resource type="Texture2D" uid="uid://b7u2ur2pv3rvp" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0143.tga" id="143_i75dj"]
+[ext_resource type="Texture2D" uid="uid://yy72t65pplli" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0144.tga" id="144_ja5n2"]
+[ext_resource type="Texture2D" uid="uid://nyeug8ep1dpy" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0145.tga" id="145_cf1jf"]
+[ext_resource type="Texture2D" uid="uid://dkkvx6hctgoim" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0146.tga" id="146_hir06"]
+[ext_resource type="Texture2D" uid="uid://ci1odmng1dn6d" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0147.tga" id="147_ywh5l"]
+[ext_resource type="Texture2D" uid="uid://c33opyarvq8ek" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0148.tga" id="148_c14lq"]
+[ext_resource type="Texture2D" uid="uid://be3x6ddad3oo2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0149.tga" id="149_c5hhp"]
+[ext_resource type="Texture2D" uid="uid://gwde1v5mk4xl" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0150.tga" id="150_npev2"]
+[ext_resource type="Texture2D" uid="uid://em522q8y0dc3" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0151.tga" id="151_yljm0"]
+[ext_resource type="Texture2D" uid="uid://dp6ikq26kjtqy" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0152.tga" id="152_xkmfh"]
+[ext_resource type="Texture2D" uid="uid://bx2tensrqn6s0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0153.tga" id="153_udacx"]
+[ext_resource type="Texture2D" uid="uid://bsl4auriib73c" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0154.tga" id="154_47kpx"]
+[ext_resource type="Texture2D" uid="uid://fqgak007x6f1" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0155.tga" id="155_0c2dk"]
+[ext_resource type="Texture2D" uid="uid://ccv2xrjmlxnke" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0156.tga" id="156_ba5j0"]
+[ext_resource type="Texture2D" uid="uid://547kwywmqets" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0157.tga" id="157_xaolo"]
+[ext_resource type="Texture2D" uid="uid://ntqrrk5cil4b" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0158.tga" id="158_swiga"]
+[ext_resource type="Texture2D" uid="uid://c3koyj2w13sgg" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0159.tga" id="159_2wlrl"]
+[ext_resource type="Texture2D" uid="uid://bjhy2lcnxhb3o" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0160.tga" id="160_yvqkh"]
+[ext_resource type="Texture2D" uid="uid://dfqwyfaeave0s" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0161.tga" id="161_jw2u3"]
+[ext_resource type="Texture2D" uid="uid://bl7uw3pum5upd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0162.tga" id="162_04hs1"]
+[ext_resource type="Texture2D" uid="uid://bnvcdasaeimos" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0163.tga" id="163_c7end"]
+[ext_resource type="Texture2D" uid="uid://dfxf7akfhroho" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0164.tga" id="164_0rfp8"]
+[ext_resource type="Texture2D" uid="uid://4lauoeygxaoe" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0165.tga" id="165_kn6ou"]
+[ext_resource type="Texture2D" uid="uid://bl0dg4wfopaww" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0166.tga" id="166_h0dwj"]
+[ext_resource type="Texture2D" uid="uid://ccio02kvrmtpe" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0167.tga" id="167_lq4a0"]
+[ext_resource type="Texture2D" uid="uid://d3itvwiaw7iw6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0168.tga" id="168_0vb5t"]
+[ext_resource type="Texture2D" uid="uid://cpwa2driw7wbm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0169.tga" id="169_mw4n2"]
+[ext_resource type="Texture2D" uid="uid://m8ouftj7j4jr" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0170.tga" id="170_ubfr5"]
+[ext_resource type="Texture2D" uid="uid://cdvuwk8g73qav" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0171.tga" id="171_d3b0q"]
+[ext_resource type="Texture2D" uid="uid://beu1okxnmxp3g" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0172.tga" id="172_1v54y"]
+[ext_resource type="Texture2D" uid="uid://c5e4dx3ch85mb" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0173.tga" id="173_ytud0"]
+[ext_resource type="Texture2D" uid="uid://0nynm243b2c3" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0174.tga" id="174_ggm45"]
+[ext_resource type="Texture2D" uid="uid://p17q8rskf0gm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0175.tga" id="175_a0ivx"]
+[ext_resource type="Texture2D" uid="uid://bhytkh3p63nk6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0176.tga" id="176_o20ye"]
+[ext_resource type="Texture2D" uid="uid://dwjmhu07ylqb5" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0177.tga" id="177_gf0yy"]
+[ext_resource type="Texture2D" uid="uid://bqs0eailqggin" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0178.tga" id="178_bgsyj"]
+[ext_resource type="Texture2D" uid="uid://cb5dcjr83gebl" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0179.tga" id="179_1m1ib"]
+[ext_resource type="Texture2D" uid="uid://dd4qa8o81vqtm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0180.tga" id="180_8hpbk"]
+[ext_resource type="Texture2D" uid="uid://beli3h7a2j0t8" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0181.tga" id="181_wn2fr"]
+[ext_resource type="Texture2D" uid="uid://b62ypbhqot7he" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0182.tga" id="182_yck4q"]
+[ext_resource type="Texture2D" uid="uid://bdl6pm6xaxoqf" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0183.tga" id="183_1low0"]
+[ext_resource type="Texture2D" uid="uid://bg7jlvm25aaav" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0184.tga" id="184_mlvkg"]
+[ext_resource type="Texture2D" uid="uid://krmldobhq6bh" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0185.tga" id="185_45kub"]
+[ext_resource type="Texture2D" uid="uid://bc5hxeit0uhd8" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0186.tga" id="186_yh6s8"]
+[ext_resource type="Texture2D" uid="uid://b760p1ibtqjju" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0187.tga" id="187_vvjop"]
+[ext_resource type="Texture2D" uid="uid://drmdtmbxqmejy" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0188.tga" id="188_ydlcr"]
+[ext_resource type="Texture2D" uid="uid://cpphn1x48xrhj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0189.tga" id="189_xc0av"]
+[ext_resource type="Texture2D" uid="uid://bbq5vtl0jkxgu" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0190.tga" id="190_lbxnx"]
+[ext_resource type="Texture2D" uid="uid://bxubxu2rj5331" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0191.tga" id="191_145fc"]
+[ext_resource type="Texture2D" uid="uid://b3ma4nxnr1al8" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0192.tga" id="192_lait4"]
+[ext_resource type="Texture2D" uid="uid://bknnqsk3huj4u" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0193.tga" id="193_wcyp1"]
+[ext_resource type="Texture2D" uid="uid://dnru7mvlysvsj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0194.tga" id="194_5ggg1"]
+[ext_resource type="Texture2D" uid="uid://wqxtvgeygvsr" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0195.tga" id="195_qfyq0"]
+[ext_resource type="Texture2D" uid="uid://b2l84bf7257lx" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0196.tga" id="196_foxed"]
+[ext_resource type="Texture2D" uid="uid://cvope74ji5xfw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0197.tga" id="197_odjmn"]
+[ext_resource type="Texture2D" uid="uid://ddatehb8xxo38" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0198.tga" id="198_18wxf"]
+[ext_resource type="Texture2D" uid="uid://2hm2c0y5mqie" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0199.tga" id="199_p2ovu"]
+[ext_resource type="Texture2D" uid="uid://bgv2e5ig4htud" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0200.tga" id="200_n8pmy"]
+[ext_resource type="Texture2D" uid="uid://sqa6ulhxsaaq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0201.tga" id="201_d3yeb"]
+[ext_resource type="Texture2D" uid="uid://bg82wwmnfr22l" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0202.tga" id="202_rk2uo"]
+[ext_resource type="Texture2D" uid="uid://dcqh1idgw7ytt" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0203.tga" id="203_12vb5"]
+[ext_resource type="Texture2D" uid="uid://6685jsclx4kw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0204.tga" id="204_epoai"]
+[ext_resource type="Texture2D" uid="uid://cvd6vag6jw2r4" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0205.tga" id="205_r2rdc"]
+[ext_resource type="Texture2D" uid="uid://b2h61n2daxfm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0206.tga" id="206_t3uae"]
+[ext_resource type="Texture2D" uid="uid://b16iirhiio8aq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0207.tga" id="207_ihcee"]
+[ext_resource type="Texture2D" uid="uid://dlqdab4v0jikm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0208.tga" id="208_db2ky"]
+[ext_resource type="Texture2D" uid="uid://psyvgppjt8kr" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0209.tga" id="209_stm3n"]
+[ext_resource type="Texture2D" uid="uid://bc5a8fma3tb1q" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0210.tga" id="210_q1s7i"]
+[ext_resource type="Texture2D" uid="uid://bf05jdcloq1kw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0211.tga" id="211_dpui1"]
+[ext_resource type="Texture2D" uid="uid://bttj7iv1y26e0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0212.tga" id="212_cs60k"]
+[ext_resource type="Texture2D" uid="uid://cqrku347e8yj0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0213.tga" id="213_jocly"]
+[ext_resource type="Texture2D" uid="uid://7tyl5t474aw2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0214.tga" id="214_1qt2x"]
+[ext_resource type="Texture2D" uid="uid://dqd2m3m67h71b" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0215.tga" id="215_m7n3o"]
+[ext_resource type="Texture2D" uid="uid://bg65eyd6le32u" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0216.tga" id="216_e1xkp"]
+[ext_resource type="Texture2D" uid="uid://chhxvmplh87v2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0217.tga" id="217_5xn5j"]
+[ext_resource type="Texture2D" uid="uid://b3jqi537ul54j" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0218.tga" id="218_h3f1k"]
+[ext_resource type="Texture2D" uid="uid://ccghspdac73qw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0219.tga" id="219_6ms7v"]
+[ext_resource type="Texture2D" uid="uid://dt4oka6b8e2ya" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0220.tga" id="220_74gc6"]
+[ext_resource type="Texture2D" uid="uid://c4w2t4r5mlhmt" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0221.tga" id="221_7yjjj"]
+[ext_resource type="Texture2D" uid="uid://fgsi8h1q5c2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0222.tga" id="222_y8l1c"]
+[ext_resource type="Texture2D" uid="uid://cgxibmfyhbj2v" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0223.tga" id="223_4adhj"]
+[ext_resource type="Texture2D" uid="uid://e5nmc0tdwyhu" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0224.tga" id="224_2x2qy"]
+[ext_resource type="Texture2D" uid="uid://degbxet4dm16a" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0225.tga" id="225_nc7ff"]
+[ext_resource type="Texture2D" uid="uid://bn1xlv7rojp8y" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0226.tga" id="226_nckwa"]
+[ext_resource type="Texture2D" uid="uid://drh13pk7wlmh5" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0227.tga" id="227_i2562"]
+[ext_resource type="Texture2D" uid="uid://4ivjsb7s3fw3" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0228.tga" id="228_km513"]
+[ext_resource type="Texture2D" uid="uid://5u2anb7f8hp0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0229.tga" id="229_hr1ob"]
+[ext_resource type="Texture2D" uid="uid://cj54yxhurjtcg" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0230.tga" id="230_ap4yn"]
+[ext_resource type="Texture2D" uid="uid://deq43yjhsxqsv" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0231.tga" id="231_yr4gj"]
+[ext_resource type="Texture2D" uid="uid://dov850gjjo1gd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0232.tga" id="232_wfpke"]
+[ext_resource type="Texture2D" uid="uid://csao3rtfpqbjm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0233.tga" id="233_337sr"]
+[ext_resource type="Texture2D" uid="uid://6lji1ty3sk6d" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0234.tga" id="234_awl3m"]
+[ext_resource type="Texture2D" uid="uid://d21bsivqre20t" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0235.tga" id="235_56qe7"]
+[ext_resource type="Texture2D" uid="uid://cmwapu58vph2x" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0236.tga" id="236_aiop1"]
+[ext_resource type="Texture2D" uid="uid://cm53gp3r51yrj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0237.tga" id="237_nwv24"]
+[ext_resource type="Texture2D" uid="uid://bvdebay2yfjbi" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0238.tga" id="238_vvky4"]
+[ext_resource type="Texture2D" uid="uid://cu3r43x6w65f5" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0239.tga" id="239_r83kn"]
+[ext_resource type="Texture2D" uid="uid://dgsc8tt81im2g" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0240.tga" id="240_1eddf"]
+[ext_resource type="Texture2D" uid="uid://ds50mnhsi2ekd" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0241.tga" id="241_tqc1x"]
+[ext_resource type="Texture2D" uid="uid://cal2ljs35hu6q" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0242.tga" id="242_te6lu"]
+[ext_resource type="Texture2D" uid="uid://up3fuulpcxvu" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0243.tga" id="243_pjkxx"]
+[ext_resource type="Texture2D" uid="uid://diu2mkjf7l4e0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0244.tga" id="244_4iklf"]
+[ext_resource type="Texture2D" uid="uid://bde6183gghxe8" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0245.tga" id="245_i5kmg"]
+[ext_resource type="Texture2D" uid="uid://djvwdv512mnpk" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0246.tga" id="246_alu5p"]
+[ext_resource type="Texture2D" uid="uid://3y6wfvh81k38" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0247.tga" id="247_qkgob"]
+[ext_resource type="Texture2D" uid="uid://cjsjmib5jwbuh" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0248.tga" id="248_463mq"]
+[ext_resource type="Texture2D" uid="uid://bgv5p8i3arvbb" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0249.tga" id="249_h1i2i"]
+[ext_resource type="Texture2D" uid="uid://cmy233xhkdwcq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0250.tga" id="250_u3f1b"]
+[ext_resource type="Texture2D" uid="uid://b0y4mpqjy3x14" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0251.tga" id="251_rkruf"]
+[ext_resource type="Texture2D" uid="uid://ddngk85hj33ei" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0252.tga" id="252_d1pru"]
+[ext_resource type="Texture2D" uid="uid://dq3mcwy8qgdwh" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0253.tga" id="253_j8rkn"]
+[ext_resource type="Texture2D" uid="uid://kafw05irg1d6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0254.tga" id="254_echj0"]
+[ext_resource type="Texture2D" uid="uid://c7wiaq6drisbs" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0255.tga" id="255_spyp2"]
+[ext_resource type="Texture2D" uid="uid://c7b1usy61qmuj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0256.tga" id="256_ro2xy"]
+[ext_resource type="Texture2D" uid="uid://bpumw6ql6udok" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0257.tga" id="257_ebulm"]
+[ext_resource type="Texture2D" uid="uid://sxj3neio5i6l" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0258.tga" id="258_2wm7d"]
+[ext_resource type="Texture2D" uid="uid://ewaen5ue3qhg" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0259.tga" id="259_c6upr"]
+[ext_resource type="Texture2D" uid="uid://cgafb8r7yqi35" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0260.tga" id="260_6vq0t"]
+[ext_resource type="Texture2D" uid="uid://kmvd7gdfjrlc" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0261.tga" id="261_gv7vf"]
+[ext_resource type="Texture2D" uid="uid://w5ssxxs6486m" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0262.tga" id="262_235hg"]
+[ext_resource type="Texture2D" uid="uid://cct73h23wnjdq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0263.tga" id="263_g5ixw"]
+[ext_resource type="Texture2D" uid="uid://51mb6qp0tvcs" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0264.tga" id="264_cn3b3"]
+[ext_resource type="Texture2D" uid="uid://tqy5sto6bsxm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0265.tga" id="265_eq1rq"]
+[ext_resource type="Texture2D" uid="uid://drf5gyeeehugv" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0266.tga" id="266_7vr3n"]
+[ext_resource type="Texture2D" uid="uid://coec7jv8ga4jq" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0267.tga" id="267_empco"]
+[ext_resource type="Texture2D" uid="uid://csa1dp6hetre5" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0268.tga" id="268_02suf"]
+[ext_resource type="Texture2D" uid="uid://dcty6k8txne5d" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0269.tga" id="269_y4t4p"]
+[ext_resource type="Texture2D" uid="uid://bue6c1whyild7" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0270.tga" id="270_nam5d"]
+[ext_resource type="Texture2D" uid="uid://rmb208jy2ehy" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0271.tga" id="271_mcy5f"]
+[ext_resource type="Texture2D" uid="uid://dmyhv7pli51ka" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0272.tga" id="272_1m5yr"]
+[ext_resource type="Texture2D" uid="uid://c1l42uvokaq8e" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0273.tga" id="273_l1wn2"]
+[ext_resource type="Texture2D" uid="uid://bq3dxcypxosts" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0274.tga" id="274_2lol8"]
+[ext_resource type="Texture2D" uid="uid://b2s8bvdv2f3iw" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0275.tga" id="275_1odmv"]
+[ext_resource type="Texture2D" uid="uid://ksy4a2yna07j" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0276.tga" id="276_3gsfw"]
+[ext_resource type="Texture2D" uid="uid://tedyrwmj63a6" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0277.tga" id="277_cvfpp"]
+[ext_resource type="Texture2D" uid="uid://chvmrtibrnca2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0278.tga" id="278_6rtj7"]
+[ext_resource type="Texture2D" uid="uid://bmgycq8gdinoi" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0279.tga" id="279_avwau"]
+[ext_resource type="Texture2D" uid="uid://4ksihw115rmm" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0280.tga" id="280_1miti"]
+[ext_resource type="Texture2D" uid="uid://dj7jf34allxas" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0281.tga" id="281_cht6d"]
+[ext_resource type="Texture2D" uid="uid://cms3clp7w73s0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0282.tga" id="282_0e8xj"]
+[ext_resource type="Texture2D" uid="uid://x804gvglrped" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0283.tga" id="283_gts35"]
+[ext_resource type="Texture2D" uid="uid://kpl43rwg0w35" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0284.tga" id="284_yfrr6"]
+[ext_resource type="Texture2D" uid="uid://cyybj1d13nlcn" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0285.tga" id="285_162me"]
+[ext_resource type="Texture2D" uid="uid://b2mx41qih7rl0" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0286.tga" id="286_20lu6"]
+[ext_resource type="Texture2D" uid="uid://cpfxcrrlyu426" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0287.tga" id="287_jrfnp"]
+[ext_resource type="Texture2D" uid="uid://bws5n62aluj3r" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0288.tga" id="288_uujlg"]
+[ext_resource type="Texture2D" uid="uid://c84d84v07dhro" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0289.tga" id="289_excbf"]
+[ext_resource type="Texture2D" uid="uid://dgu61ipeohyco" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0290.tga" id="290_jqcpb"]
+[ext_resource type="Texture2D" uid="uid://b2k5vfd5pwrhs" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0291.tga" id="291_wdkoy"]
+[ext_resource type="Texture2D" uid="uid://cvruvesgivsl2" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0292.tga" id="292_8oqeb"]
+[ext_resource type="Texture2D" uid="uid://bbsrntbs0rxsf" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0293.tga" id="293_dwh7q"]
+[ext_resource type="Texture2D" uid="uid://cp0hgqtwx8i6d" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0294.tga" id="294_yb550"]
+[ext_resource type="Texture2D" uid="uid://begc5mvrrsxny" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0295.tga" id="295_r06st"]
+[ext_resource type="Texture2D" uid="uid://livve35xjffo" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0296.tga" id="296_rfdqq"]
+[ext_resource type="Texture2D" uid="uid://cb7f0pig01hej" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0297.tga" id="297_alpdn"]
+[ext_resource type="Texture2D" uid="uid://b0b2306fk624d" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0298.tga" id="298_2m4vj"]
+[ext_resource type="Texture2D" uid="uid://cxexfmke8mlho" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0299.tga" id="299_er2du"]
+[ext_resource type="Texture2D" uid="uid://coptednp2d4vj" path="res://images/computer_monitor_topography_256_128/computer_monitor_topography_256_128.0300.tga" id="300_gydut"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ltohr"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_kxw3p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_kqabq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_nuos8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_cnob0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_edh34")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_7axbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_se25q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_wjn3u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_jfvmr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_rpcdj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_rqcxe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ke3ng")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_xweqp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_y60cw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_6o4ev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_5brm8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_34uib")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_18tey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_b3ppx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_cv5iv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_xby34")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_7om7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_7h1ds")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_pvj05")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_23cnl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_6x4cw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_oa55m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_rrcea")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_5pyvr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_6kntf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_qbv1j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_rmh4n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_mxse8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_y7md2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_csepu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_djfyt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_k6umb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_m46ej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_70y5f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_hx8db")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_2a4a2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_oa453")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_knkwd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_rdold")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_6gcs1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_yxps3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_vmbpc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_8sa0v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_66i0q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_idy8n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_pmukl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_u3lrc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_qeivm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_s33ie")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_hu0eo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_bphrb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_nik11")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_gp8xd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_e101y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_3cjds")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_r77vj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_d61gg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_p28sk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_fjpls")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_556km")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_3jva3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_tx51r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_bln3x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_ngbkt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_yty6f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_s1xgx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_a26rk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_kr37f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_lfdpk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_6v724")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_47ipg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_x1xbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_8o80s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_fsv38")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_681eu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_y5hby")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_a2olf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_hefgm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_8fne6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_806hk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_554hu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_234nf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_wgxj2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_0nytm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_vuwmy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_2u2uu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_tux6l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_q8hr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_k4x3g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_c25dq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_lbs4l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_uap7a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_kvjxy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_hoegh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_j2fgf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_qu8sf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_5qjk8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_pcl7p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_uf6g1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_q3qyw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_shn2a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_4vtdj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_jbryp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_k0pky")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_1wmfb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_v5tpx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_clc2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_apdey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_5vrwj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_2dbut")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_qaaeo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_q4xpy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_3molf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_vcc36")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_cl366")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_kk683")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_nykwn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_arn8k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_pbjj1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_ldom4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_m6p5h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_ceeaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_u6hlg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_ewyr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_yl0qo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_3nah8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_c7e0j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_e48ec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_xptj2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_6quif")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_litdc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_twrog")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_qyhld")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_8nucv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_h8anh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_n8y7n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_pmi08")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_i75dj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_ja5n2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_cf1jf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_hir06")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_ywh5l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_c14lq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_c5hhp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_npev2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_yljm0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_xkmfh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_udacx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_47kpx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_0c2dk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_ba5j0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_xaolo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_swiga")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_2wlrl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_yvqkh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_jw2u3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_04hs1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_c7end")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_0rfp8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_kn6ou")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_h0dwj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_lq4a0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_0vb5t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_mw4n2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_ubfr5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_d3b0q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_1v54y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_ytud0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_ggm45")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_a0ivx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_o20ye")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_gf0yy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_bgsyj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_1m1ib")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_8hpbk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_wn2fr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_yck4q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_1low0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_mlvkg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_45kub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_yh6s8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_vvjop")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_ydlcr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_xc0av")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_lbxnx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_145fc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_lait4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_wcyp1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_5ggg1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_qfyq0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_foxed")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_odjmn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_18wxf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_p2ovu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_n8pmy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_d3yeb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("202_rk2uo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("203_12vb5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("204_epoai")
+}, {
+"duration": 1.0,
+"texture": ExtResource("205_r2rdc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("206_t3uae")
+}, {
+"duration": 1.0,
+"texture": ExtResource("207_ihcee")
+}, {
+"duration": 1.0,
+"texture": ExtResource("208_db2ky")
+}, {
+"duration": 1.0,
+"texture": ExtResource("209_stm3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("210_q1s7i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("211_dpui1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("212_cs60k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("213_jocly")
+}, {
+"duration": 1.0,
+"texture": ExtResource("214_1qt2x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("215_m7n3o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("216_e1xkp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("217_5xn5j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("218_h3f1k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("219_6ms7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("220_74gc6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("221_7yjjj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("222_y8l1c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("223_4adhj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("224_2x2qy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("225_nc7ff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("226_nckwa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("227_i2562")
+}, {
+"duration": 1.0,
+"texture": ExtResource("228_km513")
+}, {
+"duration": 1.0,
+"texture": ExtResource("229_hr1ob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("230_ap4yn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("231_yr4gj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("232_wfpke")
+}, {
+"duration": 1.0,
+"texture": ExtResource("233_337sr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("234_awl3m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("235_56qe7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("236_aiop1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("237_nwv24")
+}, {
+"duration": 1.0,
+"texture": ExtResource("238_vvky4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("239_r83kn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("240_1eddf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("241_tqc1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("242_te6lu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("243_pjkxx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("244_4iklf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("245_i5kmg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("246_alu5p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("247_qkgob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("248_463mq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("249_h1i2i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("250_u3f1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_rkruf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_d1pru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("253_j8rkn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_echj0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_spyp2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_ro2xy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("257_ebulm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("258_2wm7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("259_c6upr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("260_6vq0t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("261_gv7vf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("262_235hg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("263_g5ixw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("264_cn3b3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("265_eq1rq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("266_7vr3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("267_empco")
+}, {
+"duration": 1.0,
+"texture": ExtResource("268_02suf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("269_y4t4p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("270_nam5d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("271_mcy5f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("272_1m5yr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("273_l1wn2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("274_2lol8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("275_1odmv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("276_3gsfw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("277_cvfpp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("278_6rtj7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("279_avwau")
+}, {
+"duration": 1.0,
+"texture": ExtResource("280_1miti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("281_cht6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("282_0e8xj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("283_gts35")
+}, {
+"duration": 1.0,
+"texture": ExtResource("284_yfrr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("285_162me")
+}, {
+"duration": 1.0,
+"texture": ExtResource("286_20lu6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("287_jrfnp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("288_uujlg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("289_excbf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("290_jqcpb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("291_wdkoy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("292_8oqeb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("293_dwh7q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("294_yb550")
+}, {
+"duration": 1.0,
+"texture": ExtResource("295_r06st")
+}, {
+"duration": 1.0,
+"texture": ExtResource("296_rfdqq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("297_alpdn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("298_2m4vj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("299_er2du")
+}, {
+"duration": 1.0,
+"texture": ExtResource("300_gydut")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="ComputerMonitor" type="Node3D"]
+
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+pixel_size = 0.0312
+transparent = false
+double_sided = false
+texture_filter = 0
+sprite_frames = SubResource("SpriteFrames_ltohr")
+autoplay = "default"
+frame_progress = 0.330861

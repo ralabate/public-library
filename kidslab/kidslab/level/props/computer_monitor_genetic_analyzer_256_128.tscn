@@ -1,0 +1,1221 @@
+[gd_scene load_steps=302 format=3 uid="uid://b7dthvr5k6it0"]
+
+[ext_resource type="Texture2D" uid="uid://ctygng4khdxgx" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0001.tga" id="1_f2bna"]
+[ext_resource type="Texture2D" uid="uid://u4x04j8wejic" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0002.tga" id="2_qct42"]
+[ext_resource type="Texture2D" uid="uid://qmio3haskcx1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0003.tga" id="3_swgqa"]
+[ext_resource type="Texture2D" uid="uid://bepbyxap4pvmu" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0004.tga" id="4_agt7d"]
+[ext_resource type="Texture2D" uid="uid://cnt5uyhjeq200" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0005.tga" id="5_gs5hs"]
+[ext_resource type="Texture2D" uid="uid://blsjq2v5p20m0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0006.tga" id="6_d1wba"]
+[ext_resource type="Texture2D" uid="uid://cdam4uc5pv5j0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0007.tga" id="7_0osn8"]
+[ext_resource type="Texture2D" uid="uid://c47008o1kfjri" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0008.tga" id="8_gocce"]
+[ext_resource type="Texture2D" uid="uid://b4ln73ox8v38c" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0009.tga" id="9_bby7x"]
+[ext_resource type="Texture2D" uid="uid://cj3rq4kx1eb61" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0010.tga" id="10_qqsqj"]
+[ext_resource type="Texture2D" uid="uid://l5idyl54bjkl" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0011.tga" id="11_xdmg3"]
+[ext_resource type="Texture2D" uid="uid://f8807g2h430y" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0012.tga" id="12_rwmqk"]
+[ext_resource type="Texture2D" uid="uid://luhqpavf4fhe" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0013.tga" id="13_1xd6x"]
+[ext_resource type="Texture2D" uid="uid://yr7084tf6lar" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0014.tga" id="14_2xh53"]
+[ext_resource type="Texture2D" uid="uid://dxdy735qcua53" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0015.tga" id="15_cnv7s"]
+[ext_resource type="Texture2D" uid="uid://ois7eph0kkya" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0016.tga" id="16_viygq"]
+[ext_resource type="Texture2D" uid="uid://b6qsak8d5fg3f" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0017.tga" id="17_4l1ei"]
+[ext_resource type="Texture2D" uid="uid://bxsdyjt2beq27" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0018.tga" id="18_ad7lg"]
+[ext_resource type="Texture2D" uid="uid://cr8wgepqkt17f" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0019.tga" id="19_xlbc1"]
+[ext_resource type="Texture2D" uid="uid://cl44ufgv57efo" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0020.tga" id="20_33tcy"]
+[ext_resource type="Texture2D" uid="uid://iclum1i1hxhm" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0021.tga" id="21_lxkoy"]
+[ext_resource type="Texture2D" uid="uid://bwn3xav8vtnbh" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0022.tga" id="22_p2jy5"]
+[ext_resource type="Texture2D" uid="uid://dus6xo7bef1mn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0023.tga" id="23_01mg0"]
+[ext_resource type="Texture2D" uid="uid://ce2ewy884h8gl" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0024.tga" id="24_pxrxb"]
+[ext_resource type="Texture2D" uid="uid://cnbf828tpg356" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0025.tga" id="25_ol6gb"]
+[ext_resource type="Texture2D" uid="uid://bloop7l4mdmuf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0026.tga" id="26_bygme"]
+[ext_resource type="Texture2D" uid="uid://ch564y8n27gsy" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0027.tga" id="27_wd5hp"]
+[ext_resource type="Texture2D" uid="uid://4a4i4nny76i5" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0028.tga" id="28_nslce"]
+[ext_resource type="Texture2D" uid="uid://dwi512t5mruwb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0029.tga" id="29_gtmpx"]
+[ext_resource type="Texture2D" uid="uid://csu1k0qfodh7b" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0030.tga" id="30_e1op6"]
+[ext_resource type="Texture2D" uid="uid://3jxdcb771xbf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0031.tga" id="31_e6fs4"]
+[ext_resource type="Texture2D" uid="uid://cps18e8b4ig6n" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0032.tga" id="32_folac"]
+[ext_resource type="Texture2D" uid="uid://cbf80rab26nrk" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0033.tga" id="33_r5atu"]
+[ext_resource type="Texture2D" uid="uid://beqwpua1mvy83" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0034.tga" id="34_cr1qs"]
+[ext_resource type="Texture2D" uid="uid://c8owwdldsifjy" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0035.tga" id="35_uuqxb"]
+[ext_resource type="Texture2D" uid="uid://buwyixgc7i0ix" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0036.tga" id="36_h17ca"]
+[ext_resource type="Texture2D" uid="uid://c6rx5yt45xavc" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0037.tga" id="37_aw8ts"]
+[ext_resource type="Texture2D" uid="uid://bnt7y3sx5udr1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0038.tga" id="38_dcppq"]
+[ext_resource type="Texture2D" uid="uid://cd3qyk1jt8f7q" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0039.tga" id="39_7bgc8"]
+[ext_resource type="Texture2D" uid="uid://dbd73xf2nywfr" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0040.tga" id="40_ry8u7"]
+[ext_resource type="Texture2D" uid="uid://bs1wvuuekria" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0041.tga" id="41_2w6gg"]
+[ext_resource type="Texture2D" uid="uid://bykbgcdrbklvk" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0042.tga" id="42_e075r"]
+[ext_resource type="Texture2D" uid="uid://cqnb2g5nfo2d1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0043.tga" id="43_jl86p"]
+[ext_resource type="Texture2D" uid="uid://d0f3i228myokp" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0044.tga" id="44_78rp6"]
+[ext_resource type="Texture2D" uid="uid://cgcg71nket3dr" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0045.tga" id="45_ldll1"]
+[ext_resource type="Texture2D" uid="uid://b838kkak0p21w" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0046.tga" id="46_srq2t"]
+[ext_resource type="Texture2D" uid="uid://bfr7jbg4gn2aw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0047.tga" id="47_pcg4q"]
+[ext_resource type="Texture2D" uid="uid://blddq0svxntd6" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0048.tga" id="48_yh2lp"]
+[ext_resource type="Texture2D" uid="uid://cruq31klq8a5n" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0049.tga" id="49_n5wj0"]
+[ext_resource type="Texture2D" uid="uid://br383iydatfuc" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0050.tga" id="50_b1i4y"]
+[ext_resource type="Texture2D" uid="uid://cy270ul78nc5b" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0051.tga" id="51_2bj0d"]
+[ext_resource type="Texture2D" uid="uid://cmikesvnu77oq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0052.tga" id="52_c4lv2"]
+[ext_resource type="Texture2D" uid="uid://bbdam2ssocqrl" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0053.tga" id="53_ynqmg"]
+[ext_resource type="Texture2D" uid="uid://bw3y0o1o3ojkm" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0054.tga" id="54_kg1wy"]
+[ext_resource type="Texture2D" uid="uid://bgtsqh557abn0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0055.tga" id="55_8twsf"]
+[ext_resource type="Texture2D" uid="uid://c2vgrbkinpgny" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0056.tga" id="56_llpj5"]
+[ext_resource type="Texture2D" uid="uid://dw4qxw8d2rxrb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0057.tga" id="57_85tdj"]
+[ext_resource type="Texture2D" uid="uid://c8rt4jt4cn0r" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0058.tga" id="58_6tqna"]
+[ext_resource type="Texture2D" uid="uid://cl2tisihd4078" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0059.tga" id="59_vlcgm"]
+[ext_resource type="Texture2D" uid="uid://dym1gwhbp6bm1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0060.tga" id="60_6ipsu"]
+[ext_resource type="Texture2D" uid="uid://cu8h1xagbtk02" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0061.tga" id="61_qfyx1"]
+[ext_resource type="Texture2D" uid="uid://vjucisa8wdb6" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0062.tga" id="62_766ce"]
+[ext_resource type="Texture2D" uid="uid://n76tvw37l11b" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0063.tga" id="63_0hdww"]
+[ext_resource type="Texture2D" uid="uid://bwmpb6agodnh2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0064.tga" id="64_ylbrt"]
+[ext_resource type="Texture2D" uid="uid://bsvq8lgjruhhr" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0065.tga" id="65_3erch"]
+[ext_resource type="Texture2D" uid="uid://c10my4xhfoiur" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0066.tga" id="66_n7gjc"]
+[ext_resource type="Texture2D" uid="uid://c215wr3qcwjyd" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0067.tga" id="67_jgp78"]
+[ext_resource type="Texture2D" uid="uid://gd0chqptk2bd" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0068.tga" id="68_laydj"]
+[ext_resource type="Texture2D" uid="uid://dc383bdn4v348" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0069.tga" id="69_3h3qx"]
+[ext_resource type="Texture2D" uid="uid://c0ctge26iiv14" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0070.tga" id="70_sm7yj"]
+[ext_resource type="Texture2D" uid="uid://b37c651s4y3k2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0071.tga" id="71_v7x33"]
+[ext_resource type="Texture2D" uid="uid://dn8e4lbxira5t" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0072.tga" id="72_a3ugk"]
+[ext_resource type="Texture2D" uid="uid://0sv7t1so8sqw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0073.tga" id="73_utenm"]
+[ext_resource type="Texture2D" uid="uid://woe8r7fs0bqg" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0074.tga" id="74_8t5na"]
+[ext_resource type="Texture2D" uid="uid://y3d1r0t5rgct" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0075.tga" id="75_ja3u2"]
+[ext_resource type="Texture2D" uid="uid://7er0qy0ee62j" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0076.tga" id="76_s35x1"]
+[ext_resource type="Texture2D" uid="uid://0tbhibipak3h" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0077.tga" id="77_3yyv0"]
+[ext_resource type="Texture2D" uid="uid://ddtr0wyjvsgt0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0078.tga" id="78_domlx"]
+[ext_resource type="Texture2D" uid="uid://dishdsue18npf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0079.tga" id="79_bclk3"]
+[ext_resource type="Texture2D" uid="uid://cjw6d74xbwunr" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0080.tga" id="80_awmwp"]
+[ext_resource type="Texture2D" uid="uid://dnfy8f1t3vufl" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0081.tga" id="81_pochb"]
+[ext_resource type="Texture2D" uid="uid://eclnbo3us4tc" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0082.tga" id="82_eohso"]
+[ext_resource type="Texture2D" uid="uid://b4awhcy1jwg21" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0083.tga" id="83_f7bmr"]
+[ext_resource type="Texture2D" uid="uid://mlhykkpuxtb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0084.tga" id="84_veh1m"]
+[ext_resource type="Texture2D" uid="uid://d36p8w0i76cnj" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0085.tga" id="85_qipdi"]
+[ext_resource type="Texture2D" uid="uid://doo7kgbc2qvcn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0086.tga" id="86_un58v"]
+[ext_resource type="Texture2D" uid="uid://beie5bb8njqp1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0087.tga" id="87_g8sa5"]
+[ext_resource type="Texture2D" uid="uid://creejenx570uc" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0088.tga" id="88_hlhw5"]
+[ext_resource type="Texture2D" uid="uid://ddgids0u28dqa" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0089.tga" id="89_67ori"]
+[ext_resource type="Texture2D" uid="uid://ejhdh6qlkojh" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0090.tga" id="90_eo8i5"]
+[ext_resource type="Texture2D" uid="uid://c21n813tqfpgq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0091.tga" id="91_hnq0e"]
+[ext_resource type="Texture2D" uid="uid://vphgdm5186aw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0092.tga" id="92_ymwdd"]
+[ext_resource type="Texture2D" uid="uid://dkgp08y4bc7tg" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0093.tga" id="93_nn6hf"]
+[ext_resource type="Texture2D" uid="uid://bu13b4jkiwaax" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0094.tga" id="94_nl6o3"]
+[ext_resource type="Texture2D" uid="uid://op4514m3mhyn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0095.tga" id="95_hahq1"]
+[ext_resource type="Texture2D" uid="uid://dopkbdbgrq8dx" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0096.tga" id="96_j22pd"]
+[ext_resource type="Texture2D" uid="uid://dwv7dpcm1qkda" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0097.tga" id="97_5lg1w"]
+[ext_resource type="Texture2D" uid="uid://nsog5nkyf265" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0098.tga" id="98_5uo7o"]
+[ext_resource type="Texture2D" uid="uid://beahjgnu0pfd1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0099.tga" id="99_0wty3"]
+[ext_resource type="Texture2D" uid="uid://dscmakpwf7vv2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0100.tga" id="100_mwhlt"]
+[ext_resource type="Texture2D" uid="uid://m1d2mwaabjl1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0101.tga" id="101_8jf78"]
+[ext_resource type="Texture2D" uid="uid://dmfuxny8yv4ht" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0102.tga" id="102_bj03g"]
+[ext_resource type="Texture2D" uid="uid://b1fqfrjhilcy5" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0103.tga" id="103_nxgud"]
+[ext_resource type="Texture2D" uid="uid://2wjcljgq6v4n" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0104.tga" id="104_hm2f3"]
+[ext_resource type="Texture2D" uid="uid://bea7kb2csk8yt" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0105.tga" id="105_3jaqt"]
+[ext_resource type="Texture2D" uid="uid://p7mx40u3bo1s" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0106.tga" id="106_7uuwf"]
+[ext_resource type="Texture2D" uid="uid://cmijs378vhtys" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0107.tga" id="107_hlpvt"]
+[ext_resource type="Texture2D" uid="uid://c3b05djvah2pt" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0108.tga" id="108_6h1nf"]
+[ext_resource type="Texture2D" uid="uid://b4da7gr8n5647" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0109.tga" id="109_3ptaw"]
+[ext_resource type="Texture2D" uid="uid://317806kkfc1x" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0110.tga" id="110_w4f1j"]
+[ext_resource type="Texture2D" uid="uid://dgq6w1v46pn1i" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0111.tga" id="111_m6cdp"]
+[ext_resource type="Texture2D" uid="uid://d0ejoenkstdb0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0112.tga" id="112_dc52w"]
+[ext_resource type="Texture2D" uid="uid://b5waly3olt0ax" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0113.tga" id="113_tj2gk"]
+[ext_resource type="Texture2D" uid="uid://bkrsw5vdrvyyk" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0114.tga" id="114_t5t4j"]
+[ext_resource type="Texture2D" uid="uid://c8jdlluicuduo" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0115.tga" id="115_2pkcv"]
+[ext_resource type="Texture2D" uid="uid://c0kfbrexud4j8" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0116.tga" id="116_2l4dk"]
+[ext_resource type="Texture2D" uid="uid://b753s78wy7nc1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0117.tga" id="117_vw806"]
+[ext_resource type="Texture2D" uid="uid://djo8ro2rprby3" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0118.tga" id="118_nnv5s"]
+[ext_resource type="Texture2D" uid="uid://b4edaofm0qt0w" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0119.tga" id="119_ju4ux"]
+[ext_resource type="Texture2D" uid="uid://dledeic6rk4jh" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0120.tga" id="120_33se2"]
+[ext_resource type="Texture2D" uid="uid://dwvtnt1ucyehq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0121.tga" id="121_j5kh6"]
+[ext_resource type="Texture2D" uid="uid://115o8q8xop28" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0122.tga" id="122_7rbx2"]
+[ext_resource type="Texture2D" uid="uid://h1kvpc66pdp0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0123.tga" id="123_oepif"]
+[ext_resource type="Texture2D" uid="uid://bccfa3t816h75" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0124.tga" id="124_y2ecr"]
+[ext_resource type="Texture2D" uid="uid://dw5kvx37fndc0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0125.tga" id="125_nt422"]
+[ext_resource type="Texture2D" uid="uid://d0gqlwjhdejx2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0126.tga" id="126_q85bl"]
+[ext_resource type="Texture2D" uid="uid://cqowf2tld5mmt" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0127.tga" id="127_f1h7x"]
+[ext_resource type="Texture2D" uid="uid://db12d7qxg3fad" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0128.tga" id="128_o5kym"]
+[ext_resource type="Texture2D" uid="uid://c5l0y1glb75fn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0129.tga" id="129_yw85h"]
+[ext_resource type="Texture2D" uid="uid://db0urheo1pa00" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0130.tga" id="130_nq7am"]
+[ext_resource type="Texture2D" uid="uid://r8j0agq0qmbw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0131.tga" id="131_g1v7m"]
+[ext_resource type="Texture2D" uid="uid://qp8qurm4om1x" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0132.tga" id="132_grx7r"]
+[ext_resource type="Texture2D" uid="uid://c0ogm58o8g1u2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0133.tga" id="133_315xf"]
+[ext_resource type="Texture2D" uid="uid://tss5w6d4bjei" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0134.tga" id="134_cmvfi"]
+[ext_resource type="Texture2D" uid="uid://bl4hb4f6wesjh" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0135.tga" id="135_jjd0t"]
+[ext_resource type="Texture2D" uid="uid://crvjvrf6asij5" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0136.tga" id="136_x87h4"]
+[ext_resource type="Texture2D" uid="uid://bittwxoo3wgdr" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0137.tga" id="137_a00su"]
+[ext_resource type="Texture2D" uid="uid://dt3bsmluysgn0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0138.tga" id="138_3700q"]
+[ext_resource type="Texture2D" uid="uid://4rcpgkwot2ca" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0139.tga" id="139_5jllb"]
+[ext_resource type="Texture2D" uid="uid://dv3ryahd56sil" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0140.tga" id="140_yc6c2"]
+[ext_resource type="Texture2D" uid="uid://xq7x6lb2uq8g" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0141.tga" id="141_c0i0p"]
+[ext_resource type="Texture2D" uid="uid://bxcpbp5japgon" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0142.tga" id="142_f4a8e"]
+[ext_resource type="Texture2D" uid="uid://co4fj8ao32dnq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0143.tga" id="143_iukqh"]
+[ext_resource type="Texture2D" uid="uid://dn5cx33xtgdr1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0144.tga" id="144_oupqx"]
+[ext_resource type="Texture2D" uid="uid://b88kicu42vy3i" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0145.tga" id="145_0huxc"]
+[ext_resource type="Texture2D" uid="uid://c6oj2v6vkakpv" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0146.tga" id="146_ry85r"]
+[ext_resource type="Texture2D" uid="uid://c5d3q2akmbovu" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0147.tga" id="147_s2k1n"]
+[ext_resource type="Texture2D" uid="uid://mir1gl7qvn86" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0148.tga" id="148_1mpnt"]
+[ext_resource type="Texture2D" uid="uid://00br6lel67rc" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0149.tga" id="149_7klms"]
+[ext_resource type="Texture2D" uid="uid://bywbwg8051eb0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0150.tga" id="150_0k2q1"]
+[ext_resource type="Texture2D" uid="uid://1injuu3dpuqa" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0151.tga" id="151_87xyf"]
+[ext_resource type="Texture2D" uid="uid://h8qdrnrh052k" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0152.tga" id="152_m14h0"]
+[ext_resource type="Texture2D" uid="uid://bus1hqw3gfpnu" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0153.tga" id="153_ejy6v"]
+[ext_resource type="Texture2D" uid="uid://cxyxru17wviyx" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0154.tga" id="154_8gdeb"]
+[ext_resource type="Texture2D" uid="uid://ccqhi08lygxu2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0155.tga" id="155_cygf5"]
+[ext_resource type="Texture2D" uid="uid://1pqthqqqbyup" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0156.tga" id="156_f4fhr"]
+[ext_resource type="Texture2D" uid="uid://bcxaagau7pwcv" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0157.tga" id="157_caqlf"]
+[ext_resource type="Texture2D" uid="uid://dsbym1r05c80b" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0158.tga" id="158_tupim"]
+[ext_resource type="Texture2D" uid="uid://bkqex11kf6gy5" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0159.tga" id="159_3mwrw"]
+[ext_resource type="Texture2D" uid="uid://x7u3t2mg6cos" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0160.tga" id="160_ay60d"]
+[ext_resource type="Texture2D" uid="uid://4m2cscg4jl7u" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0161.tga" id="161_qext5"]
+[ext_resource type="Texture2D" uid="uid://devwt5n1fxogc" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0162.tga" id="162_qo62e"]
+[ext_resource type="Texture2D" uid="uid://cuqij1huqmq2g" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0163.tga" id="163_awsts"]
+[ext_resource type="Texture2D" uid="uid://cxde5g81c1jq5" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0164.tga" id="164_brt4x"]
+[ext_resource type="Texture2D" uid="uid://cdsg5pg5h3l2i" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0165.tga" id="165_ov13k"]
+[ext_resource type="Texture2D" uid="uid://6mwy73ypb8vk" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0166.tga" id="166_ukkl3"]
+[ext_resource type="Texture2D" uid="uid://p3drd7uahie3" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0167.tga" id="167_46bgp"]
+[ext_resource type="Texture2D" uid="uid://e8snfn4u4beq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0168.tga" id="168_exgtg"]
+[ext_resource type="Texture2D" uid="uid://cgxwyg26y0m6" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0169.tga" id="169_v68wm"]
+[ext_resource type="Texture2D" uid="uid://dp0s17jolykci" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0170.tga" id="170_rfqu8"]
+[ext_resource type="Texture2D" uid="uid://bkxp3lm8vuuqn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0171.tga" id="171_0i7oq"]
+[ext_resource type="Texture2D" uid="uid://45wfbn40cixu" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0172.tga" id="172_jjb7j"]
+[ext_resource type="Texture2D" uid="uid://b0itgvrocy0i6" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0173.tga" id="173_4anfu"]
+[ext_resource type="Texture2D" uid="uid://dup05q43ucpmj" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0174.tga" id="174_b5x43"]
+[ext_resource type="Texture2D" uid="uid://bn7pl5dix450t" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0175.tga" id="175_6shrd"]
+[ext_resource type="Texture2D" uid="uid://bf08eufmujnrb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0176.tga" id="176_7cisf"]
+[ext_resource type="Texture2D" uid="uid://4fxup6o5huhe" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0177.tga" id="177_iif4x"]
+[ext_resource type="Texture2D" uid="uid://clhbv2vvpj67j" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0178.tga" id="178_7xi2i"]
+[ext_resource type="Texture2D" uid="uid://0p32vb2ink48" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0179.tga" id="179_4iayh"]
+[ext_resource type="Texture2D" uid="uid://dl3sjmkpkyjma" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0180.tga" id="180_1xmk1"]
+[ext_resource type="Texture2D" uid="uid://b2lcd8htyvilp" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0181.tga" id="181_2pxe7"]
+[ext_resource type="Texture2D" uid="uid://60f1wtjrwdn2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0182.tga" id="182_os2sn"]
+[ext_resource type="Texture2D" uid="uid://c2rhncymycpe2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0183.tga" id="183_7xdh7"]
+[ext_resource type="Texture2D" uid="uid://dlbc5ariynm83" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0184.tga" id="184_reyo1"]
+[ext_resource type="Texture2D" uid="uid://cnceiik5i3lu" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0185.tga" id="185_eu6n4"]
+[ext_resource type="Texture2D" uid="uid://dn05y7rx8ucpn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0186.tga" id="186_xajph"]
+[ext_resource type="Texture2D" uid="uid://cu56hukwwdaif" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0187.tga" id="187_w01ft"]
+[ext_resource type="Texture2D" uid="uid://xnl3qu3m4460" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0188.tga" id="188_jxqg0"]
+[ext_resource type="Texture2D" uid="uid://dd86lf78ikwkq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0189.tga" id="189_n2rwl"]
+[ext_resource type="Texture2D" uid="uid://cr82uhr2c17vk" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0190.tga" id="190_koe2r"]
+[ext_resource type="Texture2D" uid="uid://cikqjenqqak37" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0191.tga" id="191_7ps0a"]
+[ext_resource type="Texture2D" uid="uid://bxgvcv8t20fb6" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0192.tga" id="192_mfvs7"]
+[ext_resource type="Texture2D" uid="uid://drimnce3tc33e" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0193.tga" id="193_bda4w"]
+[ext_resource type="Texture2D" uid="uid://o14rt6tcx53e" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0194.tga" id="194_ldmak"]
+[ext_resource type="Texture2D" uid="uid://bmj4qhof7o828" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0195.tga" id="195_f5qo0"]
+[ext_resource type="Texture2D" uid="uid://d5vsow51yb7v" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0196.tga" id="196_8b4p4"]
+[ext_resource type="Texture2D" uid="uid://b6y5gn7v2x6hs" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0197.tga" id="197_8msgk"]
+[ext_resource type="Texture2D" uid="uid://b60dptsufyjaf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0198.tga" id="198_fkb8n"]
+[ext_resource type="Texture2D" uid="uid://c8ynvqkvm10f2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0199.tga" id="199_45pef"]
+[ext_resource type="Texture2D" uid="uid://c8odbcuy3nxn1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0200.tga" id="200_70nph"]
+[ext_resource type="Texture2D" uid="uid://cqwivck43rm6o" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0201.tga" id="201_ety5l"]
+[ext_resource type="Texture2D" uid="uid://g0u0gbm0mg3v" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0202.tga" id="202_8m4i3"]
+[ext_resource type="Texture2D" uid="uid://ncaogcxe0y26" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0203.tga" id="203_xlow8"]
+[ext_resource type="Texture2D" uid="uid://dbmfgnyo2p1bi" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0204.tga" id="204_po5tm"]
+[ext_resource type="Texture2D" uid="uid://mdn81pu1g46j" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0205.tga" id="205_sm5oi"]
+[ext_resource type="Texture2D" uid="uid://b0n81c5pni5bt" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0206.tga" id="206_2ft0d"]
+[ext_resource type="Texture2D" uid="uid://d4j8hrmgixicl" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0207.tga" id="207_r7wwp"]
+[ext_resource type="Texture2D" uid="uid://dul8lhf1wompk" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0208.tga" id="208_6885v"]
+[ext_resource type="Texture2D" uid="uid://dj7uio4brk8qt" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0209.tga" id="209_86iqb"]
+[ext_resource type="Texture2D" uid="uid://34nvjr4t21g2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0210.tga" id="210_dipjr"]
+[ext_resource type="Texture2D" uid="uid://c4s44sxtrlc5w" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0211.tga" id="211_a2s05"]
+[ext_resource type="Texture2D" uid="uid://bxn17ly5v0awf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0212.tga" id="212_1uc7f"]
+[ext_resource type="Texture2D" uid="uid://ciqtu5lx86cl2" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0213.tga" id="213_6bcrx"]
+[ext_resource type="Texture2D" uid="uid://dyfv8bkk4p7i" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0214.tga" id="214_mfmj1"]
+[ext_resource type="Texture2D" uid="uid://rsvisex7i3ej" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0215.tga" id="215_jc6vn"]
+[ext_resource type="Texture2D" uid="uid://bxuq017hprbxq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0216.tga" id="216_y88li"]
+[ext_resource type="Texture2D" uid="uid://ibxar4qsvtkr" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0217.tga" id="217_f7ere"]
+[ext_resource type="Texture2D" uid="uid://4gu7eo24vevv" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0218.tga" id="218_kgfp2"]
+[ext_resource type="Texture2D" uid="uid://brhpn8tvhxpv1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0219.tga" id="219_sooh5"]
+[ext_resource type="Texture2D" uid="uid://hxf3iwiude7i" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0220.tga" id="220_wr2vd"]
+[ext_resource type="Texture2D" uid="uid://ck6cev5kt2tfe" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0221.tga" id="221_vp5ya"]
+[ext_resource type="Texture2D" uid="uid://bb6lf0y5cw3sf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0222.tga" id="222_sh82v"]
+[ext_resource type="Texture2D" uid="uid://8rjtjra624y" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0223.tga" id="223_4p4ji"]
+[ext_resource type="Texture2D" uid="uid://bn34gt85xfouw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0224.tga" id="224_rmqr6"]
+[ext_resource type="Texture2D" uid="uid://c6imja2p3gsbn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0225.tga" id="225_8brk4"]
+[ext_resource type="Texture2D" uid="uid://bppqgowwy37wn" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0226.tga" id="226_3fjmc"]
+[ext_resource type="Texture2D" uid="uid://cneknh7sroacy" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0227.tga" id="227_d8mlr"]
+[ext_resource type="Texture2D" uid="uid://bg0h1tssooqcw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0228.tga" id="228_pxb6s"]
+[ext_resource type="Texture2D" uid="uid://28y1duvym5vx" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0229.tga" id="229_7ef8l"]
+[ext_resource type="Texture2D" uid="uid://dc0j2c56q7kmw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0230.tga" id="230_1iwka"]
+[ext_resource type="Texture2D" uid="uid://l5xn61i4u3re" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0231.tga" id="231_2pvnq"]
+[ext_resource type="Texture2D" uid="uid://bijp8t12sgg6v" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0232.tga" id="232_mtyhg"]
+[ext_resource type="Texture2D" uid="uid://3ydw0rxxcpye" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0233.tga" id="233_7y8w6"]
+[ext_resource type="Texture2D" uid="uid://duge16nweu3we" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0234.tga" id="234_7stwp"]
+[ext_resource type="Texture2D" uid="uid://c1h01ghxxy17v" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0235.tga" id="235_djb1a"]
+[ext_resource type="Texture2D" uid="uid://bpmhlbpm0qs56" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0236.tga" id="236_5pefd"]
+[ext_resource type="Texture2D" uid="uid://b0ap7svt0fepo" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0237.tga" id="237_5trmh"]
+[ext_resource type="Texture2D" uid="uid://cltmscmlhqdtw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0238.tga" id="238_lowqk"]
+[ext_resource type="Texture2D" uid="uid://pmgu43vrpqwf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0239.tga" id="239_vp4kb"]
+[ext_resource type="Texture2D" uid="uid://1hcxqmqv4rb4" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0240.tga" id="240_2gihc"]
+[ext_resource type="Texture2D" uid="uid://cshmh6rorl6db" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0241.tga" id="241_5mk6u"]
+[ext_resource type="Texture2D" uid="uid://b3ddfgjgq7xuf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0242.tga" id="242_xktlq"]
+[ext_resource type="Texture2D" uid="uid://bfu1w00evvlvh" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0243.tga" id="243_xhgae"]
+[ext_resource type="Texture2D" uid="uid://7wp336kjwciy" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0244.tga" id="244_m5w5i"]
+[ext_resource type="Texture2D" uid="uid://bwj1ta737rxew" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0245.tga" id="245_4h3lo"]
+[ext_resource type="Texture2D" uid="uid://cuuyxqtejum2x" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0246.tga" id="246_smaxy"]
+[ext_resource type="Texture2D" uid="uid://xiigcikkmlmc" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0247.tga" id="247_uklag"]
+[ext_resource type="Texture2D" uid="uid://bde2c1gji4amb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0248.tga" id="248_x30h8"]
+[ext_resource type="Texture2D" uid="uid://dfro3238snx6o" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0249.tga" id="249_rq51q"]
+[ext_resource type="Texture2D" uid="uid://bd3mi3bl1maa8" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0250.tga" id="250_qn4l0"]
+[ext_resource type="Texture2D" uid="uid://bqty717ihvu52" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0251.tga" id="251_rddpi"]
+[ext_resource type="Texture2D" uid="uid://ct04st7qhcxjt" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0252.tga" id="252_opjhc"]
+[ext_resource type="Texture2D" uid="uid://bnuf4dl3h8egh" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0253.tga" id="253_mfyg8"]
+[ext_resource type="Texture2D" uid="uid://bcxwnophe510e" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0254.tga" id="254_unvxl"]
+[ext_resource type="Texture2D" uid="uid://bquxotuforst3" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0255.tga" id="255_6gxmg"]
+[ext_resource type="Texture2D" uid="uid://bh70isr6nsibu" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0256.tga" id="256_76ite"]
+[ext_resource type="Texture2D" uid="uid://bh3o02n4a04np" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0257.tga" id="257_2ykyh"]
+[ext_resource type="Texture2D" uid="uid://hkicnqtad13b" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0258.tga" id="258_ywsvf"]
+[ext_resource type="Texture2D" uid="uid://d7eptbb04udk" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0259.tga" id="259_voqol"]
+[ext_resource type="Texture2D" uid="uid://cm4soobchgd8w" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0260.tga" id="260_ox1ch"]
+[ext_resource type="Texture2D" uid="uid://c12ut150u70gy" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0261.tga" id="261_i6v8h"]
+[ext_resource type="Texture2D" uid="uid://dibuwylwdsxay" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0262.tga" id="262_iuysd"]
+[ext_resource type="Texture2D" uid="uid://cy3ywjl22gyak" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0263.tga" id="263_tey56"]
+[ext_resource type="Texture2D" uid="uid://dr7n8hkr0wyg" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0264.tga" id="264_oi3wa"]
+[ext_resource type="Texture2D" uid="uid://bld3paaeacdq1" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0265.tga" id="265_cj01a"]
+[ext_resource type="Texture2D" uid="uid://d0t2lxvi45kt" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0266.tga" id="266_w338h"]
+[ext_resource type="Texture2D" uid="uid://bwk7aq3q2e2xv" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0267.tga" id="267_a3b5c"]
+[ext_resource type="Texture2D" uid="uid://d2tj0v8nhk6eq" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0268.tga" id="268_gx0iu"]
+[ext_resource type="Texture2D" uid="uid://2nttkbcbr1du" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0269.tga" id="269_4ifr7"]
+[ext_resource type="Texture2D" uid="uid://baenyf00p6k1x" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0270.tga" id="270_r8a8q"]
+[ext_resource type="Texture2D" uid="uid://b24a7glctn3i8" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0271.tga" id="271_k8882"]
+[ext_resource type="Texture2D" uid="uid://b2k61hpox41mm" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0272.tga" id="272_whjbh"]
+[ext_resource type="Texture2D" uid="uid://laspoopm65nf" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0273.tga" id="273_5g41p"]
+[ext_resource type="Texture2D" uid="uid://d0uvfja24qtda" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0274.tga" id="274_a4swt"]
+[ext_resource type="Texture2D" uid="uid://dmubw0xdnw6mu" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0275.tga" id="275_ho1fv"]
+[ext_resource type="Texture2D" uid="uid://c78sknddosmej" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0276.tga" id="276_lsgb7"]
+[ext_resource type="Texture2D" uid="uid://bptq7lvm2uu2o" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0277.tga" id="277_wpo3f"]
+[ext_resource type="Texture2D" uid="uid://b4l6vce0fpjvb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0278.tga" id="278_ulph1"]
+[ext_resource type="Texture2D" uid="uid://dppaxiystaxlm" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0279.tga" id="279_aqwww"]
+[ext_resource type="Texture2D" uid="uid://b3yk85p62qkkw" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0280.tga" id="280_y67hk"]
+[ext_resource type="Texture2D" uid="uid://dadk7b35i8xs6" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0281.tga" id="281_jmxv4"]
+[ext_resource type="Texture2D" uid="uid://damf4h1blkpse" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0282.tga" id="282_bhw86"]
+[ext_resource type="Texture2D" uid="uid://g7n1ichfftxx" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0283.tga" id="283_vpjcy"]
+[ext_resource type="Texture2D" uid="uid://tm6407ohpjh7" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0284.tga" id="284_r3nmi"]
+[ext_resource type="Texture2D" uid="uid://bsok15pho31ad" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0285.tga" id="285_5i4o4"]
+[ext_resource type="Texture2D" uid="uid://moo12lu2iynr" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0286.tga" id="286_snf66"]
+[ext_resource type="Texture2D" uid="uid://c3w5xidwhfv8m" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0287.tga" id="287_hy1an"]
+[ext_resource type="Texture2D" uid="uid://blgu013c1wt0f" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0288.tga" id="288_6ob6g"]
+[ext_resource type="Texture2D" uid="uid://dyhfrf0bc1pm4" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0289.tga" id="289_a04jj"]
+[ext_resource type="Texture2D" uid="uid://bve5o6001xyx0" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0290.tga" id="290_o8i6m"]
+[ext_resource type="Texture2D" uid="uid://dl8dw2ff052mb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0291.tga" id="291_2oxw5"]
+[ext_resource type="Texture2D" uid="uid://crfr1yojtid65" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0292.tga" id="292_4fnm6"]
+[ext_resource type="Texture2D" uid="uid://bpjdymykmhygj" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0293.tga" id="293_p5txt"]
+[ext_resource type="Texture2D" uid="uid://c4tv4nigdp5y4" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0294.tga" id="294_flsbl"]
+[ext_resource type="Texture2D" uid="uid://biu3vowac54y3" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0295.tga" id="295_oyvx7"]
+[ext_resource type="Texture2D" uid="uid://dbhw8sayv8jv3" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0296.tga" id="296_wk8iy"]
+[ext_resource type="Texture2D" uid="uid://cbke5w83sf0qh" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0297.tga" id="297_g05cl"]
+[ext_resource type="Texture2D" uid="uid://k8popg5tqowb" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0298.tga" id="298_dc4kd"]
+[ext_resource type="Texture2D" uid="uid://bbuucjwcjgn1y" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0299.tga" id="299_pyf23"]
+[ext_resource type="Texture2D" uid="uid://prqrjs5o5x46" path="res://images/computer_monitor_genetic_analyzer_256_128/computer_monitor_genetic_analyzer_256_128.0300.tga" id="300_4u7al"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ltohr"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_f2bna")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_qct42")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_swgqa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_agt7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_gs5hs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_d1wba")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_0osn8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_gocce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_bby7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_qqsqj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_xdmg3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_rwmqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_1xd6x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_2xh53")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_cnv7s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_viygq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_4l1ei")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_ad7lg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_xlbc1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_33tcy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_lxkoy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_p2jy5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_01mg0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_pxrxb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_ol6gb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_bygme")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_wd5hp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_nslce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_gtmpx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_e1op6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_e6fs4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_folac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_r5atu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_cr1qs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_uuqxb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_h17ca")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_aw8ts")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_dcppq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_7bgc8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_ry8u7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_2w6gg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_e075r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_jl86p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_78rp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_ldll1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_srq2t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_pcg4q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_yh2lp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_n5wj0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_b1i4y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_2bj0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_c4lv2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_ynqmg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_kg1wy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_8twsf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_llpj5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_85tdj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_6tqna")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_vlcgm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_6ipsu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_qfyx1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_766ce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_0hdww")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_ylbrt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_3erch")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_n7gjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_jgp78")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_laydj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_3h3qx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_sm7yj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_v7x33")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_a3ugk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_utenm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_8t5na")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_ja3u2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_s35x1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_3yyv0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_domlx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_bclk3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_awmwp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_pochb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_eohso")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_f7bmr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_veh1m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_qipdi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_un58v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_g8sa5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_hlhw5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_67ori")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_eo8i5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_hnq0e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_ymwdd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_nn6hf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_nl6o3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_hahq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_j22pd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_5lg1w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_5uo7o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_0wty3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_mwhlt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_8jf78")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_bj03g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_nxgud")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_hm2f3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_3jaqt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_7uuwf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_hlpvt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_6h1nf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_3ptaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_w4f1j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_m6cdp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_dc52w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_tj2gk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_t5t4j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_2pkcv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_2l4dk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_vw806")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_nnv5s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_ju4ux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_33se2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_j5kh6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_7rbx2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_oepif")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_y2ecr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_nt422")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_q85bl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_f1h7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_o5kym")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_yw85h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_nq7am")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_g1v7m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_grx7r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_315xf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_cmvfi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_jjd0t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_x87h4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_a00su")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_3700q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_5jllb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_yc6c2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_c0i0p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_f4a8e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_iukqh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_oupqx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_0huxc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_ry85r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_s2k1n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_1mpnt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_7klms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_0k2q1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_87xyf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_m14h0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_ejy6v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_8gdeb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_cygf5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_f4fhr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_caqlf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_tupim")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_3mwrw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_ay60d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_qext5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_qo62e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_awsts")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_brt4x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_ov13k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_ukkl3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_46bgp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_exgtg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_v68wm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_rfqu8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_0i7oq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_jjb7j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_4anfu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_b5x43")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_6shrd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_7cisf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_iif4x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_7xi2i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_4iayh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_1xmk1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_2pxe7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_os2sn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_7xdh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_reyo1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_eu6n4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_xajph")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_w01ft")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_jxqg0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_n2rwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_koe2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_7ps0a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_mfvs7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_bda4w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_ldmak")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_f5qo0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_8b4p4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_8msgk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_fkb8n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_45pef")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_70nph")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_ety5l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("202_8m4i3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("203_xlow8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("204_po5tm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("205_sm5oi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("206_2ft0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("207_r7wwp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("208_6885v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("209_86iqb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("210_dipjr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("211_a2s05")
+}, {
+"duration": 1.0,
+"texture": ExtResource("212_1uc7f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("213_6bcrx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("214_mfmj1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("215_jc6vn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("216_y88li")
+}, {
+"duration": 1.0,
+"texture": ExtResource("217_f7ere")
+}, {
+"duration": 1.0,
+"texture": ExtResource("218_kgfp2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("219_sooh5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("220_wr2vd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("221_vp5ya")
+}, {
+"duration": 1.0,
+"texture": ExtResource("222_sh82v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("223_4p4ji")
+}, {
+"duration": 1.0,
+"texture": ExtResource("224_rmqr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("225_8brk4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("226_3fjmc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("227_d8mlr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("228_pxb6s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("229_7ef8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("230_1iwka")
+}, {
+"duration": 1.0,
+"texture": ExtResource("231_2pvnq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("232_mtyhg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("233_7y8w6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("234_7stwp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("235_djb1a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("236_5pefd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("237_5trmh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("238_lowqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("239_vp4kb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("240_2gihc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("241_5mk6u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("242_xktlq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("243_xhgae")
+}, {
+"duration": 1.0,
+"texture": ExtResource("244_m5w5i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("245_4h3lo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("246_smaxy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("247_uklag")
+}, {
+"duration": 1.0,
+"texture": ExtResource("248_x30h8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("249_rq51q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("250_qn4l0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_rddpi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_opjhc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("253_mfyg8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_unvxl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_6gxmg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_76ite")
+}, {
+"duration": 1.0,
+"texture": ExtResource("257_2ykyh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("258_ywsvf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("259_voqol")
+}, {
+"duration": 1.0,
+"texture": ExtResource("260_ox1ch")
+}, {
+"duration": 1.0,
+"texture": ExtResource("261_i6v8h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("262_iuysd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("263_tey56")
+}, {
+"duration": 1.0,
+"texture": ExtResource("264_oi3wa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("265_cj01a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("266_w338h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("267_a3b5c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("268_gx0iu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("269_4ifr7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("270_r8a8q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("271_k8882")
+}, {
+"duration": 1.0,
+"texture": ExtResource("272_whjbh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("273_5g41p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("274_a4swt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("275_ho1fv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("276_lsgb7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("277_wpo3f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("278_ulph1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("279_aqwww")
+}, {
+"duration": 1.0,
+"texture": ExtResource("280_y67hk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("281_jmxv4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("282_bhw86")
+}, {
+"duration": 1.0,
+"texture": ExtResource("283_vpjcy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("284_r3nmi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("285_5i4o4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("286_snf66")
+}, {
+"duration": 1.0,
+"texture": ExtResource("287_hy1an")
+}, {
+"duration": 1.0,
+"texture": ExtResource("288_6ob6g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("289_a04jj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("290_o8i6m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("291_2oxw5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("292_4fnm6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("293_p5txt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("294_flsbl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("295_oyvx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("296_wk8iy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("297_g05cl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("298_dc4kd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("299_pyf23")
+}, {
+"duration": 1.0,
+"texture": ExtResource("300_4u7al")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="ComputerMonitor" type="Node3D"]
+
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+pixel_size = 0.0312
+transparent = false
+double_sided = false
+texture_filter = 0
+sprite_frames = SubResource("SpriteFrames_ltohr")
+autoplay = "default"
+frame_progress = 0.283398

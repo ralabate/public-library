@@ -1,0 +1,1221 @@
+[gd_scene load_steps=302 format=3 uid="uid://b57kithsrfxin"]
+
+[ext_resource type="Texture2D" uid="uid://cwovn0pvf1c8s" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0001.tga" id="1_sbhnl"]
+[ext_resource type="Texture2D" uid="uid://ddgt3etm1r86y" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0002.tga" id="2_0e5nq"]
+[ext_resource type="Texture2D" uid="uid://dxysj6y38d73m" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0003.tga" id="3_31hjk"]
+[ext_resource type="Texture2D" uid="uid://cf0kd0ps5i4lb" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0004.tga" id="4_04blf"]
+[ext_resource type="Texture2D" uid="uid://7jdanx3xxjs6" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0005.tga" id="5_jvh1x"]
+[ext_resource type="Texture2D" uid="uid://c0so1xbehkwrx" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0006.tga" id="6_p44tj"]
+[ext_resource type="Texture2D" uid="uid://cou4go7uoc0ev" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0007.tga" id="7_wqupl"]
+[ext_resource type="Texture2D" uid="uid://lbmo5sff8yqf" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0008.tga" id="8_bvitn"]
+[ext_resource type="Texture2D" uid="uid://644i2k8r8006" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0009.tga" id="9_4ftak"]
+[ext_resource type="Texture2D" uid="uid://g6btn8xb2rxh" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0010.tga" id="10_qv2wg"]
+[ext_resource type="Texture2D" uid="uid://dxgb5yifabuim" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0011.tga" id="11_5r5ys"]
+[ext_resource type="Texture2D" uid="uid://bvmmnapi5vh1m" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0012.tga" id="12_tyayu"]
+[ext_resource type="Texture2D" uid="uid://cp7pw2a24syvc" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0013.tga" id="13_iuiho"]
+[ext_resource type="Texture2D" uid="uid://br2v3rjw7tnv7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0014.tga" id="14_1bloc"]
+[ext_resource type="Texture2D" uid="uid://dg7hcf3wyjm7o" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0015.tga" id="15_a0ooa"]
+[ext_resource type="Texture2D" uid="uid://c5g3x12bn73dt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0016.tga" id="16_oki25"]
+[ext_resource type="Texture2D" uid="uid://beelvk462trs7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0017.tga" id="17_h7dho"]
+[ext_resource type="Texture2D" uid="uid://btfkeyxo60fht" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0018.tga" id="18_65oq2"]
+[ext_resource type="Texture2D" uid="uid://cfgdulkbv8wh4" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0019.tga" id="19_1b648"]
+[ext_resource type="Texture2D" uid="uid://bq6cnju5vhrqj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0020.tga" id="20_wmnwq"]
+[ext_resource type="Texture2D" uid="uid://bibfnb5q88td1" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0021.tga" id="21_7ksiq"]
+[ext_resource type="Texture2D" uid="uid://cqv4ykwobfpp7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0022.tga" id="22_fxt5g"]
+[ext_resource type="Texture2D" uid="uid://fdw2o2rw5n23" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0023.tga" id="23_e43mp"]
+[ext_resource type="Texture2D" uid="uid://du5a7oki7j2ly" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0024.tga" id="24_cg1qm"]
+[ext_resource type="Texture2D" uid="uid://ry6ajwnq1n24" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0025.tga" id="25_qqx1b"]
+[ext_resource type="Texture2D" uid="uid://b30c1dbk6r8hv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0026.tga" id="26_h2yuq"]
+[ext_resource type="Texture2D" uid="uid://cqo4ium8rqeqt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0027.tga" id="27_6qfi1"]
+[ext_resource type="Texture2D" uid="uid://dxkjv33rctviw" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0028.tga" id="28_tm3n8"]
+[ext_resource type="Texture2D" uid="uid://l5kcfyidiwgj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0029.tga" id="29_7njhj"]
+[ext_resource type="Texture2D" uid="uid://5fr1sykyd71m" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0030.tga" id="30_27fut"]
+[ext_resource type="Texture2D" uid="uid://cs3krb3c60du4" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0031.tga" id="31_pqois"]
+[ext_resource type="Texture2D" uid="uid://bqo06n1yq8kwf" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0032.tga" id="32_todn3"]
+[ext_resource type="Texture2D" uid="uid://bi6xnsmo2lflm" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0033.tga" id="33_3py44"]
+[ext_resource type="Texture2D" uid="uid://bho5pkmuoueue" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0034.tga" id="34_26j6o"]
+[ext_resource type="Texture2D" uid="uid://cgsvyykubovs8" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0035.tga" id="35_urn3d"]
+[ext_resource type="Texture2D" uid="uid://oygv5uu7ba5v" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0036.tga" id="36_qdux2"]
+[ext_resource type="Texture2D" uid="uid://bxw2vkn4mvrl1" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0037.tga" id="37_hbdjs"]
+[ext_resource type="Texture2D" uid="uid://cjhdcjvoxhowe" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0038.tga" id="38_qid11"]
+[ext_resource type="Texture2D" uid="uid://dnx7mjweviuew" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0039.tga" id="39_hhtp5"]
+[ext_resource type="Texture2D" uid="uid://bw2ff3ms0ubbk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0040.tga" id="40_l8qqm"]
+[ext_resource type="Texture2D" uid="uid://cpa4q0ni8ep7x" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0041.tga" id="41_hiksb"]
+[ext_resource type="Texture2D" uid="uid://b6kkltpdx0kb6" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0042.tga" id="42_p4d5h"]
+[ext_resource type="Texture2D" uid="uid://ooqwygo6h8xu" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0043.tga" id="43_ul1ee"]
+[ext_resource type="Texture2D" uid="uid://cpn2qc6erbsjo" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0044.tga" id="44_4qu0o"]
+[ext_resource type="Texture2D" uid="uid://kky1u5t1dh6g" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0045.tga" id="45_nk6dl"]
+[ext_resource type="Texture2D" uid="uid://b6yyfd8w80s44" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0046.tga" id="46_cgdk8"]
+[ext_resource type="Texture2D" uid="uid://v6qpl2eh7m8c" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0047.tga" id="47_tahsi"]
+[ext_resource type="Texture2D" uid="uid://cxrr0l8g3oirk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0048.tga" id="48_ntknk"]
+[ext_resource type="Texture2D" uid="uid://clfsesg7aqu48" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0049.tga" id="49_tvwu1"]
+[ext_resource type="Texture2D" uid="uid://dljqcts8hqciv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0050.tga" id="50_o35gh"]
+[ext_resource type="Texture2D" uid="uid://c3phdfsniuplu" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0051.tga" id="51_gjbeu"]
+[ext_resource type="Texture2D" uid="uid://urbpumifdn47" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0052.tga" id="52_y18aj"]
+[ext_resource type="Texture2D" uid="uid://dvunnv7xtqqhf" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0053.tga" id="53_ah0xc"]
+[ext_resource type="Texture2D" uid="uid://dwghsig2bm30w" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0054.tga" id="54_ni0pe"]
+[ext_resource type="Texture2D" uid="uid://vdia3qvsa70d" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0055.tga" id="55_bgsrv"]
+[ext_resource type="Texture2D" uid="uid://b1pb8uh4hd30s" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0056.tga" id="56_ty7rt"]
+[ext_resource type="Texture2D" uid="uid://do25ltia2g0l7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0057.tga" id="57_qathx"]
+[ext_resource type="Texture2D" uid="uid://cw81jq2214wvn" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0058.tga" id="58_tf84p"]
+[ext_resource type="Texture2D" uid="uid://c8ulccxcniyv7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0059.tga" id="59_kbuej"]
+[ext_resource type="Texture2D" uid="uid://d0vme1cy42csm" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0060.tga" id="60_24cpl"]
+[ext_resource type="Texture2D" uid="uid://bnddsadqpt1do" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0061.tga" id="61_rmc1p"]
+[ext_resource type="Texture2D" uid="uid://cqkbxr6uxwfpy" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0062.tga" id="62_86b4h"]
+[ext_resource type="Texture2D" uid="uid://b5g5ak5a8jw7e" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0063.tga" id="63_5n2ci"]
+[ext_resource type="Texture2D" uid="uid://dvuq8230kiit5" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0064.tga" id="64_dqb13"]
+[ext_resource type="Texture2D" uid="uid://bvb52wt3lj22i" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0065.tga" id="65_hpj1y"]
+[ext_resource type="Texture2D" uid="uid://cs222dgihhisx" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0066.tga" id="66_4uv0y"]
+[ext_resource type="Texture2D" uid="uid://cahh33cseeavu" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0067.tga" id="67_u23ct"]
+[ext_resource type="Texture2D" uid="uid://d2qxjq7enlt5l" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0068.tga" id="68_4dtq3"]
+[ext_resource type="Texture2D" uid="uid://bhfladys1nbhx" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0069.tga" id="69_rplle"]
+[ext_resource type="Texture2D" uid="uid://c8v56mvlofkum" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0070.tga" id="70_u8noe"]
+[ext_resource type="Texture2D" uid="uid://cxhm7lbyaddv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0071.tga" id="71_36r2p"]
+[ext_resource type="Texture2D" uid="uid://brrqfua60v3qa" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0072.tga" id="72_ag4tc"]
+[ext_resource type="Texture2D" uid="uid://c4tioulwaykuj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0073.tga" id="73_coip6"]
+[ext_resource type="Texture2D" uid="uid://c6gtpokxvvp8o" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0074.tga" id="74_5kd6v"]
+[ext_resource type="Texture2D" uid="uid://b41vp5eosyr1u" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0075.tga" id="75_d3abe"]
+[ext_resource type="Texture2D" uid="uid://8q1yjb1vk2dy" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0076.tga" id="76_yqvfb"]
+[ext_resource type="Texture2D" uid="uid://c3k3qbr3i0fbe" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0077.tga" id="77_sxq3j"]
+[ext_resource type="Texture2D" uid="uid://beux3x1nb7lsu" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0078.tga" id="78_pnp7j"]
+[ext_resource type="Texture2D" uid="uid://oc5w4ey8k2o" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0079.tga" id="79_oeknp"]
+[ext_resource type="Texture2D" uid="uid://2l484txc3pk3" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0080.tga" id="80_vdao1"]
+[ext_resource type="Texture2D" uid="uid://cq575rn55o2ye" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0081.tga" id="81_64c51"]
+[ext_resource type="Texture2D" uid="uid://0rr0kc1i0vdy" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0082.tga" id="82_wn3yg"]
+[ext_resource type="Texture2D" uid="uid://g001lkshwyre" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0083.tga" id="83_lxsdr"]
+[ext_resource type="Texture2D" uid="uid://m4eptkbnufjl" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0084.tga" id="84_usgih"]
+[ext_resource type="Texture2D" uid="uid://djx2n0tbng21i" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0085.tga" id="85_5kowc"]
+[ext_resource type="Texture2D" uid="uid://dbi86jpnhnvtm" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0086.tga" id="86_q8exf"]
+[ext_resource type="Texture2D" uid="uid://dyccxy24ht8pe" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0087.tga" id="87_l56sy"]
+[ext_resource type="Texture2D" uid="uid://bb3g2xflccp8e" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0088.tga" id="88_2plim"]
+[ext_resource type="Texture2D" uid="uid://ckalwyt2ixl0h" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0089.tga" id="89_i5d4g"]
+[ext_resource type="Texture2D" uid="uid://e3cp73umfbh0" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0090.tga" id="90_bmjy6"]
+[ext_resource type="Texture2D" uid="uid://bjt6tw7hgxciw" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0091.tga" id="91_5d41i"]
+[ext_resource type="Texture2D" uid="uid://b2cm2k04hutoh" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0092.tga" id="92_aow78"]
+[ext_resource type="Texture2D" uid="uid://cdqvqbsu4vu2f" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0093.tga" id="93_38p1c"]
+[ext_resource type="Texture2D" uid="uid://d0avf8po0rj1" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0094.tga" id="94_51npc"]
+[ext_resource type="Texture2D" uid="uid://doclyxoo56jq3" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0095.tga" id="95_fd5rv"]
+[ext_resource type="Texture2D" uid="uid://f68iewvowo7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0096.tga" id="96_6l4db"]
+[ext_resource type="Texture2D" uid="uid://ddx2omj07uv54" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0097.tga" id="97_gttm3"]
+[ext_resource type="Texture2D" uid="uid://8s4hpvbvc1ib" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0098.tga" id="98_4pn4l"]
+[ext_resource type="Texture2D" uid="uid://cjgyxffygyshr" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0099.tga" id="99_amalf"]
+[ext_resource type="Texture2D" uid="uid://cjmyo1itd8mrj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0100.tga" id="100_sy4uf"]
+[ext_resource type="Texture2D" uid="uid://cu0fy7okx0oql" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0101.tga" id="101_337ty"]
+[ext_resource type="Texture2D" uid="uid://bmyljvs7k8e52" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0102.tga" id="102_fkv6j"]
+[ext_resource type="Texture2D" uid="uid://b5nar3xqido8e" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0103.tga" id="103_bok0s"]
+[ext_resource type="Texture2D" uid="uid://dmlpykdfsimug" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0104.tga" id="104_lwdp6"]
+[ext_resource type="Texture2D" uid="uid://bayw5hwl1235r" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0105.tga" id="105_dvoeo"]
+[ext_resource type="Texture2D" uid="uid://dwys3gpy2n1lg" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0106.tga" id="106_mrd5b"]
+[ext_resource type="Texture2D" uid="uid://cr6xqqmedaj2c" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0107.tga" id="107_2wgoc"]
+[ext_resource type="Texture2D" uid="uid://bttt18gitp4nb" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0108.tga" id="108_lwgoi"]
+[ext_resource type="Texture2D" uid="uid://w5hs0h88duib" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0109.tga" id="109_qoh4k"]
+[ext_resource type="Texture2D" uid="uid://pm76hsigresl" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0110.tga" id="110_3tupy"]
+[ext_resource type="Texture2D" uid="uid://cd1ix1igogwmt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0111.tga" id="111_snsy4"]
+[ext_resource type="Texture2D" uid="uid://dleyk0jlk8hh2" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0112.tga" id="112_sijyd"]
+[ext_resource type="Texture2D" uid="uid://d0ou5oyp0j7jd" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0113.tga" id="113_fr07v"]
+[ext_resource type="Texture2D" uid="uid://bgkpl4gx1tiqn" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0114.tga" id="114_p6pf6"]
+[ext_resource type="Texture2D" uid="uid://dwuc2tsmkbftx" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0115.tga" id="115_gsi2p"]
+[ext_resource type="Texture2D" uid="uid://dol2exjoyadn7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0116.tga" id="116_rsief"]
+[ext_resource type="Texture2D" uid="uid://bavy7bjkr5slj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0117.tga" id="117_b2f6t"]
+[ext_resource type="Texture2D" uid="uid://d0o41jupme28h" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0118.tga" id="118_8kr06"]
+[ext_resource type="Texture2D" uid="uid://bj78lsikmf0x3" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0119.tga" id="119_tnhw4"]
+[ext_resource type="Texture2D" uid="uid://dc6t5125t5sva" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0120.tga" id="120_gx5mn"]
+[ext_resource type="Texture2D" uid="uid://vnt2kqbusmdi" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0121.tga" id="121_ltwbb"]
+[ext_resource type="Texture2D" uid="uid://cqwgdy0q4wmst" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0122.tga" id="122_sqpdo"]
+[ext_resource type="Texture2D" uid="uid://y3mimhkso0ac" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0123.tga" id="123_dnjpv"]
+[ext_resource type="Texture2D" uid="uid://d4f2r1ijni4a2" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0124.tga" id="124_wpq38"]
+[ext_resource type="Texture2D" uid="uid://dj7ym41x5e884" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0125.tga" id="125_tbvwn"]
+[ext_resource type="Texture2D" uid="uid://daewvteifgn30" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0126.tga" id="126_0mnpk"]
+[ext_resource type="Texture2D" uid="uid://bjrxkv3frhx16" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0127.tga" id="127_idd72"]
+[ext_resource type="Texture2D" uid="uid://bt2k3wdxnx1t3" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0128.tga" id="128_3rvsw"]
+[ext_resource type="Texture2D" uid="uid://2aw6c4m0wpe6" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0129.tga" id="129_3bnwk"]
+[ext_resource type="Texture2D" uid="uid://qj5xltn171xb" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0130.tga" id="130_v4aeh"]
+[ext_resource type="Texture2D" uid="uid://c6kdpl1w0o3f7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0131.tga" id="131_uyvja"]
+[ext_resource type="Texture2D" uid="uid://dgexa3hpb3wnh" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0132.tga" id="132_7ilue"]
+[ext_resource type="Texture2D" uid="uid://rnuo0ncdm2bs" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0133.tga" id="133_wygu1"]
+[ext_resource type="Texture2D" uid="uid://belyfv56t068h" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0134.tga" id="134_csvck"]
+[ext_resource type="Texture2D" uid="uid://2k8ff8owq0yw" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0135.tga" id="135_puhn7"]
+[ext_resource type="Texture2D" uid="uid://dckdlrksvun5h" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0136.tga" id="136_lbqkg"]
+[ext_resource type="Texture2D" uid="uid://r0mar1wgjmuo" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0137.tga" id="137_usr7g"]
+[ext_resource type="Texture2D" uid="uid://dx1acu3yspyxh" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0138.tga" id="138_ek7nu"]
+[ext_resource type="Texture2D" uid="uid://dy1qjdf7imi1g" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0139.tga" id="139_8twes"]
+[ext_resource type="Texture2D" uid="uid://rqbvo1ip4pix" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0140.tga" id="140_py5lv"]
+[ext_resource type="Texture2D" uid="uid://cnpsh473mjsvr" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0141.tga" id="141_1dy65"]
+[ext_resource type="Texture2D" uid="uid://gvhy8hvm57ym" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0142.tga" id="142_55ikf"]
+[ext_resource type="Texture2D" uid="uid://bqfavtq5rr32t" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0143.tga" id="143_w5wn3"]
+[ext_resource type="Texture2D" uid="uid://dqh7xdv3rw7mb" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0144.tga" id="144_2c6f2"]
+[ext_resource type="Texture2D" uid="uid://bwdest4gw05pi" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0145.tga" id="145_nd2y8"]
+[ext_resource type="Texture2D" uid="uid://6pds5mxq3cvi" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0146.tga" id="146_3cjfj"]
+[ext_resource type="Texture2D" uid="uid://d87yxdwim5fn" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0147.tga" id="147_a4sqf"]
+[ext_resource type="Texture2D" uid="uid://brp7jhw4xh1yk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0148.tga" id="148_p3w15"]
+[ext_resource type="Texture2D" uid="uid://djfps4ejmwr2" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0149.tga" id="149_amm7s"]
+[ext_resource type="Texture2D" uid="uid://bm1v11rwq577q" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0150.tga" id="150_75aav"]
+[ext_resource type="Texture2D" uid="uid://dfx7njvlbjakx" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0151.tga" id="151_rke1r"]
+[ext_resource type="Texture2D" uid="uid://qpj86gn4q5xp" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0152.tga" id="152_fgwvw"]
+[ext_resource type="Texture2D" uid="uid://cx8swuk8venv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0153.tga" id="153_v5aif"]
+[ext_resource type="Texture2D" uid="uid://dx2jym0g4pgbl" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0154.tga" id="154_y5bsv"]
+[ext_resource type="Texture2D" uid="uid://ckvvk511dpkqw" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0155.tga" id="155_jgbw7"]
+[ext_resource type="Texture2D" uid="uid://ct0s1n6y82o5h" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0156.tga" id="156_y4k5u"]
+[ext_resource type="Texture2D" uid="uid://cr0t6uy0fj26y" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0157.tga" id="157_glfds"]
+[ext_resource type="Texture2D" uid="uid://cbvwq34nl6k1w" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0158.tga" id="158_t1mnt"]
+[ext_resource type="Texture2D" uid="uid://tge8y56bwu0u" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0159.tga" id="159_14nrs"]
+[ext_resource type="Texture2D" uid="uid://cqxwydeg6rqsv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0160.tga" id="160_q2spj"]
+[ext_resource type="Texture2D" uid="uid://c104i1gpo0qxt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0161.tga" id="161_2yyli"]
+[ext_resource type="Texture2D" uid="uid://d3ocar7rvoskv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0162.tga" id="162_1fyi3"]
+[ext_resource type="Texture2D" uid="uid://d3ad1tpbyb4qn" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0163.tga" id="163_lymcp"]
+[ext_resource type="Texture2D" uid="uid://cfa00hdunn0im" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0164.tga" id="164_2opqo"]
+[ext_resource type="Texture2D" uid="uid://dvgtbxyytkytk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0165.tga" id="165_n8cxq"]
+[ext_resource type="Texture2D" uid="uid://dj7etbw1mqatf" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0166.tga" id="166_plko2"]
+[ext_resource type="Texture2D" uid="uid://1h16cfy3kmw3" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0167.tga" id="167_e2ech"]
+[ext_resource type="Texture2D" uid="uid://b4arh71xoeu6l" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0168.tga" id="168_7d6jp"]
+[ext_resource type="Texture2D" uid="uid://2k27xpn5sf4n" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0169.tga" id="169_aoofe"]
+[ext_resource type="Texture2D" uid="uid://cf3sxs3hw5njf" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0170.tga" id="170_gaxgt"]
+[ext_resource type="Texture2D" uid="uid://catqjehpsw0vr" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0171.tga" id="171_fb03k"]
+[ext_resource type="Texture2D" uid="uid://d0q8peiencsfv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0172.tga" id="172_coq8o"]
+[ext_resource type="Texture2D" uid="uid://x6j6i8q3s1ig" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0173.tga" id="173_8kl6d"]
+[ext_resource type="Texture2D" uid="uid://c7eim6mxqgdqe" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0174.tga" id="174_lsigu"]
+[ext_resource type="Texture2D" uid="uid://bq71nq7xthkf5" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0175.tga" id="175_hqrxx"]
+[ext_resource type="Texture2D" uid="uid://ccjxa0w7c6itk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0176.tga" id="176_10ebb"]
+[ext_resource type="Texture2D" uid="uid://cj38l68xrrhci" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0177.tga" id="177_i178e"]
+[ext_resource type="Texture2D" uid="uid://bt77bw6cq33od" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0178.tga" id="178_sioob"]
+[ext_resource type="Texture2D" uid="uid://bw1kkx4yh2by4" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0179.tga" id="179_jk74g"]
+[ext_resource type="Texture2D" uid="uid://dhsmn2memg16j" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0180.tga" id="180_tsing"]
+[ext_resource type="Texture2D" uid="uid://ds22thlvau603" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0181.tga" id="181_8poh0"]
+[ext_resource type="Texture2D" uid="uid://c6x7jow4i1iyy" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0182.tga" id="182_r4vsd"]
+[ext_resource type="Texture2D" uid="uid://60cgqrr5q847" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0183.tga" id="183_quqqf"]
+[ext_resource type="Texture2D" uid="uid://bond4x77w634r" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0184.tga" id="184_6fbr3"]
+[ext_resource type="Texture2D" uid="uid://bga8wx3ichu0b" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0185.tga" id="185_la2nl"]
+[ext_resource type="Texture2D" uid="uid://bhwp8dqoctc61" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0186.tga" id="186_71bpt"]
+[ext_resource type="Texture2D" uid="uid://cnjueq03dbqs6" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0187.tga" id="187_nuim4"]
+[ext_resource type="Texture2D" uid="uid://loomvs4k56lt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0188.tga" id="188_2rtk6"]
+[ext_resource type="Texture2D" uid="uid://dfwchg7kbyinw" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0189.tga" id="189_qhoc8"]
+[ext_resource type="Texture2D" uid="uid://5rn3cw2m8o2q" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0190.tga" id="190_nkj0u"]
+[ext_resource type="Texture2D" uid="uid://crq3d0w83w1s6" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0191.tga" id="191_6u1wo"]
+[ext_resource type="Texture2D" uid="uid://dnym64m1qlo5o" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0192.tga" id="192_qkisx"]
+[ext_resource type="Texture2D" uid="uid://bf2orrho073x0" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0193.tga" id="193_abi20"]
+[ext_resource type="Texture2D" uid="uid://0s0i6miksrrk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0194.tga" id="194_ibt77"]
+[ext_resource type="Texture2D" uid="uid://cvyd453g4ksyk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0195.tga" id="195_obk34"]
+[ext_resource type="Texture2D" uid="uid://b542slrealym5" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0196.tga" id="196_vqyef"]
+[ext_resource type="Texture2D" uid="uid://de5pylkja51el" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0197.tga" id="197_wl45d"]
+[ext_resource type="Texture2D" uid="uid://fvex1aff3ypc" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0198.tga" id="198_0t8ll"]
+[ext_resource type="Texture2D" uid="uid://dit8vkx32a3y1" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0199.tga" id="199_62srt"]
+[ext_resource type="Texture2D" uid="uid://csrgvv5gig476" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0200.tga" id="200_ctopy"]
+[ext_resource type="Texture2D" uid="uid://c64a421ewjs77" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0201.tga" id="201_adct5"]
+[ext_resource type="Texture2D" uid="uid://ca4f1defnqhkf" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0202.tga" id="202_3vesx"]
+[ext_resource type="Texture2D" uid="uid://m1gf6qehyn57" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0203.tga" id="203_swb6m"]
+[ext_resource type="Texture2D" uid="uid://dj6kobu8lkaiu" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0204.tga" id="204_464g2"]
+[ext_resource type="Texture2D" uid="uid://creemvwvxnqpn" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0205.tga" id="205_1xylv"]
+[ext_resource type="Texture2D" uid="uid://buv5q1b48vt4g" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0206.tga" id="206_3f8jj"]
+[ext_resource type="Texture2D" uid="uid://cehehawfu802u" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0207.tga" id="207_i40ko"]
+[ext_resource type="Texture2D" uid="uid://taiw6ocpj7n7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0208.tga" id="208_6wq0m"]
+[ext_resource type="Texture2D" uid="uid://dlu7oq5v1qy7u" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0209.tga" id="209_6qafw"]
+[ext_resource type="Texture2D" uid="uid://c6uigq12utj62" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0210.tga" id="210_pv2la"]
+[ext_resource type="Texture2D" uid="uid://b6fiah6c5cbx8" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0211.tga" id="211_rexsx"]
+[ext_resource type="Texture2D" uid="uid://ia7qq1d5dsem" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0212.tga" id="212_oy7ac"]
+[ext_resource type="Texture2D" uid="uid://2nmkgb8to38v" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0213.tga" id="213_odty0"]
+[ext_resource type="Texture2D" uid="uid://c1owjd5kp461f" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0214.tga" id="214_2wb37"]
+[ext_resource type="Texture2D" uid="uid://cpmd31jvftvt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0215.tga" id="215_lwpu5"]
+[ext_resource type="Texture2D" uid="uid://c3v7mycsjwjlb" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0216.tga" id="216_k41vk"]
+[ext_resource type="Texture2D" uid="uid://ejoixlfhyqn" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0217.tga" id="217_edeah"]
+[ext_resource type="Texture2D" uid="uid://drsi2w0785ar1" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0218.tga" id="218_qdo3p"]
+[ext_resource type="Texture2D" uid="uid://pxkw6e7neu1t" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0219.tga" id="219_xjrbp"]
+[ext_resource type="Texture2D" uid="uid://kfu45lvoqd87" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0220.tga" id="220_jeh6n"]
+[ext_resource type="Texture2D" uid="uid://vqvyhln84r6x" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0221.tga" id="221_rvciw"]
+[ext_resource type="Texture2D" uid="uid://dfv77ispwcuti" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0222.tga" id="222_7q4kc"]
+[ext_resource type="Texture2D" uid="uid://crxlj1c4puq5m" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0223.tga" id="223_wx3tc"]
+[ext_resource type="Texture2D" uid="uid://bcgg3ntiornxr" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0224.tga" id="224_8vovo"]
+[ext_resource type="Texture2D" uid="uid://bbjbv6b2k7kks" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0225.tga" id="225_j8lso"]
+[ext_resource type="Texture2D" uid="uid://ccw7wd6o4l282" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0226.tga" id="226_dh1xo"]
+[ext_resource type="Texture2D" uid="uid://vewkmh51r7gq" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0227.tga" id="227_vjfwc"]
+[ext_resource type="Texture2D" uid="uid://c82c0bipt0t0i" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0228.tga" id="228_u7bqi"]
+[ext_resource type="Texture2D" uid="uid://n271sd1wxo6v" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0229.tga" id="229_j17t3"]
+[ext_resource type="Texture2D" uid="uid://bb3nygtrfggu6" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0230.tga" id="230_ilv67"]
+[ext_resource type="Texture2D" uid="uid://lmyn27fo61bh" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0231.tga" id="231_qbjkt"]
+[ext_resource type="Texture2D" uid="uid://ck3tfjhxleqyq" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0232.tga" id="232_crvao"]
+[ext_resource type="Texture2D" uid="uid://dovpqaal2wmr2" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0233.tga" id="233_lqfsi"]
+[ext_resource type="Texture2D" uid="uid://u7qw3f6fs0ee" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0234.tga" id="234_mvu1u"]
+[ext_resource type="Texture2D" uid="uid://cjvb1ijgeqjws" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0235.tga" id="235_uht2d"]
+[ext_resource type="Texture2D" uid="uid://smu6iavem24j" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0236.tga" id="236_k3sj6"]
+[ext_resource type="Texture2D" uid="uid://b276dbswhlu1q" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0237.tga" id="237_waxo8"]
+[ext_resource type="Texture2D" uid="uid://c2jf2427o2yu0" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0238.tga" id="238_bklcs"]
+[ext_resource type="Texture2D" uid="uid://d0a6yo0jkqkoy" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0239.tga" id="239_lxx1y"]
+[ext_resource type="Texture2D" uid="uid://dneafn8c4dceo" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0240.tga" id="240_rpc0d"]
+[ext_resource type="Texture2D" uid="uid://4xwcvdh1obo0" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0241.tga" id="241_48gtl"]
+[ext_resource type="Texture2D" uid="uid://crhn7vb4kychv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0242.tga" id="242_cxauq"]
+[ext_resource type="Texture2D" uid="uid://ja3j4dbnijpd" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0243.tga" id="243_odumt"]
+[ext_resource type="Texture2D" uid="uid://c0kswmpmsq62" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0244.tga" id="244_hs0q4"]
+[ext_resource type="Texture2D" uid="uid://du8jl1rk3s1tq" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0245.tga" id="245_snged"]
+[ext_resource type="Texture2D" uid="uid://ywia5chss7kv" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0246.tga" id="246_pkpkx"]
+[ext_resource type="Texture2D" uid="uid://bxjb8sy7tou5x" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0247.tga" id="247_6hvtb"]
+[ext_resource type="Texture2D" uid="uid://gj6tt1043v3l" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0248.tga" id="248_dri8d"]
+[ext_resource type="Texture2D" uid="uid://v51yhkii2odk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0249.tga" id="249_tyhfj"]
+[ext_resource type="Texture2D" uid="uid://cmii5dhubpm8l" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0250.tga" id="250_4uc76"]
+[ext_resource type="Texture2D" uid="uid://b1xs562i3n2vd" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0251.tga" id="251_2ax2d"]
+[ext_resource type="Texture2D" uid="uid://c2yvidthkx67" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0252.tga" id="252_igbhm"]
+[ext_resource type="Texture2D" uid="uid://b3qy7v4wuhlok" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0253.tga" id="253_uw4tm"]
+[ext_resource type="Texture2D" uid="uid://2feac7fitjf7" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0254.tga" id="254_2s6k1"]
+[ext_resource type="Texture2D" uid="uid://c5kvjwlig4whp" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0255.tga" id="255_hgulv"]
+[ext_resource type="Texture2D" uid="uid://dnk6t7sgoejkl" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0256.tga" id="256_g855a"]
+[ext_resource type="Texture2D" uid="uid://ddo85wfk26ism" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0257.tga" id="257_ne1of"]
+[ext_resource type="Texture2D" uid="uid://dc8dwkhtmmxbp" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0258.tga" id="258_7wf20"]
+[ext_resource type="Texture2D" uid="uid://dyrpkmxl7soyj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0259.tga" id="259_mlq4x"]
+[ext_resource type="Texture2D" uid="uid://dvjm3o6b8c44c" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0260.tga" id="260_lkd0y"]
+[ext_resource type="Texture2D" uid="uid://byjmoacoh0e6t" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0261.tga" id="261_hyrkj"]
+[ext_resource type="Texture2D" uid="uid://d4kn8c6kednqh" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0262.tga" id="262_4fwsi"]
+[ext_resource type="Texture2D" uid="uid://ca7hejds6v8se" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0263.tga" id="263_d02rk"]
+[ext_resource type="Texture2D" uid="uid://dkon3xm1r7htl" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0264.tga" id="264_neqaw"]
+[ext_resource type="Texture2D" uid="uid://iqheb1ba1xih" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0265.tga" id="265_ke0rd"]
+[ext_resource type="Texture2D" uid="uid://cukx8adbpx5r1" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0266.tga" id="266_2mon2"]
+[ext_resource type="Texture2D" uid="uid://bk60v0qj2j4bt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0267.tga" id="267_4h7h1"]
+[ext_resource type="Texture2D" uid="uid://cd55egtlumhlk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0268.tga" id="268_maoog"]
+[ext_resource type="Texture2D" uid="uid://c1pfm8h40ekaa" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0269.tga" id="269_bqw2m"]
+[ext_resource type="Texture2D" uid="uid://dnaj1jl4of7i3" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0270.tga" id="270_aehui"]
+[ext_resource type="Texture2D" uid="uid://map5l2hvgg4l" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0271.tga" id="271_uqkrs"]
+[ext_resource type="Texture2D" uid="uid://bkyq8u0y71y53" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0272.tga" id="272_wwc6d"]
+[ext_resource type="Texture2D" uid="uid://by8l61em84mrn" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0273.tga" id="273_0ysjv"]
+[ext_resource type="Texture2D" uid="uid://dtenjv78fdrix" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0274.tga" id="274_wxmrg"]
+[ext_resource type="Texture2D" uid="uid://j7ijv1tbomge" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0275.tga" id="275_l7poj"]
+[ext_resource type="Texture2D" uid="uid://dv24wyjceajcb" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0276.tga" id="276_kbpra"]
+[ext_resource type="Texture2D" uid="uid://bynrvim40hulj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0277.tga" id="277_xbwv8"]
+[ext_resource type="Texture2D" uid="uid://c7q6mamnny6l2" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0278.tga" id="278_au4wo"]
+[ext_resource type="Texture2D" uid="uid://e2jhwe4m1cm2" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0279.tga" id="279_d38ll"]
+[ext_resource type="Texture2D" uid="uid://gqy4q8uqa7u" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0280.tga" id="280_rnsha"]
+[ext_resource type="Texture2D" uid="uid://d1njega388mrm" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0281.tga" id="281_466gb"]
+[ext_resource type="Texture2D" uid="uid://ddb5ti3vbf0s8" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0282.tga" id="282_yxba0"]
+[ext_resource type="Texture2D" uid="uid://bplbvn44o74qa" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0283.tga" id="283_7idoh"]
+[ext_resource type="Texture2D" uid="uid://bnnqr3swd1kec" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0284.tga" id="284_1iv4p"]
+[ext_resource type="Texture2D" uid="uid://cvsptudfp8ty3" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0285.tga" id="285_aic7j"]
+[ext_resource type="Texture2D" uid="uid://clytsfyu5mpjd" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0286.tga" id="286_5mhtb"]
+[ext_resource type="Texture2D" uid="uid://b82sxtqtn6ppp" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0287.tga" id="287_fn1yb"]
+[ext_resource type="Texture2D" uid="uid://dmuvrv1guhvck" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0288.tga" id="288_m6vgi"]
+[ext_resource type="Texture2D" uid="uid://kji8mxq56kbt" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0289.tga" id="289_w4ecd"]
+[ext_resource type="Texture2D" uid="uid://b2yxhxjkdn1d4" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0290.tga" id="290_5tw7v"]
+[ext_resource type="Texture2D" uid="uid://cvglb48fe717" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0291.tga" id="291_qmbjv"]
+[ext_resource type="Texture2D" uid="uid://bd8qhgdwey1b" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0292.tga" id="292_gbkew"]
+[ext_resource type="Texture2D" uid="uid://ddvq15oob7otj" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0293.tga" id="293_76x2g"]
+[ext_resource type="Texture2D" uid="uid://b3odimhbtobrk" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0294.tga" id="294_a6o4r"]
+[ext_resource type="Texture2D" uid="uid://5u5vdfhrqwkw" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0295.tga" id="295_porbq"]
+[ext_resource type="Texture2D" uid="uid://d0gfyxssgi478" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0296.tga" id="296_1aebh"]
+[ext_resource type="Texture2D" uid="uid://c1ndegdbla42s" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0297.tga" id="297_hmigh"]
+[ext_resource type="Texture2D" uid="uid://cjgacc5rmyx06" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0298.tga" id="298_cw38g"]
+[ext_resource type="Texture2D" uid="uid://dvgbd2ilfpjkq" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0299.tga" id="299_3lomd"]
+[ext_resource type="Texture2D" uid="uid://c6b2nt5t6ngc8" path="res://images/computer_monitor_dendrites_256_128/computer_monitor_dendrites_256_128.0300.tga" id="300_7tdhw"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ltohr"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_sbhnl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_0e5nq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_31hjk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_04blf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_jvh1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_p44tj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_wqupl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_bvitn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_4ftak")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_qv2wg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_5r5ys")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_tyayu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_iuiho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_1bloc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_a0ooa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_oki25")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_h7dho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_65oq2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_1b648")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_wmnwq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_7ksiq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_fxt5g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_e43mp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_cg1qm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_qqx1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_h2yuq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_6qfi1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_tm3n8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_7njhj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_27fut")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_pqois")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_todn3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_3py44")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_26j6o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_urn3d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_qdux2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_hbdjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_qid11")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_hhtp5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_l8qqm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_hiksb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_p4d5h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_ul1ee")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_4qu0o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_nk6dl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_cgdk8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_tahsi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_ntknk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_tvwu1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_o35gh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_gjbeu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_y18aj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_ah0xc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_ni0pe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_bgsrv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_ty7rt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_qathx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_tf84p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_kbuej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_24cpl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_rmc1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_86b4h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_5n2ci")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_dqb13")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_hpj1y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_4uv0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_u23ct")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_4dtq3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_rplle")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_u8noe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_36r2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_ag4tc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_coip6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_5kd6v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_d3abe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_yqvfb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_sxq3j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_pnp7j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_oeknp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_vdao1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_64c51")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_wn3yg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_lxsdr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_usgih")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_5kowc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_q8exf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_l56sy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_2plim")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_i5d4g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_bmjy6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_5d41i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_aow78")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_38p1c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_51npc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_fd5rv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_6l4db")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_gttm3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_4pn4l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_amalf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_sy4uf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_337ty")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_fkv6j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_bok0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_lwdp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_dvoeo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_mrd5b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_2wgoc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_lwgoi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_qoh4k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_3tupy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_snsy4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_sijyd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_fr07v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_p6pf6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_gsi2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_rsief")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_b2f6t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_8kr06")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_tnhw4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_gx5mn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_ltwbb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_sqpdo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_dnjpv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_wpq38")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_tbvwn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_0mnpk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_idd72")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_3rvsw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_3bnwk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_v4aeh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_uyvja")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_7ilue")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_wygu1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_csvck")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_puhn7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_lbqkg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_usr7g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_ek7nu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_8twes")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_py5lv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_1dy65")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_55ikf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_w5wn3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_2c6f2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_nd2y8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_3cjfj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_a4sqf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_p3w15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_amm7s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_75aav")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_rke1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_fgwvw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_v5aif")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_y5bsv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_jgbw7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_y4k5u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_glfds")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_t1mnt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_14nrs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_q2spj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_2yyli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_1fyi3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_lymcp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_2opqo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_n8cxq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_plko2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_e2ech")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_7d6jp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_aoofe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_gaxgt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_fb03k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_coq8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_8kl6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_lsigu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_hqrxx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_10ebb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_i178e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_sioob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_jk74g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_tsing")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_8poh0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_r4vsd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_quqqf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_6fbr3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_la2nl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_71bpt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_nuim4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_2rtk6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_qhoc8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_nkj0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_6u1wo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_qkisx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_abi20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_ibt77")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_obk34")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_vqyef")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_wl45d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_0t8ll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_62srt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_ctopy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_adct5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("202_3vesx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("203_swb6m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("204_464g2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("205_1xylv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("206_3f8jj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("207_i40ko")
+}, {
+"duration": 1.0,
+"texture": ExtResource("208_6wq0m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("209_6qafw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("210_pv2la")
+}, {
+"duration": 1.0,
+"texture": ExtResource("211_rexsx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("212_oy7ac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("213_odty0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("214_2wb37")
+}, {
+"duration": 1.0,
+"texture": ExtResource("215_lwpu5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("216_k41vk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("217_edeah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("218_qdo3p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("219_xjrbp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("220_jeh6n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("221_rvciw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("222_7q4kc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("223_wx3tc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("224_8vovo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("225_j8lso")
+}, {
+"duration": 1.0,
+"texture": ExtResource("226_dh1xo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("227_vjfwc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("228_u7bqi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("229_j17t3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("230_ilv67")
+}, {
+"duration": 1.0,
+"texture": ExtResource("231_qbjkt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("232_crvao")
+}, {
+"duration": 1.0,
+"texture": ExtResource("233_lqfsi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("234_mvu1u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("235_uht2d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("236_k3sj6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("237_waxo8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("238_bklcs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("239_lxx1y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("240_rpc0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("241_48gtl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("242_cxauq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("243_odumt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("244_hs0q4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("245_snged")
+}, {
+"duration": 1.0,
+"texture": ExtResource("246_pkpkx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("247_6hvtb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("248_dri8d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("249_tyhfj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("250_4uc76")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_2ax2d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_igbhm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("253_uw4tm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_2s6k1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_hgulv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_g855a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("257_ne1of")
+}, {
+"duration": 1.0,
+"texture": ExtResource("258_7wf20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("259_mlq4x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("260_lkd0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("261_hyrkj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("262_4fwsi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("263_d02rk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("264_neqaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("265_ke0rd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("266_2mon2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("267_4h7h1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("268_maoog")
+}, {
+"duration": 1.0,
+"texture": ExtResource("269_bqw2m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("270_aehui")
+}, {
+"duration": 1.0,
+"texture": ExtResource("271_uqkrs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("272_wwc6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("273_0ysjv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("274_wxmrg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("275_l7poj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("276_kbpra")
+}, {
+"duration": 1.0,
+"texture": ExtResource("277_xbwv8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("278_au4wo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("279_d38ll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("280_rnsha")
+}, {
+"duration": 1.0,
+"texture": ExtResource("281_466gb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("282_yxba0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("283_7idoh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("284_1iv4p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("285_aic7j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("286_5mhtb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("287_fn1yb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("288_m6vgi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("289_w4ecd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("290_5tw7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("291_qmbjv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("292_gbkew")
+}, {
+"duration": 1.0,
+"texture": ExtResource("293_76x2g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("294_a6o4r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("295_porbq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("296_1aebh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("297_hmigh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("298_cw38g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("299_3lomd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("300_7tdhw")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="ComputerMonitor" type="Node3D"]
+
+[node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
+pixel_size = 0.0312
+transparent = false
+double_sided = false
+texture_filter = 0
+sprite_frames = SubResource("SpriteFrames_ltohr")
+autoplay = "default"
+frame_progress = 0.374531

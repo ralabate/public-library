@@ -1,4 +1,4 @@
-[gd_scene load_steps=112 format=4 uid="uid://rmyptn6syyjw"]
+[gd_scene load_steps=116 format=4 uid="uid://rmyptn6syyjw"]
 
 [ext_resource type="Script" uid="uid://d16wf7mv38fpx" path="res://addons/func_godot/src/map/func_godot_map.gd" id="1_368hl"]
 [ext_resource type="Resource" uid="uid://bkhxcqsquw1yg" path="res://addons/func_godot/func_godot_default_map_settings.tres" id="2_pkq41"]
@@ -13,7 +13,11 @@
 [ext_resource type="Material" uid="uid://cjj538cvnyrsg" path="res://level/textures/lab/dna_lab_ceiling_lights.tres" id="9_pu170"]
 [ext_resource type="PackedScene" uid="uid://r0agos3dx780" path="res://player/player.tscn" id="10_wqo2y"]
 [ext_resource type="Material" uid="uid://cnkqp0t34wdfc" path="res://level/textures/lab/dna_lab_cabinet_door.tres" id="12_einwv"]
+[ext_resource type="PackedScene" uid="uid://dmpojpr7nfc3h" path="res://level/props/computer_monitor_dna_256_128.tscn" id="13_pkq41"]
 [ext_resource type="Texture2D" uid="uid://cyg2snr1w5xw5" path="res://addons/func_godot/textures/default_texture.png" id="14_einwv"]
+[ext_resource type="PackedScene" uid="uid://b7dthvr5k6it0" path="res://level/props/computer_monitor_genetic_analyzer_256_128.tscn" id="16_einwv"]
+[ext_resource type="PackedScene" uid="uid://8jjdad51nnit" path="res://level/props/computer_monitor_topography_256_128.tscn" id="17_e5ptp"]
+[ext_resource type="PackedScene" uid="uid://b57kithsrfxin" path="res://level/props/computer_monitor_dendrites_256_128.tscn" id="18_65kss"]
 
 [sub_resource type="Environment" id="Environment_w72v2"]
 ambient_light_source = 2
@@ -748,5 +752,17 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.9, 0)
 
 [node name="AudioAlertRegion" parent="FirstPersonController" index="8"]
 visible = false
+
+[node name="ComputerMonitor" parent="." instance=ExtResource("13_pkq41")]
+transform = Transform3D(0.4455, 0, 0, 0, 0.448477, -0.0879154, 0, 0.0392367, 1.00488, -4, 2.7, -5.6)
+
+[node name="ComputerMonitor2" parent="." instance=ExtResource("16_einwv")]
+transform = Transform3D(0.4455, 0, 0, 0, 0.448477, -0.0879154, 0, 0.0392367, 1.00488, 4, 2.7, -5.6)
+
+[node name="ComputerMonitor3" parent="." instance=ExtResource("17_e5ptp")]
+transform = Transform3D(-0.4455, -3.43018e-09, -8.78492e-08, 0, 0.448477, -0.0879153, 3.89468e-08, -0.0392367, -1.00488, 4, 2.7, 5.6)
+
+[node name="ComputerMonitor4" parent="." instance=ExtResource("18_65kss")]
+transform = Transform3D(-0.4455, -5.92458e-09, -1.51733e-07, 0, 0.448477, -0.0879157, 6.72686e-08, -0.0392367, -1.00488, -4, 2.7, 5.6)
 
 [editable path="FirstPersonController"]
