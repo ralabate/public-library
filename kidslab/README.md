@@ -1,9 +1,7 @@
 ![styleguide](kidslab_style_guide.jpg)
 ![monsters](kidslab_monster_guide.jpg)
 
-- [ ] Red Key Images
-- [ ] Blue Key Images
-- [ ] Green Key Images
+- [x] Blue Key Images
 - [ ] Player Weapon Images
 - [ ] Player Projectile Images
 - [ ] Barrel Images
