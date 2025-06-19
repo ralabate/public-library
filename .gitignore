@@ -1,7 +1,9 @@
+# Houdini ignores
 **/backup/
 **/flipbooks/
 **/geo/
 **/render/
+**/galleries
 
 # Godot 4+ specific ignores
 .godot/
