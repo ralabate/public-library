@@ -1,4 +1,4 @@
-[gd_scene load_steps=189 format=3 uid="uid://cmtujc58sv83y"]
+[gd_scene load_steps=193 format=3 uid="uid://cmtujc58sv83y"]
 
 [ext_resource type="Script" uid="uid://clhircl18kdhh" path="res://badguys/badguy.gd" id="1_fwdeh"]
 [ext_resource type="Script" uid="uid://bund4vdf4u4yo" path="res://common/components/health_component.gd" id="2_ar6uy"]
@@ -28,23 +28,14 @@
 [ext_resource type="Texture2D" uid="uid://i8772xwmueys" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0015.tga" id="26_822fy"]
 [ext_resource type="Texture2D" uid="uid://s8dsdvnygyq5" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0016.tga" id="27_5b1sg"]
 [ext_resource type="Texture2D" uid="uid://ctgejh173sfmb" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0017.tga" id="28_5pgvd"]
-[ext_resource type="Texture2D" uid="uid://cd5qq4l2enyix" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0001.png" id="28_oegij"]
-[ext_resource type="Texture2D" uid="uid://b20fyfcfeuxco" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0002.png" id="29_1uc5s"]
 [ext_resource type="Texture2D" uid="uid://cxlm5tncruimv" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0018.tga" id="29_c7a44"]
-[ext_resource type="Texture2D" uid="uid://cgt6vr65fv4jp" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0003.png" id="30_dggeo"]
 [ext_resource type="Texture2D" uid="uid://bvlpuekp3bsn3" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0019.tga" id="30_dr2wo"]
-[ext_resource type="Texture2D" uid="uid://b8ea4l0wrherr" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0004.png" id="31_jiqdd"]
 [ext_resource type="Texture2D" uid="uid://djjy3r64y8i0b" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0020.tga" id="31_w1gwe"]
-[ext_resource type="Texture2D" uid="uid://ds11nnl88xsow" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0005.png" id="32_qoy1s"]
 [ext_resource type="Texture2D" uid="uid://dyffsi3qn8lyv" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0021.tga" id="32_wtfd6"]
 [ext_resource type="Texture2D" uid="uid://dsqi4kvx8mxkx" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0022.tga" id="33_btt21"]
-[ext_resource type="Texture2D" uid="uid://b6wiugg5ug011" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0006.png" id="33_ym5ph"]
-[ext_resource type="Texture2D" uid="uid://bnh3kw23hwuah" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0007.png" id="34_tj500"]
 [ext_resource type="Texture2D" uid="uid://bcj7bhb20qg24" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0023.tga" id="34_y20ly"]
 [ext_resource type="Texture2D" uid="uid://br54w1tpxcsku" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0024.tga" id="35_ahq0q"]
-[ext_resource type="Texture2D" uid="uid://bgesinnvk8eca" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0008.png" id="35_shtf5"]
 [ext_resource type="Texture2D" uid="uid://bqpyp0lws40yy" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0025.tga" id="36_530hd"]
-[ext_resource type="Texture2D" uid="uid://08bj2dlk4lyx" path="res://images/eye_monster_death_256_256/eye_monster_death_256_256.0009.png" id="36_f6fq5"]
 [ext_resource type="Texture2D" uid="uid://cymyv4j4dmby3" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0026.tga" id="37_3cdhm"]
 [ext_resource type="Texture2D" uid="uid://c1cb3kg00np3y" path="res://images/eye_monster_hurt_256_256/eye_monster_hurt_256_256.0001.png" id="37_qg200"]
 [ext_resource type="Texture2D" uid="uid://btu3pi2jhd2al" path="res://images/eye_monster_hurt_256_256/eye_monster_hurt_256_256.0002.png" id="38_axpus"]
@@ -84,7 +75,20 @@
 [ext_resource type="Texture2D" uid="uid://d0k3atrq57hqi" path="res://images/eye_monster_chase_128_128/eye_monster_chase_128_128.0028.tga" id="69_img1n"]
 [ext_resource type="Texture2D" uid="uid://c2uu6tmq2r2fo" path="res://images/eye_monster_chase_128_128/eye_monster_chase_128_128.0029.tga" id="70_cc8i8"]
 [ext_resource type="Texture2D" uid="uid://dbh7kfb5dtx5x" path="res://images/eye_monster_chase_128_128/eye_monster_chase_128_128.0030.tga" id="71_5qopk"]
+[ext_resource type="Texture2D" uid="uid://c1g62megc2ffi" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0002.tga" id="73_l6l27"]
+[ext_resource type="Texture2D" uid="uid://c2a67j6ei44ee" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0004.tga" id="75_ici15"]
+[ext_resource type="Texture2D" uid="uid://cs75bpdjsu4sq" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0005.tga" id="76_o83n2"]
+[ext_resource type="Texture2D" uid="uid://dcvltrrjly8lc" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0006.tga" id="77_7odxf"]
+[ext_resource type="Texture2D" uid="uid://36qjrdnoun2v" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0007.tga" id="78_fbryr"]
+[ext_resource type="Texture2D" uid="uid://bnvkjybu0412b" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0008.tga" id="79_btt21"]
+[ext_resource type="Texture2D" uid="uid://cfqwo7fc7rced" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0009.tga" id="80_y20ly"]
+[ext_resource type="Texture2D" uid="uid://wm4dmg11jutp" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0010.tga" id="81_ahq0q"]
+[ext_resource type="Texture2D" uid="uid://cs0ai2nho8xbi" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0011.tga" id="82_530hd"]
+[ext_resource type="Texture2D" uid="uid://dmkp47we7aqoo" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0012.tga" id="83_3cdhm"]
+[ext_resource type="Texture2D" uid="uid://dhg4i1xk1qjaw" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0013.tga" id="84_vo4q1"]
+[ext_resource type="Texture2D" uid="uid://wtrhbfg458xg" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0014.tga" id="85_c2x5k"]
 [ext_resource type="Texture2D" uid="uid://nm8f72e1xqdx" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0001.tga" id="85_mpxoo"]
+[ext_resource type="Texture2D" uid="uid://daby4pyn58sy" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0015.tga" id="86_duuxl"]
 [ext_resource type="Texture2D" uid="uid://c1qprwk44xr7o" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0002.tga" id="86_fty52"]
 [ext_resource type="Texture2D" uid="uid://c8q4vjnh07lnt" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0003.tga" id="87_dsrl2"]
 [ext_resource type="Texture2D" uid="uid://dunqcsh2o7tco" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0004.tga" id="88_r6quf"]
@@ -386,31 +390,43 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("28_oegij")
+"texture": ExtResource("73_l6l27")
 }, {
 "duration": 1.0,
-"texture": ExtResource("29_1uc5s")
+"texture": ExtResource("75_ici15")
 }, {
 "duration": 1.0,
-"texture": ExtResource("30_dggeo")
+"texture": ExtResource("76_o83n2")
 }, {
 "duration": 1.0,
-"texture": ExtResource("31_jiqdd")
+"texture": ExtResource("77_7odxf")
 }, {
 "duration": 1.0,
-"texture": ExtResource("32_qoy1s")
+"texture": ExtResource("78_fbryr")
 }, {
 "duration": 1.0,
-"texture": ExtResource("33_ym5ph")
+"texture": ExtResource("79_btt21")
 }, {
 "duration": 1.0,
-"texture": ExtResource("34_tj500")
+"texture": ExtResource("80_y20ly")
 }, {
 "duration": 1.0,
-"texture": ExtResource("35_shtf5")
+"texture": ExtResource("81_ahq0q")
 }, {
 "duration": 1.0,
-"texture": ExtResource("36_f6fq5")
+"texture": ExtResource("82_530hd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_3cdhm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_vo4q1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_c2x5k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_duuxl")
 }],
 "loop": false,
 "name": &"death",
@@ -824,4 +840,4 @@ billboard = 1
 double_sided = false
 texture_filter = 2
 sprite_frames = SubResource("SpriteFrames_qwje0")
-animation = &"idle"
+animation = &"death"
