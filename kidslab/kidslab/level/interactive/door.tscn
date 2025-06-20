@@ -7,7 +7,7 @@
 size = Vector3(4, 0.5, 4)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_v6xrn"]
-size = Vector3(3, 3, 0.2)
+size = Vector3(4, 4, 0.2)
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_3c7oy"]
 albedo_texture = ExtResource("2_3c7oy")
@@ -60,7 +60,7 @@ script = ExtResource("1_ba8gm")
 opening_speed = 3.0
 
 [node name="TriggerShape" type="CollisionShape3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.25, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1.75, 0)
 shape = SubResource("BoxShape3D_hun61")
 debug_color = Color(1, 1, 0, 0.25098)
 
