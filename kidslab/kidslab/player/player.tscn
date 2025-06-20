@@ -36,7 +36,7 @@ metadata/_custom_type_script = "uid://bund4vdf4u4yo"
 unique_name_in_owner = true
 script = ExtResource("3_knn7v")
 projectile_template = ExtResource("4_7pqkx")
-vertical_offset = 0.25
+vertical_offset = 0.5
 autoaim_region = NodePath("../AutoAimRegion")
 metadata/_custom_type_script = "uid://dt1p48op4tcvu"
 
