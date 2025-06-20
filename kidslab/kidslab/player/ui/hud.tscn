@@ -1,52 +1,49 @@
-[gd_scene load_steps=16 format=3 uid="uid://bst5vkdgn78gb"]
+[gd_scene load_steps=13 format=3 uid="uid://bst5vkdgn78gb"]
 
 [ext_resource type="Script" uid="uid://bxdcii2a4x2dx" path="res://player/ui/hud.gd" id="1_8noor"]
-[ext_resource type="Texture2D" uid="uid://cauwxvdjywmub" path="res://player/weapons/images/hand_slap.0001.png" id="1_fqdj4"]
-[ext_resource type="Texture2D" uid="uid://d3fjfa3au7002" path="res://player/weapons/images/hand_slap.0002.png" id="2_8noor"]
-[ext_resource type="Texture2D" uid="uid://ypplchc2cg2t" path="res://player/weapons/images/hand_slap.0003.png" id="3_d414j"]
-[ext_resource type="Texture2D" uid="uid://c65a14v7j7okc" path="res://player/weapons/images/hand_slap.0004.png" id="4_s2mm4"]
-[ext_resource type="Texture2D" uid="uid://7ytuf20stf33" path="res://player/weapons/images/hand_slap.0005.png" id="5_1nfbc"]
-[ext_resource type="Texture2D" uid="uid://dxaswyxov1yrp" path="res://player/weapons/images/hand_slap.0006.png" id="6_6rygf"]
-[ext_resource type="Texture2D" uid="uid://bevq8qmn75e0c" path="res://player/weapons/images/hand_slap.0007.png" id="7_uoa3p"]
-[ext_resource type="Texture2D" uid="uid://drg0hy3t57kno" path="res://player/weapons/images/hand_slap.0008.png" id="8_f6e8c"]
-[ext_resource type="Texture2D" uid="uid://c4c45sal8nsmp" path="res://player/weapons/images/hand_slap.0009.png" id="9_d4k80"]
-[ext_resource type="Texture2D" uid="uid://djbfukjn4h0rr" path="res://player/weapons/images/hand_slap.0010.png" id="10_w4ifx"]
-[ext_resource type="Texture2D" uid="uid://bnhb7cx23h67x" path="res://level/images/keys/red-keycard.png" id="11_xinsa"]
-[ext_resource type="Texture2D" uid="uid://c6citgotws0lu" path="res://level/images/keys/yellow-keycard.png" id="12_it7mh"]
-[ext_resource type="Texture2D" uid="uid://yeh7i38cnpbr" path="res://level/images/keys/blue-keycard.png" id="13_f5ha0"]
+[ext_resource type="Texture2D" uid="uid://cshhmwe7q2vg5" path="res://images/hand_slap_256_256/hand_slap.0001.png" id="2_g20ms"]
+[ext_resource type="Texture2D" uid="uid://dbyodna1up0iv" path="res://images/hand_slap_256_256/hand_slap.0002.png" id="3_aty16"]
+[ext_resource type="Texture2D" uid="uid://3duqx63a4urv" path="res://images/hand_slap_256_256/hand_slap.0003.png" id="4_fqdj4"]
+[ext_resource type="Texture2D" uid="uid://c5hcmw02nasbi" path="res://images/hand_slap_256_256/hand_slap.0004.png" id="5_8noor"]
+[ext_resource type="Texture2D" uid="uid://cbnjjejioxotg" path="res://images/hand_slap_256_256/hand_slap.0005.png" id="6_d414j"]
+[ext_resource type="Texture2D" uid="uid://cih5kedhciaqc" path="res://images/hand_slap_256_256/hand_slap.0006.png" id="7_s2mm4"]
+[ext_resource type="Texture2D" uid="uid://cfimogex0pugl" path="res://images/hand_slap_256_256/hand_slap.0007.png" id="8_1nfbc"]
+[ext_resource type="Texture2D" uid="uid://uqvgvk6s4uvk" path="res://images/hand_slap_256_256/hand_slap.0008.png" id="9_6rygf"]
+[ext_resource type="Texture2D" uid="uid://rxtd5mvubx2t" path="res://images/hand_slap_256_256/hand_slap.0009.png" id="10_uoa3p"]
+[ext_resource type="Texture2D" uid="uid://dsxhfomhdn8gk" path="res://images/hand_slap_256_256/hand_slap.0010.png" id="11_f6e8c"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_dprww"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("1_fqdj4")
+"texture": ExtResource("2_g20ms")
 }, {
 "duration": 1.0,
-"texture": ExtResource("2_8noor")
+"texture": ExtResource("3_aty16")
 }, {
 "duration": 1.0,
-"texture": ExtResource("3_d414j")
+"texture": ExtResource("4_fqdj4")
 }, {
 "duration": 1.0,
-"texture": ExtResource("4_s2mm4")
+"texture": ExtResource("5_8noor")
 }, {
 "duration": 1.0,
-"texture": ExtResource("5_1nfbc")
+"texture": ExtResource("6_d414j")
 }, {
 "duration": 1.0,
-"texture": ExtResource("6_6rygf")
+"texture": ExtResource("7_s2mm4")
 }, {
 "duration": 1.0,
-"texture": ExtResource("7_uoa3p")
+"texture": ExtResource("8_1nfbc")
 }, {
 "duration": 1.0,
-"texture": ExtResource("8_f6e8c")
+"texture": ExtResource("9_6rygf")
 }, {
 "duration": 1.0,
-"texture": ExtResource("9_d4k80")
+"texture": ExtResource("10_uoa3p")
 }, {
 "duration": 1.0,
-"texture": ExtResource("10_w4ifx")
+"texture": ExtResource("11_f6e8c")
 }],
 "loop": false,
 "name": &"fire",
@@ -54,7 +51,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("1_fqdj4")
+"texture": ExtResource("2_g20ms")
 }],
 "loop": false,
 "name": &"idle",
@@ -86,9 +83,7 @@ texture_filter = 1
 position = Vector2(640, 464)
 scale = Vector2(2, 2)
 sprite_frames = SubResource("SpriteFrames_dprww")
-animation = &"fire"
-frame = 9
-frame_progress = 1.0
+animation = &"idle"
 
 [node name="HealthBar" type="ProgressBar" parent="."]
 unique_name_in_owner = true
@@ -122,19 +117,16 @@ grow_vertical = 0
 texture_filter = 1
 layout_mode = 2
 size_flags_horizontal = 3
-texture = ExtResource("11_xinsa")
 
 [node name="YellowKeyIcon" type="TextureRect" parent="KeyInventoryContainer"]
 texture_filter = 1
 layout_mode = 2
 size_flags_horizontal = 3
-texture = ExtResource("12_it7mh")
 
 [node name="BlueKeyIcon" type="TextureRect" parent="KeyInventoryContainer"]
 texture_filter = 1
 layout_mode = 2
 size_flags_horizontal = 3
-texture = ExtResource("13_f5ha0")
 
 [node name="AbilityLabel" type="Label" parent="."]
 unique_name_in_owner = true
