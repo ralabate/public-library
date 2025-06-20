@@ -841,3 +841,5 @@ double_sided = false
 texture_filter = 2
 sprite_frames = SubResource("SpriteFrames_qwje0")
 animation = &"death"
+frame = 11
+frame_progress = 1.0
