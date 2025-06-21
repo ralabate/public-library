@@ -15,7 +15,9 @@ texture_filter = 0
 texture_repeat = false
 
 [sub_resource type="QuadMesh" id="QuadMesh_5015p"]
+lightmap_size_hint = Vector2i(22, 22)
 material = SubResource("StandardMaterial3D_52qau")
+add_uv2 = true
 size = Vector2(4, 4)
 
 [sub_resource type="Animation" id="Animation_v6xrn"]
