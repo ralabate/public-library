@@ -1,4 +1,4 @@
-[gd_scene load_steps=193 format=3 uid="uid://cmtujc58sv83y"]
+[gd_scene load_steps=199 format=3 uid="uid://cmtujc58sv83y"]
 
 [ext_resource type="Script" uid="uid://clhircl18kdhh" path="res://badguys/badguy.gd" id="1_fwdeh"]
 [ext_resource type="Script" uid="uid://bund4vdf4u4yo" path="res://common/components/health_component.gd" id="2_ar6uy"]
@@ -37,13 +37,9 @@
 [ext_resource type="Texture2D" uid="uid://br54w1tpxcsku" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0024.tga" id="35_ahq0q"]
 [ext_resource type="Texture2D" uid="uid://bqpyp0lws40yy" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0025.tga" id="36_530hd"]
 [ext_resource type="Texture2D" uid="uid://cymyv4j4dmby3" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0026.tga" id="37_3cdhm"]
-[ext_resource type="Texture2D" uid="uid://c1cb3kg00np3y" path="res://images/eye_monster_hurt_256_256/eye_monster_hurt_256_256.0001.png" id="37_qg200"]
-[ext_resource type="Texture2D" uid="uid://btu3pi2jhd2al" path="res://images/eye_monster_hurt_256_256/eye_monster_hurt_256_256.0002.png" id="38_axpus"]
 [ext_resource type="Texture2D" uid="uid://d233gqutjgw3b" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0027.tga" id="38_vo4q1"]
 [ext_resource type="Texture2D" uid="uid://c3uupevmfdm0p" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0028.tga" id="39_c2x5k"]
-[ext_resource type="Texture2D" uid="uid://cfdjw3t5gb4h0" path="res://images/eye_monster_hurt_256_256/eye_monster_hurt_256_256.0003.png" id="39_gutfb"]
 [ext_resource type="Texture2D" uid="uid://wqwblcd8wgb" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0029.tga" id="40_duuxl"]
-[ext_resource type="Texture2D" uid="uid://01hn2rlji8n2" path="res://images/eye_monster_hurt_256_256/eye_monster_hurt_256_256.0004.png" id="40_xp7oh"]
 [ext_resource type="Texture2D" uid="uid://djmn6hn7n7r7q" path="res://images/eye_monster_attack_128_128/eye_monster_attack_128_128.0030.tga" id="41_seodd"]
 [ext_resource type="Texture2D" uid="uid://bk8qr6wfxlahs" path="res://images/eye_monster_chase_128_128/eye_monster_chase_128_128.0001.tga" id="42_0fkn8"]
 [ext_resource type="Texture2D" uid="uid://bc1lnjqm55sws" path="res://images/eye_monster_chase_128_128/eye_monster_chase_128_128.0002.tga" id="43_kvhvw"]
@@ -88,16 +84,26 @@
 [ext_resource type="Texture2D" uid="uid://dhg4i1xk1qjaw" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0013.tga" id="84_vo4q1"]
 [ext_resource type="Texture2D" uid="uid://wtrhbfg458xg" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0014.tga" id="85_c2x5k"]
 [ext_resource type="Texture2D" uid="uid://nm8f72e1xqdx" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0001.tga" id="85_mpxoo"]
+[ext_resource type="Texture2D" uid="uid://dru53jie0yc0y" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0001.tga" id="85_ucnm8"]
 [ext_resource type="Texture2D" uid="uid://daby4pyn58sy" path="res://images/smoke_poof_128_128/smoke_poof_128_128.0015.tga" id="86_duuxl"]
 [ext_resource type="Texture2D" uid="uid://c1qprwk44xr7o" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0002.tga" id="86_fty52"]
+[ext_resource type="Texture2D" uid="uid://b4my1gcvnkdtc" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0002.tga" id="86_qgksv"]
 [ext_resource type="Texture2D" uid="uid://c8q4vjnh07lnt" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0003.tga" id="87_dsrl2"]
+[ext_resource type="Texture2D" uid="uid://d2gkm35iv2022" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0003.tga" id="87_wieyk"]
+[ext_resource type="Texture2D" uid="uid://cpwgsgtt3oein" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0004.tga" id="88_qbv8y"]
 [ext_resource type="Texture2D" uid="uid://dunqcsh2o7tco" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0004.tga" id="88_r6quf"]
 [ext_resource type="Texture2D" uid="uid://ch40gh6fl4kym" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0005.tga" id="89_1jwd5"]
+[ext_resource type="Texture2D" uid="uid://b5xyvip7mbumq" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0005.tga" id="89_822fy"]
+[ext_resource type="Texture2D" uid="uid://v26dwpju2hde" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0006.tga" id="90_5b1sg"]
 [ext_resource type="Texture2D" uid="uid://c1oerpth30d4m" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0006.tga" id="90_6ga27"]
+[ext_resource type="Texture2D" uid="uid://dc5g22w0kavex" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0007.tga" id="91_5pgvd"]
 [ext_resource type="Texture2D" uid="uid://b6juqj5lr7d8g" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0007.tga" id="91_c8ku3"]
+[ext_resource type="Texture2D" uid="uid://dv4nsar87qlg2" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0008.tga" id="92_c7a44"]
 [ext_resource type="Texture2D" uid="uid://b8ec2g7yq05l3" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0008.tga" id="92_ub35w"]
+[ext_resource type="Texture2D" uid="uid://kbgh20rtksp2" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0009.tga" id="93_dr2wo"]
 [ext_resource type="Texture2D" uid="uid://dndgmb5jeamlq" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0009.tga" id="93_v2ux8"]
 [ext_resource type="Texture2D" uid="uid://dlbxocfsskwxa" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0010.tga" id="94_ihvk0"]
+[ext_resource type="Texture2D" uid="uid://y7stwo74qqp" path="res://images/eye_monster_hurt_128_128/eye_monster_hurt_128_128.0010.tga" id="94_w1gwe"]
 [ext_resource type="Texture2D" uid="uid://bgtjachysawkp" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0011.tga" id="95_mn4ha"]
 [ext_resource type="Texture2D" uid="uid://c1ucttx25vrbf" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0012.tga" id="96_4ilie"]
 [ext_resource type="Texture2D" uid="uid://4qb36vhfku5k" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0013.tga" id="97_011vf"]
@@ -434,16 +440,34 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("37_qg200")
+"texture": ExtResource("85_ucnm8")
 }, {
 "duration": 1.0,
-"texture": ExtResource("38_axpus")
+"texture": ExtResource("86_qgksv")
 }, {
 "duration": 1.0,
-"texture": ExtResource("39_gutfb")
+"texture": ExtResource("87_wieyk")
 }, {
 "duration": 1.0,
-"texture": ExtResource("40_xp7oh")
+"texture": ExtResource("88_qbv8y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_822fy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_5b1sg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_5pgvd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_c7a44")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_dr2wo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_w1gwe")
 }],
 "loop": false,
 "name": &"hurt",
@@ -840,6 +864,4 @@ billboard = 1
 double_sided = false
 texture_filter = 2
 sprite_frames = SubResource("SpriteFrames_qwje0")
-animation = &"death"
-frame = 11
-frame_progress = 1.0
+animation = &"hurt"
