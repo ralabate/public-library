@@ -1,8 +1,7 @@
-[gd_scene load_steps=13 format=3 uid="uid://bst5vkdgn78gb"]
+[gd_scene load_steps=12 format=3 uid="uid://bst5vkdgn78gb"]
 
 [ext_resource type="Script" uid="uid://bxdcii2a4x2dx" path="res://player/ui/hud.gd" id="1_8noor"]
 [ext_resource type="Texture2D" uid="uid://cshhmwe7q2vg5" path="res://images/hand_slap_256_256/hand_slap.0001.png" id="2_g20ms"]
-[ext_resource type="Texture2D" uid="uid://dbyodna1up0iv" path="res://images/hand_slap_256_256/hand_slap.0002.png" id="3_aty16"]
 [ext_resource type="Texture2D" uid="uid://3duqx63a4urv" path="res://images/hand_slap_256_256/hand_slap.0003.png" id="4_fqdj4"]
 [ext_resource type="Texture2D" uid="uid://c5hcmw02nasbi" path="res://images/hand_slap_256_256/hand_slap.0004.png" id="5_8noor"]
 [ext_resource type="Texture2D" uid="uid://cbnjjejioxotg" path="res://images/hand_slap_256_256/hand_slap.0005.png" id="6_d414j"]
@@ -15,12 +14,6 @@
 [sub_resource type="SpriteFrames" id="SpriteFrames_dprww"]
 animations = [{
 "frames": [{
-"duration": 1.0,
-"texture": ExtResource("2_g20ms")
-}, {
-"duration": 1.0,
-"texture": ExtResource("3_aty16")
-}, {
 "duration": 1.0,
 "texture": ExtResource("4_fqdj4")
 }, {
@@ -83,7 +76,7 @@ texture_filter = 1
 position = Vector2(640, 464)
 scale = Vector2(2, 2)
 sprite_frames = SubResource("SpriteFrames_dprww")
-animation = &"idle"
+animation = &"fire"
 
 [node name="HealthBar" type="ProgressBar" parent="."]
 unique_name_in_owner = true
