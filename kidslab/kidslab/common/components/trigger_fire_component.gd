@@ -2,14 +2,12 @@ class_name TriggerFireComponent extends Node
 
 
 signal node_instantiated(badguy: Node3D, location: Vector3, direction: Vector3)
-signal ammo_requested
 signal fired
 
 @export var projectile_template: PackedScene
 @export var vertical_offset: float
 @export var autoaim_region: Area3D
 
-var ability_template: PackedScene
 var direction: Vector3
 var can_fire: bool
 var autoaim_badguy_list: Array[Node3D]
@@ -26,12 +24,6 @@ func _physics_process(_delta: float) -> void:
 	if can_fire:
 		if Input.is_action_pressed("fire_projectile"):
 			spawn(projectile_template)
-		elif Input.is_action_pressed("trigger_ability"):
-			ammo_requested.emit()
-
-
-func use_current_ability() -> void:
-	spawn(ability_template)
 
 
 func spawn(template: PackedScene) -> void:

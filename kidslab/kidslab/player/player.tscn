@@ -1,14 +1,9 @@
-[gd_scene load_steps=15 format=3 uid="uid://r0agos3dx780"]
+[gd_scene load_steps=10 format=3 uid="uid://r0agos3dx780"]
 
 [ext_resource type="Script" uid="uid://docgf5x4voevf" path="res://player/player.gd" id="1_s7qer"]
 [ext_resource type="Script" uid="uid://bund4vdf4u4yo" path="res://common/components/health_component.gd" id="2_g4c7l"]
 [ext_resource type="Script" uid="uid://dt1p48op4tcvu" path="res://common/components/trigger_fire_component.gd" id="3_knn7v"]
 [ext_resource type="PackedScene" uid="uid://ddrgx7hx1ypm1" path="res://player/weapons/bullet.tscn" id="4_7pqkx"]
-[ext_resource type="Script" uid="uid://b5g5owk8uw2u2" path="res://common/components/universal_ammo_component.gd" id="5_uw77l"]
-[ext_resource type="Script" uid="uid://d0dbewhb72jh2" path="res://common/components/ability_inventory_component.gd" id="6_rptt4"]
-[ext_resource type="PackedScene" uid="uid://lbmsr1hnoc77" path="res://player/weapons/decoy_bullet.tscn" id="7_r7pn3"]
-[ext_resource type="PackedScene" uid="uid://clj2kgl355ryn" path="res://player/weapons/mine_bullet.tscn" id="8_b8hi5"]
-[ext_resource type="PackedScene" uid="uid://bjdsn54t3kwwb" path="res://player/weapons/lightning_bullet.tscn" id="9_2uvqg"]
 [ext_resource type="Script" uid="uid://bpdw05fio7u8e" path="res://common/components/key_inventory_component.gd" id="10_1s1yo"]
 [ext_resource type="PackedScene" uid="uid://bst5vkdgn78gb" path="res://player/ui/hud.tscn" id="11_2ieo8"]
 
@@ -39,19 +34,6 @@ projectile_template = ExtResource("4_7pqkx")
 vertical_offset = 0.5
 autoaim_region = NodePath("../AutoAimRegion")
 metadata/_custom_type_script = "uid://dt1p48op4tcvu"
-
-[node name="UniversalAmmoComponent" type="Node" parent="."]
-unique_name_in_owner = true
-script = ExtResource("5_uw77l")
-amount = 10
-metadata/_custom_type_script = "uid://b5g5owk8uw2u2"
-
-[node name="AbilityInventory" type="Node" parent="."]
-unique_name_in_owner = true
-script = ExtResource("6_rptt4")
-abilities = Array[PackedScene]([ExtResource("7_r7pn3"), ExtResource("8_b8hi5"), ExtResource("9_2uvqg")])
-ammo_required = Array[int]([5, 5, 10])
-metadata/_custom_type_script = "uid://d0dbewhb72jh2"
 
 [node name="KeyInventoryComponent" type="Node" parent="."]
 unique_name_in_owner = true

@@ -30,21 +30,22 @@ func _ready() -> void:
 
 	health_component.damage_received.connect(_on_damage_received)
 	health_component.death.connect(_on_death)
+	hud.set_health_bar_value(float(health_component.current_health) / health_component.MAX_HEALTH)
 
-	ability_inventory.selected_ability.connect(_on_ability_selected)
 	key_inventory_component.key_acquired.connect(_on_key_acquired)
-	uni_ammo_component.amount_changed.connect(_on_ammo_amount_changed)
 
 	trigger_fire_component.fired.connect(_on_weapon_fired)
-	trigger_fire_component.ammo_requested.connect(_on_ammo_requested)
 	trigger_fire_component.can_fire = true
-	trigger_fire_component.ability_template = ability_inventory.get_current_ability()
+
+	if ability_inventory:
+		var current_ability = ability_inventory.get_current_ability()
+		ability_inventory.selected_ability.connect(_on_ability_selected)
+		hud.set_ability_text(current_ability.resource_path)
+	if uni_ammo_component:
+		uni_ammo_component.amount_changed.connect(_on_ammo_amount_changed)
+		hud.set_ammo(uni_ammo_component.amount)
 
 	default_camera_pos = camera.position
-
-	hud.set_health_bar_value(float(health_component.current_health) / health_component.MAX_HEALTH)
-	hud.set_ability_text(trigger_fire_component.ability_template.resource_path)
-	hud.set_ammo(uni_ammo_component.amount)
 
 
 func _process(_delta: float) -> void:
@@ -119,7 +120,7 @@ func _on_weapon_fired() -> void:
 func _on_ammo_requested() -> void:
 	var amount_required = ability_inventory.get_ammo_required()
 	if uni_ammo_component.has_ammo(amount_required):
-		trigger_fire_component.use_current_ability()
+		trigger_fire_component.spawn(ability_inventory.get_current_ability())
 		uni_ammo_component.use_ammo(amount_required)
 
 
