@@ -1520,9 +1520,9 @@ shape = SubResource("ConvexPolygonShape3D_41rf6")
 
 [node name="FirstPersonController" parent="." instance=ExtResource("14_f714a")]
 transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 9.1, 0.9, -28.4)
-
-[node name="AudioAlertRegion" parent="FirstPersonController" index="6"]
-visible = false
+speed = 350
+sprint_speed = 550
+headbob_amount = 0.03
 
 [node name="ComputerMonitor" parent="." instance=ExtResource("15_6ec1d")]
 transform = Transform3D(0.4455, 0, 0, 0, 0.448477, -0.0879156, 0, 0.0392367, 1.00488, -17, 2.7, -5.6)
@@ -1612,6 +1612,5 @@ type = 2
 [node name="Door" parent="." instance=ExtResource("24_eqmau")]
 transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -28.25, 2, 0)
 
-[editable path="FirstPersonController"]
 [editable path="NodeTriggerArea"]
 [editable path="IncubatorTrigger"]
