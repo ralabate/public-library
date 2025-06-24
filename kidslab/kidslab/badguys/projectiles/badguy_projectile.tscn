@@ -13,7 +13,6 @@
 [ext_resource type="Texture2D" uid="uid://c8a4hfgiq37b4" path="res://images/eye_monster_bullet_128_128/eye_monster_bullet_128_128.0010.tga" id="11_ql17u"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_rtl8c"]
-radius = 0.319399
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_pa3p2"]
 animations = [{

@@ -212,7 +212,8 @@
 [ext_resource type="Texture2D" uid="uid://b1nrg8qfmyxi6" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0099.tga" id="183_1nrnq"]
 [ext_resource type="Texture2D" uid="uid://dao52pogw5e6" path="res://images/eye_monster_idle_128_128/eye_monster_idle_128_128.0100.tga" id="184_d34kq"]
 
-[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_bug4s"]
+[sub_resource type="SphereShape3D" id="SphereShape3D_c2x5k"]
+radius = 1.15
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_221m0"]
 
@@ -851,6 +852,7 @@ animations = [{
 collision_layer = 4
 collision_mask = 23
 script = ExtResource("1_fwdeh")
+movement_speed = 100.0
 
 [node name="HealthComponent" type="Node" parent="."]
 unique_name_in_owner = true
@@ -899,7 +901,8 @@ script = ExtResource("11_si3nu")
 metadata/_custom_type_script = "uid://mgr8rmq8nlia"
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
-shape = SubResource("CapsuleShape3D_bug4s")
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.3, 0)
+shape = SubResource("SphereShape3D_c2x5k")
 debug_color = Color(0, 0.6, 0.701961, 1)
 
 [node name="NavigationAgent3D" type="NavigationAgent3D" parent="."]
@@ -908,6 +911,7 @@ unique_name_in_owner = true
 [node name="PlayerDamageArea" type="Area3D" parent="."]
 unique_name_in_owner = true
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1)
+visible = false
 collision_layer = 64
 collision_mask = 2
 
@@ -917,6 +921,7 @@ debug_color = Color(1, 0, 0, 0.419608)
 
 [node name="DetectionArea" type="Area3D" parent="."]
 unique_name_in_owner = true
+visible = false
 collision_layer = 64
 collision_mask = 2
 

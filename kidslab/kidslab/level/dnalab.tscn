@@ -1574,11 +1574,10 @@ node_list = [NodePath("../Badguys/Eye"), NodePath("../Badguys/Eye2"), NodePath("
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0499992, 0, 0.9)
 shape = SubResource("BoxShape3D_i66or")
 
-[node name="BlueKeyDoor" parent="." instance=ExtResource("21_jv62o")]
+[node name="LabDoor" parent="." instance=ExtResource("21_jv62o")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, -6.25)
-required_key = 2
 
-[node name="Door2" parent="." instance=ExtResource("21_jv62o")]
+[node name="IncubationRoomDoor" parent="." instance=ExtResource("21_jv62o")]
 transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -6.25, 2, 0)
 
 [node name="Door3" parent="." instance=ExtResource("21_jv62o")]
