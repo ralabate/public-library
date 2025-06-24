@@ -1,0 +1,14 @@
+[remap]
+
+importer="func_godot.map"
+type="Resource"
+uid="uid://chl5gipu6ijh1"
+path="res://.godot/imported/dnalab.map-e2ea4d7f4896996ae2647f8f6329c93a.tres"
+
+[deps]
+
+source_file="res://level/maps/dnalab.map"
+dest_files=["res://.godot/imported/dnalab.map-e2ea4d7f4896996ae2647f8f6329c93a.tres"]
+
+[params]
+
