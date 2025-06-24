@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://b1ku6hpxm6hre"]
+
+[ext_resource type="Texture2D" uid="uid://cnvlt5s1fsi78" path="res://images/eye_monster_death_128_128/eye_monster_death_128_128.0030.tga" id="1_w5yde"]
+
+[node name="EyeCorpse" type="Node3D"]
+
+[node name="Sprite3D" type="Sprite3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.3, 0)
+pixel_size = 0.02
+billboard = 1
+double_sided = false
+texture_filter = 0
+texture = ExtResource("1_w5yde")

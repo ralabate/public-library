@@ -1,6 +1,8 @@
 extends Node
 
 
+# NOTE: The node calling register_instantiator must have the following signal:
+# node_instantiated(badguy: Node3D, location: Vector3, direction: Vector3)
 func register_instantiator(instantiator: Node) -> void:
 	if instantiator.has_signal("node_instantiated"):
 		instantiator.node_instantiated.connect(_on_node_instantiated)

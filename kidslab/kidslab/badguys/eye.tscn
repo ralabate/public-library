@@ -1,7 +1,8 @@
-[gd_scene load_steps=216 format=3 uid="uid://cmtujc58sv83y"]
+[gd_scene load_steps=217 format=3 uid="uid://cmtujc58sv83y"]
 
 [ext_resource type="Script" uid="uid://clhircl18kdhh" path="res://badguys/badguy.gd" id="1_fwdeh"]
 [ext_resource type="Script" uid="uid://bund4vdf4u4yo" path="res://common/components/health_component.gd" id="2_ar6uy"]
+[ext_resource type="PackedScene" uid="uid://b1ku6hpxm6hre" path="res://badguys/eye_corpse.tscn" id="2_duuxl"]
 [ext_resource type="PackedScene" uid="uid://ccha1k3c1jk0d" path="res://badguys/projectiles/badguy_projectile.tscn" id="4_n2rhl"]
 [ext_resource type="Script" uid="uid://tb00nu6v8wu2" path="res://common/components/ranged_attack_component.gd" id="4_nr4hi"]
 [ext_resource type="Script" uid="uid://cuiwxj3wnoqag" path="res://common/components/navigation_component.gd" id="5_wbu16"]
@@ -853,6 +854,7 @@ collision_layer = 4
 collision_mask = 23
 script = ExtResource("1_fwdeh")
 movement_speed = 150.0
+spawn_on_death = ExtResource("2_duuxl")
 
 [node name="HealthComponent" type="Node" parent="."]
 unique_name_in_owner = true

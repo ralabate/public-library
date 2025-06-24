@@ -2,11 +2,13 @@ extends CharacterBody3D
 class_name Badguy
 
 
+signal node_instantiated(node: Node3D, location: Vector3, direction: Vector3)
 signal death(location: Vector3)
 
 @export var movement_speed: float = 50.0
 @export var attack_damage: int = 1
 @export var use_detection_area: bool = false
+@export var spawn_on_death: PackedScene
 
 @onready var detection_area: Area3D = %DetectionArea
 @onready var player_damage_area: Area3D = %PlayerDamageArea
@@ -20,6 +22,8 @@ var movement_direction: Vector3
 
 
 func _ready():
+	InstantiationStation.register_instantiator(self)
+
 	add_to_group("badguys")
 	add_to_group("triggerable")
 
@@ -121,5 +125,10 @@ func _on_fsm_transitioned_state(to: String) -> void:
 		"BadguyDeathState":
 			animated_sprite.play("death")
 			await animated_sprite.animation_finished
+			node_instantiated.emit(
+				spawn_on_death.instantiate(),
+				global_position,
+				global_basis.z
+			)
 			death.emit(position)
 			queue_free()
