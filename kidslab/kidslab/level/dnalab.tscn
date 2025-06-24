@@ -1,4 +1,4 @@
-[gd_scene load_steps=250 format=4 uid="uid://c0b7xagkbdfxh"]
+[gd_scene load_steps=251 format=4 uid="uid://c0b7xagkbdfxh"]
 
 [ext_resource type="Script" uid="uid://d16wf7mv38fpx" path="res://addons/func_godot/src/map/func_godot_map.gd" id="1_gypge"]
 [ext_resource type="Resource" uid="uid://bkhxcqsquw1yg" path="res://addons/func_godot/func_godot_default_map_settings.tres" id="2_eqmau"]
@@ -24,6 +24,7 @@
 [ext_resource type="PackedScene" uid="uid://canar5qot5j80" path="res://level/interactive/trap_door.tscn" id="22_e1l12"]
 [ext_resource type="PackedScene" uid="uid://b178sxgv7g7lk" path="res://level/interactive/key.tscn" id="23_6hy0o"]
 [ext_resource type="PackedScene" uid="uid://b6rbv35j4xrj1" path="res://level/interactive/secret_door.tscn" id="24_eqmau"]
+[ext_resource type="PackedScene" uid="uid://dmiy7aglibji3" path="res://level/props/glass_window.tscn" id="25_q5dto"]
 
 [sub_resource type="Environment" id="Environment_w72v2"]
 ambient_light_source = 2
@@ -834,7 +835,7 @@ points = PackedVector3Array(-5.78736, 3.75709, -5.875, -5.96168, 1.7647, -5.875,
 points = PackedVector3Array(-15.125, 1.7647, -5.96168, -15.125, 3.75709, -5.78736, -18.875, 3.75709, -5.78736, -18.875, 1.7647, -5.96168, -18.875, 1.74291, -5.71263, -15.125, 1.74291, -5.71263, -18.875, 3.7353, -5.53834, -15.125, 3.7353, -5.53834)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_i66or"]
-size = Vector3(4, 1, 2.8)
+size = Vector3(5.5, 1, 2.8)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_el8tc"]
 size = Vector3(2, 1, 4)
@@ -1565,12 +1566,12 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.4, 1, -18)
 [node name="Eye5" parent="Badguys" instance=ExtResource("19_2m55p")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, -21.2)
 
-[node name="NodeTriggerArea" parent="." node_paths=PackedStringArray("node_list") instance=ExtResource("20_bgbov")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, -8.8)
+[node name="LabBadguyTrigger" parent="." node_paths=PackedStringArray("node_list") instance=ExtResource("20_bgbov")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.2, 0.5, -21.6)
 node_list = [NodePath("../Badguys/Eye"), NodePath("../Badguys/Eye2"), NodePath("../Badguys/Eye3"), NodePath("../Badguys/Eye4"), NodePath("../Badguys/Eye5")]
 
-[node name="CollisionShape3D" parent="NodeTriggerArea" index="0"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.9)
+[node name="CollisionShape3D" parent="LabBadguyTrigger" index="0"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0499992, 0, 0.9)
 shape = SubResource("BoxShape3D_i66or")
 
 [node name="BlueKeyDoor" parent="." instance=ExtResource("21_jv62o")]
@@ -1612,5 +1613,8 @@ type = 2
 [node name="Door" parent="." instance=ExtResource("24_eqmau")]
 transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -28.25, 2, 0)
 
-[editable path="NodeTriggerArea"]
+[node name="GlassWindow" parent="." instance=ExtResource("25_q5dto")]
+transform = Transform3D(-3.49691e-07, 0, 1, 0, 2.1, 0, -8, 0, -4.37114e-08, 6.25, 2.1, -18)
+
+[editable path="LabBadguyTrigger"]
 [editable path="IncubatorTrigger"]
