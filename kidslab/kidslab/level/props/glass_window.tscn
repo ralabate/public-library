@@ -1,4 +1,4 @@
-[gd_scene load_steps=3 format=3 uid="uid://dmiy7aglibji3"]
+[gd_scene load_steps=4 format=3 uid="uid://dmiy7aglibji3"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_r73fd"]
 transparency = 1
@@ -7,7 +7,13 @@ albedo_color = Color(0.0333333, 0, 1, 0.501961)
 [sub_resource type="QuadMesh" id="QuadMesh_4n1xi"]
 material = SubResource("StandardMaterial3D_r73fd")
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_r73fd"]
+size = Vector3(1, 1, 0.1)
+
 [node name="GlassWindow" type="Node3D"]
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="."]
 mesh = SubResource("QuadMesh_4n1xi")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("BoxShape3D_r73fd")
