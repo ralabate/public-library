@@ -45,7 +45,7 @@ func _on_body_entered(body: Node3D) -> void:
 			global_basis.z
 		)
 
-		dying = true
+	dying = true
 
 	# TODO: This should be moved out to a shortlived vfx node.
 	if has_node("AnimatedSprite3D"):
