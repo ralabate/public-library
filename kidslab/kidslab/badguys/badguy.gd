@@ -6,6 +6,10 @@ signal node_instantiated(node: Node3D, location: Vector3, direction: Vector3)
 signal death(location: Vector3)
 
 @export var movement_speed: float = 50.0
+@export var wake_delay_min: float = 0.5
+@export var wake_delay_max: float = 1.0
+@export var idle_delay_min: float = 0.5
+@export var idle_delay_max: float = 1.0
 @export var attack_damage: int = 1
 @export var use_detection_area: bool = false
 @export var spawn_on_death: PackedScene
@@ -54,6 +58,9 @@ func _physics_process(delta):
 
 
 func trigger() -> void:
+	await get_tree().create_timer(
+		randf_range(wake_delay_min, wake_delay_max)
+	).timeout
 	var player = get_tree().get_first_node_in_group("player")
 	_enter_chase_state(player)
 
@@ -115,6 +122,9 @@ func _on_navigation_position(location: Vector3) -> void:
 func _on_fsm_transitioned_state(to: String) -> void:
 	match to:
 		"BadguyIdleState":
+			await get_tree().create_timer(
+				randf_range(idle_delay_min, idle_delay_max)
+			).timeout
 			animated_sprite.play("idle")
 		"BadguyChaseState":
 			animated_sprite.play("chase")

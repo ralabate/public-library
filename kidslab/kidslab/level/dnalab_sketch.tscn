@@ -1381,7 +1381,7 @@ shape = SubResource("ConvexPolygonShape3D_tk6t3")
 [node name="FirstPersonController" parent="." instance=ExtResource("10_wqo2y")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.9, 4.8)
 
-[node name="AudioAlertRegion" parent="FirstPersonController" index="8"]
+[node name="AudioAlertRegion" parent="FirstPersonController" index="6"]
 visible = false
 
 [node name="ComputerMonitor" parent="." instance=ExtResource("13_pkq41")]
