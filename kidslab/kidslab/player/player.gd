@@ -18,9 +18,11 @@ extends CharacterBody3D
 @onready var audio_alert_region: Area3D = %AudioAlertRegion
 @onready var camera: Camera3D = %Camera3D
 @onready var hud = %HUD
+@onready var animation_player: AnimationPlayer = %AnimationPlayer
 
 var default_camera_pos: Vector3
 var headbob_timer = 0.0
+var is_dead = false
 
 
 func _ready() -> void:
@@ -49,11 +51,18 @@ func _ready() -> void:
 
 
 func _process(_delta: float) -> void:
+	if is_dead:
+		if Input.is_action_just_pressed("ui_accept"):
+			get_tree().reload_current_scene.call_deferred()
+
 	if Input.is_action_just_pressed("ui_cancel"):
 		Input.mouse_mode = Input.MOUSE_MODE_CAPTURED if Input.mouse_mode == Input.MOUSE_MODE_VISIBLE else Input.MOUSE_MODE_VISIBLE
 
 
 func _physics_process(delta: float) -> void:
+	if is_dead:
+		return
+
 	if Input.is_action_just_pressed("jump") and is_on_floor():
 		velocity.y = jump_velocity
 
@@ -91,6 +100,9 @@ func _physics_process(delta: float) -> void:
 
 
 func _input(event: InputEvent) -> void:
+	if is_dead:
+		return
+
 	if event is InputEventMouseMotion:
 		if Input.mouse_mode == Input.MOUSE_MODE_CAPTURED:
 			rotate_y(-deg_to_rad(event.screen_relative.x * mouse_turning_rate))
@@ -98,13 +110,22 @@ func _input(event: InputEvent) -> void:
 
 
 func _on_damage_received(_amount: int) -> void:
+	if is_dead:
+		return
+
 	var health = float(health_component.current_health) / health_component.MAX_HEALTH
 	hud.set_health_bar_value(health)
 	hud.trigger_hurt_flash()
 
 
 func _on_death() -> void:
-	get_tree().reload_current_scene.call_deferred()
+	if is_dead:
+		return
+
+	is_dead = true
+	trigger_fire_component.can_fire = false
+	animation_player.play("death")
+	await animation_player.animation_finished
 
 
 func _on_weapon_fired() -> void:
