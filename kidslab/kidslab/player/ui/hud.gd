@@ -2,8 +2,11 @@ extends Control
 class_name HUD
 
 
+@export var hurt_flash_color: Color = Color.RED
+@export var key_pickup_flash_color: Color = Color.WHITE
+
 @onready var weapon_sprite: AnimatedSprite2D = %WeaponSprite
-@onready var hurt_flash: ColorRect = %HurtFlashRect
+@onready var flash: ColorRect = %FlashRect
 @onready var health_bar: ProgressBar = %HealthBar
 @onready var key_inventory_container: HBoxContainer = %KeyInventoryContainer
 @onready var ability_label: Label = %AbilityLabel
@@ -11,7 +14,7 @@ class_name HUD
 
 
 func _ready() -> void:
-	hurt_flash.visible = false
+	flash.visible = false
 	weapon_sprite.play("idle")
 	for key_icon in key_inventory_container.get_children():
 		key_icon.visible = false
@@ -22,9 +25,18 @@ func set_health_bar_value(amount: float) -> void:
 
 
 func trigger_hurt_flash() -> void:
-	hurt_flash.visible = true
-	await get_tree().create_timer(0.1).timeout
-	hurt_flash.visible = false
+	_show_flash(0.1, hurt_flash_color)
+
+
+func trigger_key_pickup_flash() -> void:
+	_show_flash(0.1, key_pickup_flash_color)
+
+
+func _show_flash(time: float, color: Color) -> void:
+	flash.color = color
+	flash.visible = true
+	await get_tree().create_timer(time).timeout
+	flash.visible = false
 
 
 func trigger_weapon_animation() -> void:

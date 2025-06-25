@@ -135,3 +135,4 @@ func _on_ability_selected(scene: PackedScene) -> void:
 
 func _on_key_acquired(key: DoorKey.Type) -> void:
 	hud.set_key(key)
+	hud.trigger_key_pickup_flash()
