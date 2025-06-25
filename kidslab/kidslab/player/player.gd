@@ -17,7 +17,7 @@ extends CharacterBody3D
 @onready var uni_ammo_component: UniversalAmmoComponent = %UniversalAmmoComponent
 @onready var audio_alert_region: Area3D = %AudioAlertRegion
 @onready var camera: Camera3D = %Camera3D
-@onready var hud = %HUD
+@onready var hud: HUD = %HUD
 @onready var animation_player: AnimationPlayer = %AnimationPlayer
 
 var default_camera_pos: Vector3
@@ -33,6 +33,7 @@ func _ready() -> void:
 	health_component.damage_received.connect(_on_damage_received)
 	health_component.death.connect(_on_death)
 	hud.set_health_bar_value(float(health_component.current_health) / health_component.MAX_HEALTH)
+	hud.set_hurt_rect_value(0)
 
 	key_inventory_component.key_acquired.connect(_on_key_acquired)
 
@@ -113,9 +114,13 @@ func _on_damage_received(_amount: int) -> void:
 	if is_dead:
 		return
 
-	var health = float(health_component.current_health) / health_component.MAX_HEALTH
-	hud.set_health_bar_value(health)
+	var current_health = health_component.current_health
+	var health_ratio = float(current_health) / health_component.MAX_HEALTH
+	hud.set_health_bar_value(health_ratio)
 	hud.trigger_hurt_flash()
+
+	if current_health <= 50:
+		hud.set_hurt_rect_value(1.0 - health_ratio)
 
 
 func _on_death() -> void:

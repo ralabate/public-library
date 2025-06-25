@@ -7,6 +7,7 @@ class_name HUD
 
 @onready var weapon_sprite: AnimatedSprite2D = %WeaponSprite
 @onready var flash: ColorRect = %FlashRect
+@onready var hurt_rect: ColorRect = %HurtRect
 @onready var health_bar: ProgressBar = %HealthBar
 @onready var key_inventory_container: HBoxContainer = %KeyInventoryContainer
 @onready var ability_label: Label = %AbilityLabel
@@ -22,6 +23,10 @@ func _ready() -> void:
 
 func set_health_bar_value(amount: float) -> void:
 	health_bar.value = amount
+
+
+func set_hurt_rect_value(amount: float) -> void:
+	hurt_rect.color = Color(hurt_rect.color, lerpf(0.0, 0.75, amount))
 
 
 func trigger_hurt_flash() -> void:

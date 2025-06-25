@@ -60,6 +60,16 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_8noor")
 
+[node name="HurtRect" type="ColorRect" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 0, 0, 1)
+
 [node name="FlashRect" type="ColorRect" parent="."]
 unique_name_in_owner = true
 layout_mode = 1
@@ -80,6 +90,7 @@ animation = &"fire"
 
 [node name="HealthBar" type="ProgressBar" parent="."]
 unique_name_in_owner = true
+visible = false
 layout_mode = 1
 anchors_preset = 2
 anchor_top = 1.0
@@ -143,4 +154,3 @@ offset_right = -439.0
 offset_bottom = -1.0
 grow_horizontal = 0
 grow_vertical = 0
-text = "1,000,000"
