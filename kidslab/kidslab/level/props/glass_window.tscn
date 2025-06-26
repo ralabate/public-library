@@ -5,14 +5,22 @@ transparency = 1
 albedo_color = Color(0.0333333, 0, 1, 0.501961)
 
 [sub_resource type="QuadMesh" id="QuadMesh_4n1xi"]
+resource_local_to_scene = true
 material = SubResource("StandardMaterial3D_r73fd")
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_r73fd"]
-size = Vector3(1, 1, 0.1)
+resource_local_to_scene = true
+size = Vector3(1, 1, 0.5)
 
-[node name="GlassWindow" type="Node3D"]
+[node name="GlassWindow" type="StaticBody3D"]
+collision_mask = 6
 
-[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+[node name="Front" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.05)
+mesh = SubResource("QuadMesh_4n1xi")
+
+[node name="Back" type="MeshInstance3D" parent="."]
+transform = Transform3D(-1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 0, 0, -0.05)
 mesh = SubResource("QuadMesh_4n1xi")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]

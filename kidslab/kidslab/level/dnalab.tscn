@@ -1,4 +1,4 @@
-[gd_scene load_steps=467 format=4 uid="uid://c0b7xagkbdfxh"]
+[gd_scene load_steps=470 format=4 uid="uid://c0b7xagkbdfxh"]
 
 [ext_resource type="Script" uid="uid://d16wf7mv38fpx" path="res://addons/func_godot/src/map/func_godot_map.gd" id="1_gypge"]
 [ext_resource type="Resource" uid="uid://bkhxcqsquw1yg" path="res://addons/func_godot/func_godot_default_map_settings.tres" id="2_eqmau"]
@@ -1494,6 +1494,19 @@ points = PackedVector3Array(22.7126, 1.74291, 2.125, 22.9617, 1.7647, 2.125, 22.
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_el8tc"]
 size = Vector3(2, 1, 4)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_r73fd"]
+transparency = 1
+albedo_color = Color(0.0333333, 0, 1, 0.501961)
+
+[sub_resource type="QuadMesh" id="QuadMesh_uv5ka"]
+resource_local_to_scene = true
+material = SubResource("StandardMaterial3D_r73fd")
+size = Vector2(8, 2)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ytvpn"]
+resource_local_to_scene = true
+size = Vector3(8, 2, 0.5)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_i66or"]
 size = Vector3(4, 1, 2.8)
@@ -3337,7 +3350,16 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, -21.2)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, -6.25)
 
 [node name="GlassWindow" parent="Lab" instance=ExtResource("25_q5dto")]
-transform = Transform3D(-3.49691e-07, 0, 1, 0, 2.1, 0, -8, 0, -4.37114e-08, 6.25, 2.1, -18)
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 6.25, 2, -18)
+
+[node name="Front" parent="Lab/GlassWindow" index="0"]
+mesh = SubResource("QuadMesh_uv5ka")
+
+[node name="Back" parent="Lab/GlassWindow" index="1"]
+mesh = SubResource("QuadMesh_uv5ka")
+
+[node name="CollisionShape3D" parent="Lab/GlassWindow" index="2"]
+shape = SubResource("BoxShape3D_ytvpn")
 
 [node name="Computer Room" type="Node" parent="."]
 
@@ -3368,4 +3390,5 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 6.25)
 transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -6.25, 2, 18)
 
 [editable path="Incubator Room/IncubatorTrigger"]
+[editable path="Lab/GlassWindow"]
 [editable path="Hallway/LabBadguyTrigger"]
