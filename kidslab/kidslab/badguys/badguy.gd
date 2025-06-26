@@ -52,7 +52,7 @@ func _physics_process(delta):
 	if is_moving:
 		velocity = movement_direction * movement_speed * delta
 		var nav_target = navigation_component.target
-		look_at(transform.origin - nav_target.transform.basis.z)
+		look_at(nav_target.global_position)
 	
 	move_and_slide()
 
