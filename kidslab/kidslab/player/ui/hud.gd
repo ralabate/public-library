@@ -6,6 +6,7 @@ class_name HUD
 @export var key_pickup_flash_color: Color = Color.WHITE
 
 @onready var weapon_sprite: AnimatedSprite2D = %WeaponSprite
+@onready var special_weapon_sprite: AnimatedSprite2D = %SpecialWeaponSprite
 @onready var flash: ColorRect = %FlashRect
 @onready var hurt_rect: ColorRect = %HurtRect
 @onready var health_bar: ProgressBar = %HealthBar
@@ -13,10 +14,12 @@ class_name HUD
 @onready var ability_label: Label = %AbilityLabel
 @onready var ammo_label: Label = %AmmoLabel
 
+var current_weapon_sprite: AnimatedSprite2D
 
 func _ready() -> void:
 	flash.visible = false
-	weapon_sprite.play("idle")
+	set_special_weapon(false)
+
 	for key_icon in key_inventory_container.get_children():
 		key_icon.visible = false
 
@@ -44,10 +47,18 @@ func _show_flash(time: float, color: Color) -> void:
 	flash.visible = false
 
 
+func set_special_weapon(active: bool) -> void:
+	weapon_sprite.visible = false
+	special_weapon_sprite.visible = false
+
+	current_weapon_sprite = special_weapon_sprite if active else weapon_sprite
+	current_weapon_sprite.visible = true
+
+
 func trigger_weapon_animation() -> void:
-	weapon_sprite.play("fire")
-	await weapon_sprite.animation_finished
-	weapon_sprite.play("idle")
+	current_weapon_sprite.play("fire")
+	await current_weapon_sprite.animation_finished
+	current_weapon_sprite.play("idle")
 
 
 func set_ability_text(ability: String) -> void:

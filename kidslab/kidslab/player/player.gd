@@ -146,6 +146,7 @@ func _on_weapon_fired() -> void:
 
 func _on_num_projectiles_changed(amount: int) -> void:
 	hud.trigger_key_pickup_flash()
+	hud.set_special_weapon(amount > 1)
 
 
 func _on_ammo_requested() -> void:
