@@ -3393,6 +3393,26 @@ transform = Transform3D(-1, 0, -5.96046e-08, 0, 1, 0, 5.96046e-08, 0, -1, 0, 2, 
 [node name="LabClosetDoor" parent="Lab #2" instance=ExtResource("21_jv62o")]
 transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -6.25, 2, 18)
 
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.707107, 0.707107, 0, -0.707107, 0.707107, 0, 10.1, 0)
+light_energy = 0.1
+sky_mode = 1
+
+[node name="DirectionalLight3D2" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-1, -8.44439e-08, 2.26267e-08, -4.37114e-08, 0.707107, 0.707107, -7.57103e-08, 0.707107, -0.707107, 0, 10.1, 0)
+light_energy = 0.1
+sky_mode = 1
+
+[node name="DirectionalLight3D3" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1.13566e-07, -0.707107, 0.707107, -6.55671e-08, 0.707107, 0.707107, -1, -1.26666e-07, 3.394e-08, 0, 10.1, 0)
+light_energy = 0.1
+sky_mode = 1
+
+[node name="DirectionalLight3D4" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-4.37114e-08, 0.707107, -0.707107, 0, 0.707107, 0.707107, 1, 3.09086e-08, -3.09086e-08, 0, 10.1, 0)
+light_energy = 0.1
+sky_mode = 1
+
 [editable path="Incubator Room/IncubatorTrigger"]
 [editable path="Lab/GlassWindow"]
 [editable path="Hallway/LabBadguyTrigger"]
