@@ -60,11 +60,12 @@ func update_door_color() -> void:
 
 
 func _on_body_entered(body: Node3D) -> void:
+	body_list.append(body)
+
 	if is_open:
 		return
 
 	var can_open = false
-
 	if required_key == DoorKey.Type.NONE:
 		can_open = true
 	elif body.has_node("KeyInventoryComponent"):
@@ -74,8 +75,6 @@ func _on_body_entered(body: Node3D) -> void:
 	
 	if can_open:
 		open()
-	
-	body_list.append(body)
 
 
 func _on_body_exited(body: Node3D) -> void:
