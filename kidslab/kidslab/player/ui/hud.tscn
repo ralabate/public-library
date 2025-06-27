@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://bst5vkdgn78gb"]
+[gd_scene load_steps=9 format=3 uid="uid://bst5vkdgn78gb"]
 
 [ext_resource type="Script" uid="uid://bxdcii2a4x2dx" path="res://player/ui/hud.gd" id="1_8noor"]
 [ext_resource type="Texture2D" uid="uid://cshhmwe7q2vg5" path="res://images/hand_slap_256_256/hand_slap.0001.png" id="2_g20ms"]
@@ -7,9 +7,6 @@
 [ext_resource type="Texture2D" uid="uid://cbnjjejioxotg" path="res://images/hand_slap_256_256/hand_slap.0005.png" id="6_d414j"]
 [ext_resource type="Texture2D" uid="uid://cih5kedhciaqc" path="res://images/hand_slap_256_256/hand_slap.0006.png" id="7_s2mm4"]
 [ext_resource type="Texture2D" uid="uid://cfimogex0pugl" path="res://images/hand_slap_256_256/hand_slap.0007.png" id="8_1nfbc"]
-[ext_resource type="Texture2D" uid="uid://uqvgvk6s4uvk" path="res://images/hand_slap_256_256/hand_slap.0008.png" id="9_6rygf"]
-[ext_resource type="Texture2D" uid="uid://rxtd5mvubx2t" path="res://images/hand_slap_256_256/hand_slap.0009.png" id="10_uoa3p"]
-[ext_resource type="Texture2D" uid="uid://dsxhfomhdn8gk" path="res://images/hand_slap_256_256/hand_slap.0010.png" id="11_f6e8c"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_dprww"]
 animations = [{
@@ -28,15 +25,6 @@ animations = [{
 }, {
 "duration": 1.0,
 "texture": ExtResource("8_1nfbc")
-}, {
-"duration": 1.0,
-"texture": ExtResource("9_6rygf")
-}, {
-"duration": 1.0,
-"texture": ExtResource("10_uoa3p")
-}, {
-"duration": 1.0,
-"texture": ExtResource("11_f6e8c")
 }],
 "loop": false,
 "name": &"fire",
