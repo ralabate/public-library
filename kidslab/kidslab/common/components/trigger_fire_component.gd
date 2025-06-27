@@ -23,22 +23,31 @@ func _ready() -> void:
 func _physics_process(_delta: float) -> void:
 	if can_fire:
 		if Input.is_action_pressed("fire_projectile"):
-			spawn(projectile_template)
+			var spread_count = 5
+			var spread_angle = 30.0
+			var angle_step = spread_angle / (spread_count - 1)
+			var start_angle = -spread_angle / 2.0
+
+			for i in spread_count:
+				var angle = deg_to_rad(start_angle + i * angle_step)
+				var parent_basis = get_parent().global_transform.basis
+				var direction = parent_basis.z.rotated(Vector3.UP, angle)
+
+				node_instantiated.emit(
+					projectile_template.instantiate(),
+					get_parent().position + (Vector3.UP * vertical_offset),
+					direction.normalized()
+				)
+
+				fired.emit()
 
 
 func spawn(template: PackedScene) -> void:
 	var spawn_point = get_parent().position + (Vector3.UP * vertical_offset)
 	var autoaim_direction = get_autoaim_direction(spawn_point)
 
-	node_instantiated.emit(
-		template.instantiate(),
-		get_parent().position + (Vector3.UP * vertical_offset),
-		autoaim_direction
-	)
-
+	node_instantiated.emit(template.instantiate(), spawn_point, autoaim_direction)
 	fired.emit()
-	#Log.info("Triggered projectile -- pos: [%s] - dir: [%s]" %
-		#[spawn_point, autoaim_direction])
 
 
 func get_autoaim_direction(projectile_origin: Vector3) -> Vector3:
