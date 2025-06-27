@@ -42,8 +42,8 @@ func open() -> void:
 
 
 func update_door_color() -> void:
-	if has_node("%DoorMesh"):
-		var door_mesh = get_node("%DoorMesh")
+	if has_node("%KeyColor"):
+		var door_mesh = get_node("%KeyColor")
 		var door_material = StandardMaterial3D.new()
 
 		match required_key:
