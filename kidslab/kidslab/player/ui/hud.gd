@@ -53,6 +53,7 @@ func set_special_weapon(active: bool) -> void:
 
 	current_weapon_sprite = special_weapon_sprite if active else weapon_sprite
 	current_weapon_sprite.visible = true
+	current_weapon_sprite.play("idle")
 
 
 func trigger_weapon_animation() -> void:
