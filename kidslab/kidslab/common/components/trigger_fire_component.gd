@@ -42,6 +42,7 @@ func _physics_process(_delta: float) -> void:
 				fired.emit()
 
 
+# TODO: Bring back autoaim.
 func spawn(template: PackedScene) -> void:
 	var spawn_point = get_parent().position + (Vector3.UP * vertical_offset)
 	var autoaim_direction = get_autoaim_direction(spawn_point)
