@@ -38,6 +38,7 @@ func _ready() -> void:
 	key_inventory_component.key_acquired.connect(_on_key_acquired)
 
 	trigger_fire_component.fired.connect(_on_weapon_fired)
+	trigger_fire_component.num_projectiles_changed.connect(_on_num_projectiles_changed)
 	trigger_fire_component.can_fire = true
 
 	if ability_inventory:
@@ -141,6 +142,10 @@ func _on_weapon_fired() -> void:
 	trigger_fire_component.can_fire = false
 	await hud.trigger_weapon_animation()
 	trigger_fire_component.can_fire = true
+
+
+func _on_num_projectiles_changed(amount: int) -> void:
+	hud.trigger_key_pickup_flash()
 
 
 func _on_ammo_requested() -> void:

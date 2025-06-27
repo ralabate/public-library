@@ -3,6 +3,7 @@ class_name TriggerFireComponent extends Node
 
 signal node_instantiated(badguy: Node3D, location: Vector3, direction: Vector3)
 signal fired
+signal num_projectiles_changed(amount: int)
 
 @export var number_of_projectiles: int = 1
 @export var projectile_template: PackedScene
@@ -48,6 +49,11 @@ func spawn(template: PackedScene) -> void:
 	var autoaim_direction = get_autoaim_direction(spawn_point)
 	node_instantiated.emit(template.instantiate(), spawn_point, autoaim_direction)
 	fired.emit()
+
+
+func set_num_projectiles(n: int) -> void:
+	number_of_projectiles = n
+	num_projectiles_changed.emit(n)
 
 
 func get_autoaim_direction(projectile_origin: Vector3) -> Vector3:
