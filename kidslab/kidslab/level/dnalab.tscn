@@ -3415,7 +3415,7 @@ light_energy = 0.1
 sky_mode = 1
 
 [node name="SpreadFirePickup" parent="." instance=ExtResource("27_ytvpn")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -32.3, 0.6, 1.52737e-06)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10, 0.6, 18)
 
 [editable path="Incubator Room/IncubatorTrigger"]
 [editable path="Lab/GlassWindow"]
